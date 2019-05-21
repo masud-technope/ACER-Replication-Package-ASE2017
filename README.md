@@ -41,27 +41,27 @@ Subject Systems (8)
 Materials Included
 -----------------------------------------
 **Baseline Method**
- - Query
- - Query Effectiveness
+ - ```Query:``` Baseline queries
+ - ```QE:``` Query Effectiveness achieved by the baseline queries
 
 **ACER**
- - Query
- - Query Effectiveness
+ - ```Query:``` Queries suggested by ACER
+ - ```QE:``` Query Effectiveness achieved by the ACER queries
  
-  **ACER (Method Signature Only)**
-  - Query
- - Query Effectiveness
+ **ACER (Method Signature Only)**
+ - ```Query:``` Queries suggested by ACER using method signatures only
+ - ```QE:``` Query Effectiveness achieved by ACER queries
 
  **ACER (Field Signature Only)**
-  - Query
- - Query Effectiveness
+ - ```Query:``` Queries suggested by ACER using field signatures only 
+ - ```QE:``` Query Effectiveness achieved by ACER queries
 
  **ACER (Method Signature + Field Signature)**
-  - Query
- - Query Effectiveness
+ - ```Query:``` Queries suggested by ACER using method signatures + field signatures
+ - ```QE:``` Query Effectiveness achieved by ACER queries
  
-  **ACER Training**
-  - Sampled training data
+  **ACER-Query Difficulty Model**
+ - Sampled training data
  - Query Difficulty prediction model
  
 
@@ -73,10 +73,9 @@ author={Rahman, M. M. and Roy, C. K.},
 booktitle={Proc. ASE}, 
 title={Improved Query Reformulation for Concept Location using CodeRank and Document Structures}, 
 year={2017}, 
-pages={428--439}
-}
-```
+pages={428--439}}
 
+```
 
 
 
