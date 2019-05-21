@@ -1,0 +1,28 @@
+36800	bug find replace find replace dialog retain previous replace text	color test format time writer create text layout request event
+41156	log threads reasonable names	test facility time string stack debug names tag gram print
+41476	bug cvs repository explorer fails filename colon character	test parse file pattern top appender logger rolling element throwable
+32582	bug logical physical mapping problem model element files problem	parse element test appender layout add format table start watch
+46983	bug generalize type meaning grey tree entries	test top file check rolling error throwable format layout policy
+49812	bug choosing bean component palette takes time	bean appender notification dynamic property table add register count layout
+44386	bug bookmarks bookmark single click	test bad appender debug string pattern info logrb log trace
+42281	unit tests fail java gcj jrockit	test facility top queue check appender layout factory throwable rollover
+43113	move log branch log trunk	pattern log debug info error converter logrb array trace arg
+42283	eclipse java compiler warnings usused imports members serializationuid	file appender pattern test add logger key debug parse renderer
+49003	bug move members open reveal moved method refactoring	test pattern appender file log buffer error logger add info
+40951	log release	string log appender layout syslog info server trace header arg
+41219	stacktraces exceptions disappear occsionally	pattern test buffer writer layout expected stack info entry database
+48784	links code broken javadocs	appender add level renderer object file logger log period enabled
+45982	support layout specification output mdc key pairs	pattern key parse throwable logger object lookup event time property
+34874	bug context menu ijavavariable ijavainspectexpression ijavawatchexpression	test throwable layout queue event context check format lookup file
+37182	exception exception tostring log fail	test appender check queue layout topic binding security table element
+50238	bug implementation install informationpresenter uninstall	test appender logger pattern file bad error location log deserialization
+45636	tests datelayout failing ill initialized dateformat	test format time option layout pattern expected cache position zone
+17862	version getversion method requested	method time cached key info request server buffer socket output
+41565	timezone specifier pattern layout reported work	format pattern time layout converter expected test info option buffer
+44644	contenttype layout text html	test request file expected dialog problem create layout location ignores
+28647	add flush level capability fileappender	test file appender event pattern logger error add output multicast
+46574	bug unabled collect object reference properly	appender test event remove thread writer map renderer request add
+50287	bug editormgmt support opening external editor istorageeditorinput	test file logger throwable appender key server parse category lookup
+42099	expressionfilter backport
+35831	log build jdk	bean info notification method dynamic appender register logger string writer
+42108	loggingevent accessors compatible log	test pattern size cell table event num buffer count icon
