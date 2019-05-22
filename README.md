@@ -10,8 +10,7 @@ Improved Query Reformulation for Concept Location using CodeRank and Document St
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
 
-```
-Abstract: During software maintenance, developers usually deal with a significant number of software change requests. 
+**Abstract:** During software maintenance, developers usually deal with a significant number of software change requests. 
 As a part of this, they often formulate an initial query from the request texts, and then attempt to map the concepts 
 discussed in the request to relevant source code locations in the software system (a.k.a., concept location). 
 Unfortunately, studies suggest that they often perform poorly in choosing the right search terms for a change task. 
@@ -23,7 +22,8 @@ Experiments with 1,675 baseline queries from eight subject systems report that o
 techniques in query reformulation not only validates our empirical findings but also demonstrates the 
 superiority of our technique.
 
-```
+**Download [this paper](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)**
+
 
 Subject Systems (8)
 -------------------------------
