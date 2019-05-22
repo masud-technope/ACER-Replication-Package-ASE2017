@@ -37,7 +37,7 @@ Subject Systems (8)
 7. sling (76)
 8. tomcat70 (454)
  
-**Total: 1675**
+**Total: 1,675**
 
 Materials Included
 -----------------------------------------
