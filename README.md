@@ -77,7 +77,8 @@ year={2017},
 pages={428--439}}
 
 ```
-
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
 
 
 
