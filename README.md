@@ -3,13 +3,14 @@
 
 # Improved Query Reformulation for Concept Location using CodeRank and Document Structures
 
-Accepted Paper at ASE 2017   [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="20px" width="20" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
+Accepted Paper at ASE 2017   
 ---------------------------------
 ```
 Improved Query Reformulation for Concept Location using CodeRank and Document Structures
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
 
 **Abstract:** During software maintenance, developers usually deal with a significant number of software change requests. 
 As a part of this, they often formulate an initial query from the request texts, and then attempt to map the concepts 
