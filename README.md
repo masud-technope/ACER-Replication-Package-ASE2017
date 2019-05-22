@@ -22,7 +22,9 @@ Experiments with 1,675 baseline queries from eight subject systems report that o
 techniques in query reformulation not only validates our empirical findings but also demonstrates the 
 superiority of our technique.
 
-**Download [this paper](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)**
+ **Download [this  <img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="20px" width="20" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)**
+
 
 
 Subject Systems (8)
