@@ -81,6 +81,8 @@ pages={428--439}}
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
 
 
+# Related Projects: [BLIZZARD](https://github.com/masud-technope/BLIZZARD-Replication-Package-ESEC-FSE2018), [STRICT](https://github.com/masud-technope/STRICT-Replication-Package), and [QUICKAR](https://github.com/masud-technope/QUICKAR-Replication-Package-ASE2016)
+
 
 ## Something not working as expected?
 
