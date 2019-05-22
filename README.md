@@ -3,7 +3,8 @@
 
 # Improved Query Reformulation for Concept Location using CodeRank and Document Structures
 
-Accepted Paper at ASE 2017
+Accepted Paper at ASE 2017   [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="20px" width="20" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
 ---------------------------------
 ```
 Improved Query Reformulation for Concept Location using CodeRank and Document Structures
@@ -21,9 +22,6 @@ Experiments with 1,675 baseline queries from eight subject systems report that o
 71% of the baseline queries which is highly promising. Comparison with five closely related existing 
 techniques in query reformulation not only validates our empirical findings but also demonstrates the 
 superiority of our technique.
-
- **Download [this  <img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="20px" width="20" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)**
 
 
 
