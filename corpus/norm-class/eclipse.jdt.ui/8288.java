@@ -1,0 +1,1 @@
+object constant alfred object alfred

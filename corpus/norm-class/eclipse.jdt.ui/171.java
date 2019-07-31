@@ -1,0 +1,1 @@
+i test interface method itestinterfacemethod foo foo parameter fooparameter parameter object parameterobject

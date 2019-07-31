@@ -1,0 +1,1 @@
+resolve local field resolvelocalfield foo fred bar fred

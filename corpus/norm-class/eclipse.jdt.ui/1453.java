@@ -1,0 +1,1 @@
+java security permission test import add top level testimportaddtoplevel foo permission

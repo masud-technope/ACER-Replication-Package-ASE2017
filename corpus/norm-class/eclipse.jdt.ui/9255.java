@@ -1,0 +1,1 @@
+get g getg set g setg number get g getg set g setg set g setg

@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration test enum test functional interface functionalinterface foo

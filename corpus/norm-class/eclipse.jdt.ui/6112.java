@@ -1,0 +1,1 @@
+foo ideal end pos idealendpos ideal ideal ideal end pos idealendpos ideal end pos idealendpos ideal length

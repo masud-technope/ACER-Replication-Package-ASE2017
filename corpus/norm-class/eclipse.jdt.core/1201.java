@@ -1,0 +1,1 @@
+directory comparator directorycomparator compare file second files secondfiles second files secondfiles length files length string error message errormessage number jars files second files secondfiles length second directory absolute path seconddirectoryabsolutepath files length first directory absolute path firstdirectoryabsolutepath log error logerror error message errormessage

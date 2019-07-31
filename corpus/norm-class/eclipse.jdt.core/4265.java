@@ -1,0 +1,1 @@
+test foo string args args length system println usage parse double parsedouble args parse double parsedouble args values system println eval perform arithmetic represented constant bar values eval

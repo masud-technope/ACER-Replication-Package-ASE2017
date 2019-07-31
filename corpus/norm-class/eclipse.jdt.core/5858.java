@@ -1,0 +1,1 @@
+test wksp eclipse proposal mode current content assist determine proposal mode determineproposalmode i document idocument string current proposal mode currentproposalmode

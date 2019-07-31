@@ -1,0 +1,1 @@
+static variables tests staticvariablestests string static variables tests staticvariablestests string nop string pub str pubstr string pro t str protstr string def str defstr string priv str privstr nop fcn main string args static variables tests staticvariablestests fcn

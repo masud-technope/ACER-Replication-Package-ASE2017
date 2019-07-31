@@ -1,0 +1,1 @@
+resolve type declaration resolvetypedeclaration other type othertype

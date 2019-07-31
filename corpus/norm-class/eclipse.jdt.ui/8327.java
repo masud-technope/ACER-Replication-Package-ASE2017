@@ -1,0 +1,1 @@
+name conflict nameconflict test same local testsamelocal main foo foo

@@ -1,0 +1,1 @@
+resolve method declaration in interface resolvemethoddeclarationininterface main string args foo

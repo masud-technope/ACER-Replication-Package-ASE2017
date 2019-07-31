@@ -1,0 +1,1 @@
+test qualified field ref testqualifiedfieldref string field foo field

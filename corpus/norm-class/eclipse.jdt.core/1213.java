@@ -1,0 +1,1 @@
+test comments block string foo outer scope outerscope object existing variable existingvariable outer scope outerscope get binding getbinding variable resolve hidden field string variable object get binding getbinding string string variable

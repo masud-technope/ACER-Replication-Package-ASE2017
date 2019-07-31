@@ -1,0 +1,1 @@
+resolve catch argument type resolvecatchargumenttype foo exception

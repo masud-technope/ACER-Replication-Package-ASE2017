@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation noreference intended referenced clients no ref class norefclass string f no ref class field fnorefclassfield test no ref class method norefclassmethod

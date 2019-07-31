@@ -1,0 +1,1 @@
+java util array list arraylist java util iterator java util list foo list array list arraylist add eclipse bar bar list arg iterator iter arg iterator iter has next hasnext string element string iter system println element

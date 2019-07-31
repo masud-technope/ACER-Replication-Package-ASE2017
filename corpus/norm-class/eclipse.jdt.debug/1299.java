@@ -1,0 +1,1 @@
+console variable line length consolevariablelinelength main string args repeat integer parse int parseint args system println start repeat system println system println system println system println system println

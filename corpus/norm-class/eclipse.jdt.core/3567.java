@@ -1,0 +1,1 @@
+get document getdocument new file name newfilename string buffer stringbuffer working dir workingdir append file separator append local file name localfilename append document count documentcount append ext ention extention to string tostring

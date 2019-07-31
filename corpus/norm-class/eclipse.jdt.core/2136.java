@@ -1,0 +1,1 @@
+test foo string string length

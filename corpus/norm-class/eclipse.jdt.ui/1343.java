@@ -1,0 +1,1 @@
+enum get square getsquare test get square getsquare

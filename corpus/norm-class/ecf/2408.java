@@ -1,0 +1,1 @@
+copyright eugen reiswich rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors eugen reiswich initial api implementation org eclipse ecf tests provider xmpp remote service remoteservice org eclipse ecf provider xmpp identity xmppid i example service iexampleservice xmppid get client d getclientid

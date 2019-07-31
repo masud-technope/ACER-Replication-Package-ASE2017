@@ -1,0 +1,1 @@
+bugs test foo string string is string isstring object string

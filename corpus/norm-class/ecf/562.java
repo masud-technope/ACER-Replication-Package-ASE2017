@@ -1,0 +1,1 @@
+org eclipse ecf remote service remoteservice events org eclipse ecf core identity org eclipse equinox concurrent i future ifuture i remote service reference retrieved event iremoteservicereferenceretrievedevent i remote service event iremoteserviceevent getidfilter string get filter getfilter i future ifuture get async result getasyncresult

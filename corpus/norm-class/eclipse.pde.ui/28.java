@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation classes hierarchy classes internal internal class internalclass remove internal super class removeinternalsuperclass internal class internalclass

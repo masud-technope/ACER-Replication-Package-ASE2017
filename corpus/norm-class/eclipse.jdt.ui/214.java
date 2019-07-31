@@ -1,0 +1,1 @@
+object system println get name getname string get top name gettopname top main string argv

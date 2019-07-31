@@ -1,0 +1,1 @@
+javadoc test bug testbug test a testa string pattern ignore string include wildcard characters include characters verbatim expand wildcards escape back slash backslash string literals java represent patterns don for get forget escape characters represented pattern represented ignore info string get pattern getpattern

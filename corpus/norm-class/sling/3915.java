@@ -1,0 +1,1 @@
+org apache sling installer avoid warnings creating test bundles dummy

@@ -1,0 +1,1 @@
+simple java util function supplier test lambda testlambda supplier integer add supplier integer sum sum supplier integer supplier integer supplier supplier

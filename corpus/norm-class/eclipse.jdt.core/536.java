@@ -1,0 +1,1 @@
+test pack test static class staticclass member parent member object obj obj parent obj parent get parent getparent parent

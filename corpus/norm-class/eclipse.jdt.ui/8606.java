@@ -1,0 +1,1 @@
+receiver test implicit receiver field testimplicitreceiverfield string field foo field eclipse bar field eclipse

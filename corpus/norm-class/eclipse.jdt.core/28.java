@@ -1,0 +1,1 @@
+test test foo test object str i stri object

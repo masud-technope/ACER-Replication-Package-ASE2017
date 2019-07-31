@@ -1,0 +1,1 @@
+test foo get class getclass main string args foo

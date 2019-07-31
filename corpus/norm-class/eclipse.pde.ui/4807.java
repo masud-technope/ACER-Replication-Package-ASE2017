@@ -1,0 +1,1 @@
+package name packagename org eclipse jface text rules i whitespace detector iwhitespacedetector xml whitespace detector xmlwhitespacedetector i whitespace detector iwhitespacedetector is whitespace iswhitespace

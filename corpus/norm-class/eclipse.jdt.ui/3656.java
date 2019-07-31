@@ -1,0 +1,1 @@
+test static import none teststaticimportnone static import no reference staticimportnoreference foo

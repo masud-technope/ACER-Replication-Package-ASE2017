@@ -1,0 +1,1 @@
+copyright peter nehrer comp osent composent rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors peter nehrer initial api implementation org eclipse ecf internal sdo java serializable author pnehrer request data graph message requestdatagraphmessage serializable serialversionuid

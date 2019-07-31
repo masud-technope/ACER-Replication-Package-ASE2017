@@ -1,0 +1,1 @@
+resolve interface resolveinterface

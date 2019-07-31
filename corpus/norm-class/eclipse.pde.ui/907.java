@@ -1,0 +1,1 @@
+test class testclass foo noextend inner test class innertestclass deprecated foo

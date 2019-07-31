@@ -1,0 +1,1 @@
+java security permission test import add enclosing testimportaddenclosing foo parameter fooparameter permission permissions foo parameter fooparameter permission permissions permissions permissions foo foo parameter fooparameter parameter object parameterobject

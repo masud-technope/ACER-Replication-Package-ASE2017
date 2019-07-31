@@ -1,0 +1,1 @@
+foo expected foo bar isfb is foo bar isfoobar is foo bar isfoobar

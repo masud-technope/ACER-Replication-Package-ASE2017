@@ -1,0 +1,1 @@
+takeanumber number takeanumber number takeanumber number unrelated takeanumber number unrelated takeanumber object unrelated takeanumber number unrelated takeanumber integer unrelated takeanumber number takeanumber number number takeanumber number double value doublevalue takeanumber unrelated number takeanumber number unrelated takeanumber number unrelated takeanumber number

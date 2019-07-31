@@ -1,0 +1,1 @@
+foo local zork local zorklocal string

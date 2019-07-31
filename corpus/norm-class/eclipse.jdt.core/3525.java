@@ -1,0 +1,1 @@
+test wksp eclipse status code constant indicating linking permitted project severity error category workspace foo

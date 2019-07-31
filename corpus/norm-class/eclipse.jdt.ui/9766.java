@@ -1,0 +1,1 @@
+static instance staticinstance static instance staticinstance foo string args static instance staticinstance static instance staticinstance system println bar string args static instance staticinstance static instance staticinstance system println

@@ -1,0 +1,1 @@
+simple test nested calls testnestedcalls string to inline toinline string string bar system println test nested calls testnestedcalls to inline toinline test nested calls testnestedcalls to inline toinline

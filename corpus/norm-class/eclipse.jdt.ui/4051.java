@@ -1,0 +1,1 @@
+test static import read write teststaticimportreadwrite static import read write reference staticimportreadwritereference foo

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse debug tests targets hcr class hcrclass local string string local local main string args hcr class hcrclass clazz hcr class hcrclass clazz

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation java lang error dummy test exception exception avoid npe exceptions mis handled contexts bug test exception testexception error serialversionuid

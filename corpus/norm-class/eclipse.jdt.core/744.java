@@ -1,0 +1,1 @@
+test comments foo accessing fields constructor call permitted

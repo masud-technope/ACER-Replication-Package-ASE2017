@@ -1,0 +1,1 @@
+test enum bar constant foo bar foo bar constant

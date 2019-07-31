@@ -1,0 +1,1 @@
+package name packagename dictionary service dictionaryservice register dictionary param dictionary dictionary register dictionary registerdictionary dictionary dictionary remove dictionary param dictionary dictionary removed unregister dictionary unregisterdictionary dictionary dictionary check existence word dictionaries param word word checked word dictionary check string word

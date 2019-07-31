@@ -1,0 +1,1 @@
+foo comparable foo comparable string compare to compareto string todo auto generated method stub foo string string foo string string invoke foo

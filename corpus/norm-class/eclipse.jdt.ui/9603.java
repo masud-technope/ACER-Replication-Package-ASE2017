@@ -1,0 +1,1 @@
+replace all replaceall klass klass konstant klass klass klass klass klass klass konstant

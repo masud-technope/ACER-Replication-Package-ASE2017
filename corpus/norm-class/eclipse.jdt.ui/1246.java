@@ -1,0 +1,1 @@
+test method instance testmethodinstance string bar foo foo

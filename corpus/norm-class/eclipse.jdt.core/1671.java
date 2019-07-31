@@ -1,0 +1,1 @@
+resolve local variable resolvelocalvariable foo foo object object bar toto object

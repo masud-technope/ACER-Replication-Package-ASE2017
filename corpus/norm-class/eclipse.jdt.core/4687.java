@@ -1,0 +1,1 @@
+some class someclass foo get some long value getsomelongvalue get some other value getsomeothervalue

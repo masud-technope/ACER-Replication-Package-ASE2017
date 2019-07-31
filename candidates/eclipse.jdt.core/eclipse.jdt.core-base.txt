@@ -1,0 +1,198 @@
+33806	Bug Code assist failure assignment loop hides previous variables
+23573	Bug AST clone source locations
+405038	Bug formatter infix expression formatting broken spaces binary
+383046	compiler Error reported lambda expression subsequent parse error
+152135	Bug breakpoints Hovering conditional breakpoint condition
+178760	Bug Copy Paste mechanism work
+405069	compiler codegen Generate code method references
+234074	Bug Compliance test fails launched JRE Dcompliance
+410207	Bug Compiler incorrectly reports error message resolved indirectly referenced required files
+403036	Bug Wrong message content Javadoc
+438875	Bug correct project file encodings Unix delimiter
+385132	compiler syntax error ARROW COLON COLON shouls
+398490	Don source file build path
+176320	Bug linear progress open type dialog
+65738	Bug builder Build automatically save
+110797	Bug multiple task tags single tasks view complete tag
+456395	Bug compile Java code
+366298	publish org eclipse jdt annotation bundle
+413913	Investigate failures
+420084	method resolved receiver imported statically
+357110	Bug Problem classes referenced jars folders type resolved
+403705	Investigate failures
+42243	Bug Incorrect syntax diagnosis source mode
+14597	Bug rearrange source code
+385293	compiler compiler accepts normal modifiers type arguments
+363293	Bug resource leaks org eclipse jdt compiler tool tests
+429340	Bug content assist Javadoc proposals deprecated tag
+25377	Bug Error location correct empty array initializer
+418599	Bug rid compile warnings official build
+25890	Bug code assist displays members expressions
+410402	Investigate failures
+153399	Bug javadoc JDT Core warn tag correctly
+341296	Bug classpath file read modifications write error
+11076	Bug Deleted configs remain favorite list
+462147	Bug Documentation compiler options Mars cycle
+384320	compiler Syntax error mixing type annotations reference expressions
+78151	Bug Insert single proposals automatically insert prefix
+391500	compiler Type annotations Qualified Allocation Expressions dropped
+399695	compiler migrate parser syntax methods
+51529	Bug Organize imports confused references Javadoc
+403810	tags adjusting
+402818	formatter Code carrying interfaces halt formatting
+402819	formatter formatting intersection types
+483228	Bug adopt JLS revision
+399769	compiler identifier trigger diagnostic
+364450	Dubious path error triggers full rebuild
+147877	Bug source array access isn correct
+485302	Bug Missing warnings Wildcards annotations
+162740	Bug Error website
+343480	Bug compiler Incorrect confusing error message field declaration
+73675	Bug dom AST creation pipeline
+339913	Bug compiler Misleading error message annotations method body
+80339	Bug Wrong error message expected writing
+144858	Bug compiler resilient duplicate locals
+26588	Bug Code Assist variable relevant initialization
+383968	compiler update checking method modifiers methods
+383970	compiler Detail message Illegal modifier method misses
+426998	compiler method java lang java lang String applicable arguments java lang java lang String
+450037	Bug compiler Bogus error message Unhandled exception type Object
+291322	Bug Test errors running JDT Core tests Windows
+74753	Bug codeassist failing type parameter
+482309	Bug Organize Imports work accessible binary types
+403457	compiler NPE WildcardBinding signature
+71705	CodeAssist failure simple test
+430108	Bug type wizards Creating pkg type pkg result code error
+336934	compiler NPE Scope getTypeOrPackage
+412726	API checking anonymous creation corresponds Functional
+149562	Bug Small problem enumerations statements
+385111	compiler Compiler fails flag undefined annotation type
+464977	Bug compiler Deprecated bit
+451677	Bug compiler missing type inference
+418919	compiler internal Remove forcing creation annotated bindings
+416886	dom ITypeBinding qualifier QualifiedTypeReference wrong
+17531	Bug GlobalActions File Save fails entering valid file
+424075	Bug Compiler regression
+181393	Bug DefaultASTVisitor doesn override methods
+415911	compiler NPE TYPE annotated method missing type
+135328	Bug EJB Creation Wizard fails ejb jar xml invalid
+391331	compiler Compiler replicate annotations mixed targets
+24747	Bug incorrect compile error message
+398520	Bug bindings annotations Annotations binary constructor match source code
+124099	Bug compiler incorrect merge flowInfo UnconditionalFlowInfo addInitializationsFrom flow info
+381121	grammar Arrays allowed reference expressions
+399567	error message reference compiler
+480462	Bug add external annotations Guava libraries
+483534	Bug search Open Method error parameterized methods
+43212	Bug variable recognized code completion
+427223	Bug compiler NPE resolution method arg type
+429279	Java search support degrades indexing performance
+471270	Bug Enrich IllegalArgumentsExceptions actual arguments org eclipse jdt internal core util Util
+490724	Bug compiler Compilation source classfile aborts reference member type parameterized type
+126180	Bug compiler NPE reporting invalid enclosing type
+3313	Severe Performance Java Model redundancies GFKTUN
+399600	ASTConverter retrieveEndOfRightParenthesisPosition fails cases
+419057	ITypeBinding getModifiers misses implicit member
+103672	Bug compiler problem VARARGS ARGUMENT explains solutions
+193784	Bug Proprietary licenses
+456960	Bug Broken classfile generated incorrect annotation usage
+335118	Bug avoid code pattern unnecessarily signal potential JDT Core code
+424226	method method reference
+384317	compiler smarts needed Scanner jumpOver
+179529	Bug Eclipse takes lot time big workspace
+83297	Bug Annotation bindings don provide declared elements methods
+487781	Bug bogus error editor referenced type type annotations type parameter
+405889	compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup
+340365	Bug Problems APIs TryStatementWithResources DisjunctiveType
+168331	Bug compiler AbstractMethodError method
+30099	Bug NamingConvention suggestArgumentNames guess returned
+30102	Bug NamingConvention Tests fail
+399768	DOM AST Type Annotation Tests
+381345	care Java major version
+381358	Compiler gracefully reject JSR constructs source levels
+403881	formatter Receiver parameter halts formatting
+36271	Bug CodeAssist treat array clone visible
+416181	compiler Inalid assignment rejected compiler
+41395	Bug StackOverflowError pasting code
+71113	improve DOM AST specs bindings JLS constructs
+148944	Bug render resource folders JARs
+165346	Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative
+230885	Bug content assist NPE ParameterGuesser createVariable
+334315	Bug compiler Problem types missing superclass superinterfaces Object missing types
+424444	VerifyError constructor reference primitive array
+96765	Bug Code completion work enum constants
+412155	compiler Calling deprecated method separate lambda ClassCastException terminates AST generation
+419331	compiler Weird error reference type annotations type parameter declarations
+425493	Bug Compiler regression
+427538	Bug infrastructure Enable CompletionTests ResolveTests rtstubs jar
+426515	dom ast Bindings reconciler missing type annotations
+388634	Test failure Compliance compliance
+420413	dom ast AST newArrayType Type create dimension array
+405051	JavaModel refreshExternalArchives happen search primed
+416313	compiler Typeids unique plausibly broken cherry picking
+39499	Bug keyword completion work anonymous classes
+41554	Bug Assertion failure search
+426590	compiler Compiler error tenary
+407131	dom ast ASTRewrite support ReferenceExpression nodes family
+421473	compiler Delayed assignment declaring scope arguments creates race condition
+417388	TypeBinding TypeReference parameter type annotations
+420458	dom ast JLS ASTParser multi dimensional array reference Javadoc
+420456	AIOOB analysis code
+416379	parser type annotations type methods
+420482	ExecutableTypeImpl getParameterTypes include type annotation type parameter
+401035	tests started failing
+411273	compiler Bogus error unhandled exceptions unchecked exceptions thrown method reference
+421536	compiler Verify error small program preserved unused variables
+426676	compiler Wrong method type inferred lambda expression
+414384	type annotation abbreviated marked type
+388800	adjust tests JRE
+404169	Bug deprecation warnings test projects junit framework
+475865	JDT deletes code
+420582	compiler Compiler creation array creation unbounded wildcard type arguments
+427748	Bug compiler convert type
+418528	internal Tests pass suite fail suite suites
+416480	Bug Error bytecode generated ECJ compiler leads IncompatibleClassChangeError
+383714	compiler Compile fails reject constructs modes
+415470	compiler Type annotations declaration vanishing
+27370	Bug code assist working
+421620	compiler wrong compile error TYPE annotation exception
+421628	dom ast api document rules ITypeBinding equality
+86779	Bug AST resolveWellKnownType support primitive type wrappers
+209661	Bug ILocalVariable method parameter misses annotations
+424718	compiler API compatibility AST TypeReference
+484114	Bug content assist Flow sensitive typing doesn work autocompletion condition
+177962	Bug timestamp working copy
+445231	Bug compiler IllegalAccessError running Eclipse compiled
+466730	Bug Java single method generics ambiguous inheritance
+145202	Bug positive reference analyzer negated
+415541	compiler Type annotations body initializer dropped
+104245	Bug AST newCompilationUnit javadoc error
+30516	Bug typo javadoc IPackageFragmentRoot isArchive
+301894	Bug OutOfMemory error building large project annotations
+433989	Bug Nested reference incorrectly marked compile error
+398158	Receiver qualifier simple qualified
+29516	Bug SearchEngine regressions
+480075	Bug Nested Terniary Lambda derives unknown
+386901	Bug Eclipse pass annotated classes annotation processor
+249692	Bug ImportRewriteAnalyzer honor formatter setting
+29536	Bug Check IResource getLocation
+73573	Bug CodeAssist ArrayIndexOutOfBoundsException genric type completion
+148328	Bug javadoc nested unescaped XML tags
+396139	define JRE build targeting BETA JAVA
+484220	Bug dom ast compiler Invalid AST structure
+417659	dom ast test failures ast structure debug tracing
+383884	compiler Compiler tolerates illegal dimension annotation literal expressions
+424845	Wrong resolution type compliance settings
+422800	compiler Missing code implementation compiler
+428985	Bug type inference find nullness annotated type
+79809	Bug dom javadoc support type parameter Javadoc tags
+25539	Unexpected inaccurate search
+406469	dom ast ASTRewrite support PackageQualifiedType
+497603	Bug compiler type inference bug
+318401	Bug FUP Clarify eclipse compiler behavior imports shadowing
+417759	NPE analysis
+69598	Auto Completion loop
+396258	adopt syntax annotations qualified type names NullTypeAnnotationTest
+430069	Test failures JRE
+481276	Bug Error markers removed fixing annotations
+441338	Bug combine type annotations substitution parameterized type

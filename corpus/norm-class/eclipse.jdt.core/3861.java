@@ -1,0 +1,1 @@
+packages stand search enumeration tests enum team philippe is manager ismanager david jerome olivier kent frederic enum role manager developper age role role team team age age age age age is manager ismanager set role setrole mgr role mgr role manager role developper

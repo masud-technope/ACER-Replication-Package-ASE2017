@@ -1,0 +1,1 @@
+bar object foo string bar object foo string

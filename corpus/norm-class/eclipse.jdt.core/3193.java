@@ -1,0 +1,1 @@
+ambiguous syntax demo ambiguoussyntaxdemo main string args system printf

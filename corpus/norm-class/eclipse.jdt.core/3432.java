@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors wharley initial api implementation org eclipse jdt apt tests external annotations loader test loadertest test annotation processor loaded loader test annotation loadertestannotation nls string

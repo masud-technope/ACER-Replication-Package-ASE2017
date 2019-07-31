@@ -1,0 +1,1 @@
+initializer test string eclipse extracted extracted string system println

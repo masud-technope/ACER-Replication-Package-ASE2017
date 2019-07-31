@@ -1,0 +1,1 @@
+test wksp eclipse sets build logger parameter code class name classname code code org apache tools ant build logger buildlogger code implementation instantiated runtime logger called build events code org apache tools ant build event buildevent code build logger permitted build foo string class name classname

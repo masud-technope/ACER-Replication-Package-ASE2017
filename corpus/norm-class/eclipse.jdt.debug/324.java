@@ -1,0 +1,1 @@
+java util vector loop adding collection variable details variabledetails main string args vector vector add integer system println

@@ -1,0 +1,1 @@
+simple test catch clause testcatchclause foo bar bar

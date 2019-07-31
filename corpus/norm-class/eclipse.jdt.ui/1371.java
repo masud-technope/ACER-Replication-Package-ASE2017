@@ -1,0 +1,1 @@
+main string args gugguseli print print star decorator stardecorator star decorator stardecorator string decorate string decorate system println star decorator stardecorator decorate to string tostring

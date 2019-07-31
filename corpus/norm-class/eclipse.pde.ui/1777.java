@@ -1,0 +1,1 @@
+invoke dynamic invokedynamic java util arrays tests invoke dynamic reference instance method arbitrary object test string array arrays sort array string compare to ignore case comparetoignorecase

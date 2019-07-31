@@ -1,0 +1,1 @@
+org eclipse jdt compiler apt tests org eclipse jdt compiler apt tests annotations foo org eclipse jdt compiler apt tests annotations t foo tfoo foo jep t foo tfoo t foo tfoo foo string field

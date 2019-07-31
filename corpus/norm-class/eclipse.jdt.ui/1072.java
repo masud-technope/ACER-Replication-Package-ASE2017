@@ -1,0 +1,1 @@
+test raw sub type testrawsubtype foo comparable get name getname string get name getname

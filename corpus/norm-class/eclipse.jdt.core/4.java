@@ -1,0 +1,1 @@
+resolve constructor call of member type resolveconstructorcallofmembertype foo

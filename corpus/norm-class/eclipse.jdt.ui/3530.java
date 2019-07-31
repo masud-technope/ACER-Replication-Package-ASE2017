@@ -1,0 +1,1 @@
+object some class someclass

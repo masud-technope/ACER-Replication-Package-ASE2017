@@ -1,0 +1,1 @@
+test tab codnivel nomnivel codautoriza nomusrcia tipautoriza nomautoriza codctoautoriza nomctoautoriza codmon nommon mcainh import eautoriza importeautoriza num decimales numdecimales

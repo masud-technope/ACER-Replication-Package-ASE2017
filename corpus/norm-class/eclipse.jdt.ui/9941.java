@@ -1,0 +1,1 @@
+some new class somenewclass some new class somenewclass another some new class anothersomenewclass some new class somenewclass foo some new class somenewclass some new class in inner somenewclassininner

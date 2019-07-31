@@ -1,0 +1,1 @@
+exception foo string string

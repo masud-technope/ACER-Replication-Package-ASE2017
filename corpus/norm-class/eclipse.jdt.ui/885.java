@@ -1,0 +1,1 @@
+bugs test object get image getimage string foo object get image getimage object object get image getimage

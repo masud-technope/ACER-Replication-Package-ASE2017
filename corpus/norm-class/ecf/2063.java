@@ -1,0 +1,1 @@
+copyright ibm rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse ecf file transfer filetransfer events socket i socket listener isocketlistener handle socket event handlesocketevent i socket event isocketevent event

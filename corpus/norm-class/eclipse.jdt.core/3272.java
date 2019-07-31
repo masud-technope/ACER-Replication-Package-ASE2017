@@ -1,0 +1,1 @@
+resolve type in comment resolvetypeincomment

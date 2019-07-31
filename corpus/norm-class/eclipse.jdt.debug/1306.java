@@ -1,0 +1,1 @@
+throwsnpe main string args throwsnpe an object anobject throwsnpe an object anobject throw baby throwbaby null pointer exception nullpointerexception an object anobject throw baby throwbaby throw baby throwbaby null pointer exception nullpointerexception

@@ -1,0 +1,1 @@
+ends on same line endsonsameline system println foo foo nls string foo foo

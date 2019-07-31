@@ -1,0 +1,1 @@
+test default package point top level testdefaultpackagepointtoplevel main string args test default package point top level testdefaultpackagepointtoplevel foo foo xer yer system println xer yer

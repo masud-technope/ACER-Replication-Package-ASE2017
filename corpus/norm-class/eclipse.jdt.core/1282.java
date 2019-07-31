@@ -1,0 +1,1 @@
+resolve type empty selection resolvetypeemptyselection object

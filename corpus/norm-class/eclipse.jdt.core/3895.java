@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors mkaufman bea initial api implementation org eclipse jdt apt tests annotations noop no op annotation noopannotation nls string

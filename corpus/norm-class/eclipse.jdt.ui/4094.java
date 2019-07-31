@@ -1,0 +1,1 @@
+allow loadtime allowloadtime instance constant instance system println constant

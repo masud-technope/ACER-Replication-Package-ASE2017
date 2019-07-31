@@ -1,0 +1,1 @@
+test bug search matches search or pattern orpattern

@@ -1,0 +1,1 @@
+bug main string args table empty

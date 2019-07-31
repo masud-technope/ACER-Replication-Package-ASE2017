@@ -1,0 +1,1 @@
+junit runner java awt component junit framework view details failure failure detail view failuredetailview returns component trace view traceview component get component getcomponent details test failure testfailure show failure showfailure test failure testfailure failure clears view clear

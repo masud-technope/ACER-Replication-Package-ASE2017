@@ -1,0 +1,1 @@
+object test generic read testgenericread field foo field

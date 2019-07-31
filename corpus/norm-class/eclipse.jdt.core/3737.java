@@ -1,0 +1,1 @@
+resolve method declaration in anonymous resolvemethoddeclarationinanonymous resolve method declaration in anonymous resolvemethoddeclarationinanonymous object arg foo resolve method declaration in anonymous resolvemethoddeclarationinanonymous bar object select me selectme

@@ -1,0 +1,1 @@
+resolve abstract method resolveabstractmethod test abstract class abstractclass foo abstract class abstractclass super interface superinterface

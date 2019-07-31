@@ -1,0 +1,1 @@
+test field of local type testfieldoflocaltype foo bar foobar listener test field of local type testfieldoflocaltype f test ftest listener f test ftest test field of local type testfieldoflocaltype bar foo foo string get property getproperty add listener addlistener listener bar add listener addlistener object

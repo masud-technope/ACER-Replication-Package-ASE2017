@@ -1,0 +1,1 @@
+i test interface method itestinterfacemethod foo string param blubb

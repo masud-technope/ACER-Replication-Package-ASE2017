@@ -1,0 +1,1 @@
+base test postfix int testpostfixint field foo set field setfield get field getfield set field setfield get field getfield get field getfield field set field setfield field field field

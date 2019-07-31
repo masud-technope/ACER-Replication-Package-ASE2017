@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration test inline method ref array testinlinemethodrefarray fi arr fiarr test inline method ref array testinlinemethodrefarray fi arr fiarr fi arr fiarr object fi arr fiarr object fi arr fiarr functional interface functionalinterface foo

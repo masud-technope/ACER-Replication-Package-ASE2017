@@ -1,0 +1,1 @@
+test string fd font name fdfontname string new variable newvariable tmp fd font name fdfontname cff string tmp file name tmpfilename new variable newvariable txt

@@ -1,0 +1,1 @@
+java security permission cloneable permission per m perm java security acl permission acl object per m perm object acl

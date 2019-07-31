@@ -1,0 +1,1 @@
+object comparable marker string zork

@@ -1,0 +1,1 @@
+test unsupported noextend tag enum constant enum enum test noextend

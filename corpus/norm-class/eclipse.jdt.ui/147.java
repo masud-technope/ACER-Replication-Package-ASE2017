@@ -1,0 +1,1 @@
+body decl on same line bodydeclonsameline string bar string foo ambiguous nls nls string constant foo bar nls nls string str ange strange string constant

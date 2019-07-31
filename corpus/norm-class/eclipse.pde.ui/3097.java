@@ -1,0 +1,1 @@
+noextend test class testclass foo noextend noinstantiate inner test class innertestclass foo

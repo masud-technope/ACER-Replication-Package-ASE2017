@@ -1,0 +1,1 @@
+copyright remy chi jian suen rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors remy chi jian suen remy suen gmail initial api implementation org eclipse ecf internal sync resources core i view iview add object remove object set input setinput object

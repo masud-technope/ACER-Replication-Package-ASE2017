@@ -1,0 +1,1 @@
+java file java util map test use in local class testuseinlocalclass main provider local file serialversionuid local string foo map map bar

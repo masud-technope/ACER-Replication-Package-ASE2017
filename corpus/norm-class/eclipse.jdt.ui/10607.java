@@ -1,0 +1,1 @@
+some field somefield enum my enum myenum foo bar some method somemethod foo system println foo bar system println bar

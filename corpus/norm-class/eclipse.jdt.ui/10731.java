@@ -1,0 +1,1 @@
+some inner someinner string

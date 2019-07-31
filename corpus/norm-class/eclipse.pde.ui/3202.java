@@ -1,0 +1,1 @@
+test unsupported noreference tag enum constant enum enum test noreference

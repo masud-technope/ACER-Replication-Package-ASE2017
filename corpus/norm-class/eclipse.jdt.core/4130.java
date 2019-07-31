@@ -1,0 +1,1 @@
+targets annotation processor tests annotationprocessortests bug java lang annotation element type elementtype java lang annotation retention java lang annotation retention policy retentionpolicy java lang annotation target retention retention policy retentionpolicy target element type elementtype type e bean ebean

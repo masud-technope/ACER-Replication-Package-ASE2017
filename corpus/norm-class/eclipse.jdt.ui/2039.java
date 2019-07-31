@@ -1,0 +1,1 @@
+varargs test string foo string strings string foo extracted strings extracted string string strings string string strings system println string

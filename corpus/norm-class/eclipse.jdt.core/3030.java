@@ -1,0 +1,1 @@
+test enum my inner enum myinnerenum

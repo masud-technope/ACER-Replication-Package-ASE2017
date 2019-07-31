@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets negative code syntactic semantic errors missing types types missing expected unresolved desired behavior javadoc javax lang model element general missing types replaced empty types negative foo param boo param

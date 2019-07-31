@@ -1,0 +1,1 @@
+test num secuk numsecuk codcia codnivel nomnivel codautoriza nomusrcia tipautoriza nomautoriza codctoautoriza nomctoautoriza import eautoriza importeautoriza codmon nommon num decimales numdecimales codusr fecactu mcainh

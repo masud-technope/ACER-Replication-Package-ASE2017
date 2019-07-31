@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse jdt internal junit runner junit framework test null prioritizer nullprioritizer i test prioritizer itestprioritizer test prior itize prioritize test input input

@@ -1,0 +1,1 @@
+resolve local member type declaration resolvelocalmembertypedeclaration foo member member of member memberofmember

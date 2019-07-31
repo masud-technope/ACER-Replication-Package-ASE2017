@@ -1,0 +1,1 @@
+author weinand change template generated type comment window preferences java code generation code comments get h ours gethours

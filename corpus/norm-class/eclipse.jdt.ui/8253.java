@@ -1,0 +1,1 @@
+conflicting enclosing instance foo foo

@@ -1,0 +1,1 @@
+enum nd power ndpower test nd power ndpower

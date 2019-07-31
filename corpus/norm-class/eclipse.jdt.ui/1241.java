@@ -1,0 +1,1 @@
+string foo string get f getf

@@ -1,0 +1,1 @@
+generics test foo param extracted param extracted param foo param

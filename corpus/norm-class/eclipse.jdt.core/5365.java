@@ -1,0 +1,1 @@
+regression test bug type hierarchy missing anonymous type string foo

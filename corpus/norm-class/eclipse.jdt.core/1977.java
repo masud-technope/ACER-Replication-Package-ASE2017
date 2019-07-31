@@ -1,0 +1,1 @@
+targets bug java lang annotation element type elementtype java lang annotation retention java lang annotation retention policy retentionpolicy java lang annotation target type some type sometype generates empty named generated generated some type generatedsometype retention retention policy retentionpolicy source target element type elementtype type generate

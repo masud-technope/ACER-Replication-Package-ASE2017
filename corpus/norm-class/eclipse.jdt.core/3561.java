@@ -1,0 +1,1 @@
+my class myclass get my object getmyobject my class myclass my class myclass do some hting dosomehting something bad somethingbad illegal bla exception illegalblaexception bad bla

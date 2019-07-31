@@ -1,0 +1,1 @@
+foo undeclared foo

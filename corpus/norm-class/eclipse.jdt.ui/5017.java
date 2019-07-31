@@ -1,0 +1,1 @@
+call string method eclipse integer method

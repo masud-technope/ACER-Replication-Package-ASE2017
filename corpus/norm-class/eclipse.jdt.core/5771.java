@@ -1,0 +1,1 @@
+test foo system println main string args string foo success

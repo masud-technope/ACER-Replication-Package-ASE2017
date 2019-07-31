@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation generic class usage class genericclassusageclass testcdiamond generic class usage class genericclassusageclass number clazz generic class usage class genericclassusageclass

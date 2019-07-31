@@ -1,0 +1,1 @@
+receiver test name implicit receiver testnameimplicitreceiver implicit receiver implicitreceiver foo bar bar main implicit receiver implicitreceiver implicit receiver implicitreceiver foo

@@ -1,0 +1,1 @@
+binary classes bin enum binenum test foo bin enum binenum string is enum isenum

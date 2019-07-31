@@ -1,0 +1,1 @@
+simple test primitive array testprimitivearray main foo

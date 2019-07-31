@@ -1,0 +1,1 @@
+generics test foo local foo

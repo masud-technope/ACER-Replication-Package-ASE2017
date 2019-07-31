@@ -1,0 +1,1 @@
+foo local use flag useflag local variable binding localvariablebinding unused unused secret local local declaration local declaration bits ast node astnode is local declaration reachable k islocaldeclarationreachablemask declaration reachable

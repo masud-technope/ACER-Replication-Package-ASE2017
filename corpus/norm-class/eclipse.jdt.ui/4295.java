@@ -1,0 +1,1 @@
+test deprecated external class externalclass

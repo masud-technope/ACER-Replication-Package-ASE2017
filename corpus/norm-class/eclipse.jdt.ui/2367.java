@@ -1,0 +1,1 @@
+call test statement with function teststatementwithfunction main foo foo bar bar system println bar called

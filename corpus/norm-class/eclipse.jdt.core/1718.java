@@ -1,0 +1,1 @@
+test bug method declaration field initializer bar object object foo

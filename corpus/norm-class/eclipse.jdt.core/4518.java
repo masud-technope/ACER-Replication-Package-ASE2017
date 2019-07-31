@@ -1,0 +1,1 @@
+copyright and reas andreas gudian rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets model order ordered string method b methodb field string method a methoda

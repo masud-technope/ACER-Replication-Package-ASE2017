@@ -1,0 +1,1 @@
+position position get x getx set x setx get y gety set y sety get z getz set z setz

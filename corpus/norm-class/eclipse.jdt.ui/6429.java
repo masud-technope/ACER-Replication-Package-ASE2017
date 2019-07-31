@@ -1,0 +1,1 @@
+foo object str temp str equals temp

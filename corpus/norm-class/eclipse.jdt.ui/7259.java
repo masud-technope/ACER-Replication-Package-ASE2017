@@ -1,0 +1,1 @@
+enum color red color green color pink

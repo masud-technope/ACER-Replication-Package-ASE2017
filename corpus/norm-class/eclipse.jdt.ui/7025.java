@@ -1,0 +1,1 @@
+enum test enum get enum getenum test test count count test total test foo bar test bar

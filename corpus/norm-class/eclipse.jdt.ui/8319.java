@@ -1,0 +1,1 @@
+java util test local var use testlocalvaruse foo abstract list abstractlist list array list arraylist list list list

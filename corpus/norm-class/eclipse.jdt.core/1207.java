@@ -1,0 +1,1 @@
+test bug npe match locator matchlocator lookup type lookuptype field foo field length

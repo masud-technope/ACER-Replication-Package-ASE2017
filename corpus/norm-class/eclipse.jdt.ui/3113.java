@@ -1,0 +1,1 @@
+java util testmulticuclass test multi u testmulticu testmulticuinterface foo list collection

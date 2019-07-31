@@ -1,0 +1,1 @@
+some new class somenewclass in initializer ininitializer some new class somenewclass some new class in initializer somenewclassininitializer

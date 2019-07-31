@@ -1,0 +1,1 @@
+print variable number lines output console chars main string args lines integer parse int parseint args system err println begining lines system println system err println

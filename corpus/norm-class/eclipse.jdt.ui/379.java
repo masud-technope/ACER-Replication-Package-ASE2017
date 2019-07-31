@@ -1,0 +1,1 @@
+valid selection validselection test foo comment extracted extracted foo comment

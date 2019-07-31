@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets model java lang annotation inherited inherited anno z annoz string annozstring anno zint annozint

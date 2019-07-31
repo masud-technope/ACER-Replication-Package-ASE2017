@@ -1,0 +1,1 @@
+string foo cmd create argument createargument foo test error set file setfile dest dir destdir get absolute file getabsolutefile

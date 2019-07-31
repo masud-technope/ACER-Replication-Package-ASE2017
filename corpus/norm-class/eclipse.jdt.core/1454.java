@@ -1,0 +1,1 @@
+copyright walter harley rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors eclipse cafewalter initial api implementation org eclipse jdt apt pluggable tests annotations look at lookat

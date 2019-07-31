@@ -1,0 +1,1 @@
+semicolon test foo extracted extracted

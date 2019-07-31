@@ -1,0 +1,1 @@
+test main string args object java print stream printstream system println

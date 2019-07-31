@@ -1,0 +1,1 @@
+receiver test implicit receiver method testimplicitreceivermethod foo faz faz bar faz faz faz

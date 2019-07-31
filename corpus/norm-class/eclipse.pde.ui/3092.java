@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse pde internal core build i build object ibuildobject is in the model isinthemodel set in the model setinthemodel in the model inthemodel

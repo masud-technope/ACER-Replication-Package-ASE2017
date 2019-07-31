@@ -1,0 +1,1 @@
+test my interface myinterface main string args my interface myinterface myi my interface myinterface myi to string tostring

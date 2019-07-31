@@ -1,0 +1,1 @@
+locals test foo avail extracted avail extracted avail

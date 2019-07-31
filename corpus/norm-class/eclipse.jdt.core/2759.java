@@ -1,0 +1,1 @@
+test java lang annotation element type elementtype java lang annotation retention java lang annotation retention policy retentionpolicy java lang annotation target retention retention policy retentionpolicy runtime target element type elementtype method element type elementtype type path string string string string default definition defaultdefinition ref ines refines

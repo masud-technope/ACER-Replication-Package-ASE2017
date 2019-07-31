@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation generic method usage class genericmethodusageclass noreference method intended referenced clients generic class usage class genericclassusageclass param

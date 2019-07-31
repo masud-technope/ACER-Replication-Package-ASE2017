@@ -1,0 +1,1 @@
+inheritance update impl getter setter inheritanceupdateimplgettersetter inheritance update getter setter inheritanceupdategettersetter string test test foo system println test test test test test

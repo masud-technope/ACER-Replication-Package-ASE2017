@@ -1,0 +1,1 @@
+java util list test parametric type with parametric super type testparametrictypewithparametricsupertype foo list string

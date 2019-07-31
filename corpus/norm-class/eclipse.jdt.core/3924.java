@@ -1,0 +1,1 @@
+test foo local local member localmember local member localmember vector

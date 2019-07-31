@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration test annot john test annot string john string annot john annot john test annot john enum test

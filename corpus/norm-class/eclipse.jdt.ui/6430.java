@@ -1,0 +1,1 @@
+java security permission test body update testbodyupdate permission foo parameter fooparameter permission string foo parameter fooparameter permission string foo foo parameter fooparameter parameter object parameterobject parameter object parameterobject string parameter object parameterobject parameter object parameterobject

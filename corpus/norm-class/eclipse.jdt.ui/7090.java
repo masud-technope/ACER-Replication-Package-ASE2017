@@ -1,0 +1,1 @@
+name conflict nameconflict test same type testsametype main foo foo

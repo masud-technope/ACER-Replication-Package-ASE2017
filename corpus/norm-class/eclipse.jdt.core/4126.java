@@ -1,0 +1,1 @@
+test bug hierarchy get all super types getallsupertypes include superinterfaces

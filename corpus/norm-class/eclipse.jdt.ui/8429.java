@@ -1,0 +1,1 @@
+varargs test foo string args extracted args extracted string args system println args system println args

@@ -1,0 +1,1 @@
+test bug renaming doesn update references super class superclass string constant sub class subclass super class superclass test main string arguments system println sub class subclass constant

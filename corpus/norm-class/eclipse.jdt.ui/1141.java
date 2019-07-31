@@ -1,0 +1,1 @@
+argument java serializable test varargs testvarargs warnings varargs serializable args serializable arg args system println arg single argument transfer singleargumenttransfer warnings args warnings warnings varargs args

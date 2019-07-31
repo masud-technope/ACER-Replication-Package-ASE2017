@@ -1,0 +1,1 @@
+test static import write teststaticimportwrite get x getx set x setx test static import write teststaticimportwrite

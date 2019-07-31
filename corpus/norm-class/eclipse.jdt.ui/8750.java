@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration test enum color pink yellow enum box test color pink box color color test color pink

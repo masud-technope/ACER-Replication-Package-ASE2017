@@ -1,0 +1,1 @@
+string enum string integer value of valueof

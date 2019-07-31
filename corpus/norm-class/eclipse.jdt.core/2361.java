@@ -1,0 +1,1 @@
+type with constructor typewithconstructor type with constructor typewithconstructor

@@ -1,0 +1,1 @@
+test foo my class myclass

@@ -1,0 +1,1 @@
+type comment typecomment template foo foo foo foo

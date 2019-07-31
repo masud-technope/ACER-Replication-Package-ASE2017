@@ -1,0 +1,1 @@
+foo generated nls display name lbl displaynamelbl set text settext sign aling messages signalingmessages get string getstring ait properties composite control provider aitpropertiescompositecontrolprovider

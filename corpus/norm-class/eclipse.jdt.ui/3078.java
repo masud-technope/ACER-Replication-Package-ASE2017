@@ -1,0 +1,1 @@
+object enum test enum read testenumread test string field foo string get field getfield string get field getfield field set field setfield string field field field

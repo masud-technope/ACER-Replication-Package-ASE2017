@@ -1,0 +1,1 @@
+package name packagename org eclipse swt graphics rgb ixml color constants ixmlcolorconstants rgb xml comment rgb rgb proc instr rgb rgb string rgb rgb rgb rgb tag rgb

@@ -1,0 +1,1 @@
+allow loadtime allowloadtime constant get fred getfred constant get fred getfred

@@ -1,0 +1,1 @@
+test bugs foo unchecked exception handler potential inits occured block detected throw something throwsomething exception unchecked exception types uncheckedexceptiontypes not nil notnil unchecked exception types uncheckedexceptiontypes if true iftrue catch inits catchinits add potential initializations from addpotentialinitializationsfrom try inits tryinits

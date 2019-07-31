@@ -1,0 +1,1 @@
+method isquared system println isquared

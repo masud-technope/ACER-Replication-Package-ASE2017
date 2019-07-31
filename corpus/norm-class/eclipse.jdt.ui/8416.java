@@ -1,0 +1,1 @@
+argument test write testwrite main foo foo

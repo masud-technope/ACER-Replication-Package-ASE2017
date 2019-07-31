@@ -1,0 +1,1 @@
+resolve deep local variable resolvedeeplocalvariable string foo foo foo

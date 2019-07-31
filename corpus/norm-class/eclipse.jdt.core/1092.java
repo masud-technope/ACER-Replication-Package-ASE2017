@@ -1,0 +1,1 @@
+test foo new class newclass

@@ -1,0 +1,1 @@
+test bug search create scope object field object foo object field object foo

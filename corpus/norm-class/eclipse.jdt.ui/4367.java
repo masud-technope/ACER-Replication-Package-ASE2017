@@ -1,0 +1,1 @@
+string f name fname string f name fname string to string tostring f name fname print star decorator stardecorator star decorator stardecorator string decorate string decorate system println star decorator stardecorator decorate to string tostring

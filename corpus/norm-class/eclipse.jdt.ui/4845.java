@@ -1,0 +1,1 @@
+base derived base foo derived cloneable goo cloneable foo base system println base woo goo foo derived system println derived test hierarchy overloaded multi level testhierarchyoverloadedmultilevel base inline me inlineme derived main goo goo woo goo foo inline me inlineme main string args test hierarchy overloaded multi level testhierarchyoverloadedmultilevel main

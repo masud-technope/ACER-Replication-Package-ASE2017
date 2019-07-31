@@ -1,0 +1,1 @@
+test test annotation with string default testannotationwithstringdefault annotated interface with string default annotatedinterfacewithstringdefault

@@ -1,0 +1,1 @@
+receiver test static receiver teststaticreceiver static receiver staticreceiver foo bar bar main static receiver staticreceiver foo

@@ -1,0 +1,1 @@
+test wksp eclipse adds standard actions code tool bar manager toolbarmanager code subclasses override add actions param tool bar manager toolbarmanager code tool bar manager toolbarmanager code contribute foo object tool bar manager toolbarmanager

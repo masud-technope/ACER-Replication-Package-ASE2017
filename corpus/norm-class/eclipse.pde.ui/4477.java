@@ -1,0 +1,1 @@
+org eclipse pde api tools annotations no reference noreference tests no reference noreference annotation classes enums interfaces test no reference noreference clazz no reference noreference inter field no reference noreference annot

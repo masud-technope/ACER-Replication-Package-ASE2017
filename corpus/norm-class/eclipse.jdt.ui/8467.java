@@ -1,0 +1,1 @@
+error test fails extracted foo extracted extracted foo

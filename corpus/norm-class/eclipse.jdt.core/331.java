@@ -1,0 +1,1 @@
+test bug refactor rename renames local variable member clash eclipse test eclipsetest test main string args eclipse test eclipsetest test eclipse test eclipsetest test test

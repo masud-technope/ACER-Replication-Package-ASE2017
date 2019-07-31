@@ -1,0 +1,1 @@
+stuff interface stuffinterface integer get stuff getstuff some value somevalue send stuff sendstuff other values othervalues

@@ -1,0 +1,1 @@
+test https bugs eclipse org bugs bug cgi local variable tests localvariabletests string string string att system err println string att att system println att system println att main string args local variable tests localvariabletests local variable tests localvariabletests

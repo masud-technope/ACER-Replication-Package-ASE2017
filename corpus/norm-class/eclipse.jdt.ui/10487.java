@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration string field param field param main string args test function testfunction get field getfield test function testfunction string param system println param test function testfunction object param system println param get field getfield field

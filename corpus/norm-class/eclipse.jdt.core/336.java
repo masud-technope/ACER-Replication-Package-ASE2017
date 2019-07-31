@@ -1,0 +1,1 @@
+test comments block javadoc org eclipse jdt internal compiler parser javadoc parser javadocparser create method reference createmethodreference java lang object java util list foo

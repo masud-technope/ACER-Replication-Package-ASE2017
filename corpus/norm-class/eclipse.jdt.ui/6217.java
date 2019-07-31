@@ -1,0 +1,1 @@
+enum red green blue yellow get other getother set other setother user red set other setother green red get other getother green green

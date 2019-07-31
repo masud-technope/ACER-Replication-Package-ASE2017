@@ -1,0 +1,1 @@
+test enum bleu foo blanc rouge foo object zork

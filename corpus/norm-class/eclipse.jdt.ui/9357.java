@@ -1,0 +1,1 @@
+classes bin enum binenum is enum isenum

@@ -1,0 +1,1 @@
+copyright aug ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation java lang annotation documented noreference annotation intended referenced clients no ref annotation norefannotation

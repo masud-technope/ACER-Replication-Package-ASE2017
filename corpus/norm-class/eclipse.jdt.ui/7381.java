@@ -1,0 +1,1 @@
+generics java util list tests capture bindings test foo list param extracted param extracted list param consume param consume list param

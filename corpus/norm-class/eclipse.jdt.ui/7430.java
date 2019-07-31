@@ -1,0 +1,1 @@
+lambda expression lambdaexpression functional interface functionalinterface foo functional interface functionalinterface foo test

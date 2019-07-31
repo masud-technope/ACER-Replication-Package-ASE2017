@@ -1,0 +1,1 @@
+some other class someotherclass some new class somenewclass f some new class fsomenewclass returns some class someclass some new class somenewclass get some new class getsomenewclass f some new class fsomenewclass param set some new class setsomenewclass some new class somenewclass f some new class fsomenewclass

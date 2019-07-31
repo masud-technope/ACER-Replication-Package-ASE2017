@@ -1,0 +1,1 @@
+object test generic read testgenericread field get field getfield field set field setfield field field field use test generic read usetestgenericread foo test generic read testgenericread string string get field getfield

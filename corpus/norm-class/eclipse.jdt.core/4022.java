@@ -1,0 +1,1 @@
+test java input stream inputstream test foo input stream inputstream

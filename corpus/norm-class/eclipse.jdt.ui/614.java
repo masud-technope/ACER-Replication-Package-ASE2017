@@ -1,0 +1,1 @@
+locals test foo object element get array getarray extracted extracted object get array getarray

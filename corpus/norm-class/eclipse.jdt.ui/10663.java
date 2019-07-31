@@ -1,0 +1,1 @@
+test reorder getter testreordergetter foo parameter fooparameter string foo parameter fooparameter string get d getd string get a geta get b getb foo foo parameter fooparameter parameter object parameterobject parameter object parameterobject get d getd system println parameter object parameterobject get a geta parameter object parameterobject get b getb

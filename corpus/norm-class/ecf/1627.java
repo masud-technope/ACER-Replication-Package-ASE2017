@@ -1,0 +1,1 @@
+org eclipse ecf presence roster i multi resource roster entry imultiresourcerosterentry resources multi resource roster entry i roster resource irosterresource resources code code i roster resource irosterresource get resources getresources

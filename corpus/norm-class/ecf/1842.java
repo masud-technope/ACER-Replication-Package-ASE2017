@@ -1,0 +1,1 @@
+copyright comp osent composent rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html org eclipse ecf examples load balancing loadbalancing i data processor idataprocessor string process data processdata string data

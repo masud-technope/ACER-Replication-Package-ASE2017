@@ -1,0 +1,1 @@
+resolve local class resolvelocalclass foo bar

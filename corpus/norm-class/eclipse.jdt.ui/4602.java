@@ -1,0 +1,1 @@
+test prefix plus testprefixplus result foo result inline

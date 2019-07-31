@@ -1,0 +1,1 @@
+test bug finding references variables find occur ances occurances foo

@@ -1,0 +1,1 @@
+duplicates test object foo object bar foo object

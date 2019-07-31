@@ -1,0 +1,1 @@
+test flag foo flag null pointer exception nullpointerexception

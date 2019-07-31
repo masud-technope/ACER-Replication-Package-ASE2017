@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation tests invalid noreference tags nested interfaces noreference test noreference noreference inner no ref innernoref

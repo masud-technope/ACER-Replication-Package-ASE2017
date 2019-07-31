@@ -1,0 +1,1 @@
+rectangle width height rectangle width height width width height height get width getwidth width get height getheight height smaller param shape todo is smaller than issmallerthan shape shape shape area get width getwidth get height getheight

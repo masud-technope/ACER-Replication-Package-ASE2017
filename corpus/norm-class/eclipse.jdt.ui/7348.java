@@ -1,0 +1,1 @@
+test flag foo extracted flag extracted

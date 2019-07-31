@@ -1,0 +1,1 @@
+test simple enclosing testsimpleenclosing foo parameter fooparameter string foo parameter fooparameter string foo foo parameter fooparameter parameter object parameterobject parameter object parameterobject system println parameter object parameterobject foo caller foocaller foo foo parameter fooparameter string test

@@ -1,0 +1,1 @@
+type comment typecomment template amount

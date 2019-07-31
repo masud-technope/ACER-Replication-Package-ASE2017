@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation interfaces members remove method no reference removemethodnoreference noreference method intended referenced clients no reference noreference string foo

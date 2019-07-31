@@ -1,0 +1,1 @@
+java util array list arraylist java util collection java util linked list linkedlist java util list suppress warnings suppresswarnings unused collection integer linked list linkedlist integer add list integer list to list tolist array list arraylist integer array list arraylist array list arraylist integer to list tolist list to list tolist collection array list arraylist

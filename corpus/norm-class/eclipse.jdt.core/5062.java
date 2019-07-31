@@ -1,0 +1,1 @@
+resolve member type declaration resolvemembertypedeclaration member interface memberinterface

@@ -1,0 +1,1 @@
+move parameter inline delegator test comment system println

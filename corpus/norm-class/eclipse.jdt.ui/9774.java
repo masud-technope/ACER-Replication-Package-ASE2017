@@ -1,0 +1,1 @@
+test no cast testnocast string f name fname string get name getname f name fname foo test no cast testnocast system println get name getname

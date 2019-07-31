@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration test inline method ref testinlinemethodref test inline method ref testinlinemethodref fun bar object fun object object object object object object object object system println object system println foo functional interface functionalinterface foo functional interface functionalinterface bar object

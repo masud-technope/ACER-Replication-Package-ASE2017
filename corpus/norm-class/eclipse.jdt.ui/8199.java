@@ -1,0 +1,1 @@
+receiver test receiver with static testreceiverwithstatic this receiver thisreceiver foo bar baz bar baz main this receiver thisreceiver this receiver thisreceiver bar this receiver thisreceiver baz

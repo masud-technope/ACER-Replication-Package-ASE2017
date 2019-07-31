@@ -1,0 +1,1 @@
+debug foo debug foo string foo main string args

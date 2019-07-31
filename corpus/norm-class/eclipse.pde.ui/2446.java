@@ -1,0 +1,1 @@
+const no ref constnoref test object const no ref constnoref

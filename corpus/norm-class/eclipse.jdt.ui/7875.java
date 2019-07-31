@@ -1,0 +1,1 @@
+invalid test invalid field initializer testinvalidfieldinitializer object field foo object foo field

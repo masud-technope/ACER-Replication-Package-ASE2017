@@ -1,0 +1,1 @@
+java security permission test import add enclosing caller testimportaddenclosingcaller foo test import add enclosing testimportaddenclosing foo permission

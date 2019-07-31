@@ -1,0 +1,1 @@
+baz get class getclass bar

@@ -1,0 +1,1 @@
+allow loadtime allowloadtime qualify references with class name qualifyreferenceswithclassname class name classname nested system println

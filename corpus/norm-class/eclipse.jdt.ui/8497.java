@@ -1,0 +1,1 @@
+ctor throws ctorthrows f value fvalue ctor throws ctorthrows illegal argument exception illegalargumentexception illegal argument exception illegalargumentexception bad f value fvalue main string args ctor throws ctorthrows cti ctor throws ctorthrows

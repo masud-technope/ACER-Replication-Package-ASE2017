@@ -1,0 +1,1 @@
+pair dan ce pairdance main string args inverted pair invertedpair inverted pair invertedpair pair integer set a seta get a geta set b setb integer system println

@@ -1,0 +1,1 @@
+test wksp eclipse internal generate problem method info correspond synthetic method generate access constructor param method binding methodbinding org eclipse jdt internal compiler name loop kup nameloopkup synthetic access method binding syntheticaccessmethodbinding foo object method binding methodbinding

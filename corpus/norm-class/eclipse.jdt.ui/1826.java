@@ -1,0 +1,1 @@
+object test setter in initialization testsetterininitialization string field foo test setter in initialization testsetterininitialization string field

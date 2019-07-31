@@ -1,0 +1,1 @@
+copyright naumen rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors pavel sam olisov samolisov initial api implementation org eclipse ecf internal tests remote service remoteservice rpc server cal c handler calchandler add

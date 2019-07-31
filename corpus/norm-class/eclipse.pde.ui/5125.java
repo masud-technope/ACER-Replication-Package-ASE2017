@@ -1,0 +1,1 @@
+noinstantiate instantiated test class testclass foo

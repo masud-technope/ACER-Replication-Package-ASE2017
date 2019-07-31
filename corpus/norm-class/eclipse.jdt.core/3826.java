@@ -1,0 +1,1 @@
+test bugs foo destroy icon src mask hdc destroy destroy

@@ -1,0 +1,1 @@
+string bar wee string bar bar local system println bar bar fred bar runnable system println bar bar fred inner inner innerinner system println bar bar fred

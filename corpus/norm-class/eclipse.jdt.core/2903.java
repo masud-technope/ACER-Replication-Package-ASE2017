@@ -1,0 +1,1 @@
+resolve duplicate method declaration resolveduplicatemethoddeclaration foo foo

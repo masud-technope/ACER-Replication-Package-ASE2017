@@ -1,0 +1,1 @@
+mensagens smtp tem seguinte format o formato pre resp osta resposta uma linha sã³ nnn lalalal resp osta resposta vã¡rias linhas nnn lalalalal nnn lalalalal nnn lalalalal pre

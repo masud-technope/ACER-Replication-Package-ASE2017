@@ -1,0 +1,1 @@
+package name packagename constant definitions plug preferences preference constants preferenceconstants string path path preference pathpreference string boolean preference booleanpreference string choice choice preference choicepreference string string string preference stringpreference

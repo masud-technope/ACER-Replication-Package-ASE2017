@@ -1,0 +1,1 @@
+java security permission permission per m perm finalize

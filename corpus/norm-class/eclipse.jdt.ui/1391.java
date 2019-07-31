@@ -1,0 +1,1 @@
+enums enum test extracted extracted foo foo

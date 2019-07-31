@@ -1,0 +1,1 @@
+object test setter in assignment testsetterinassignment string field foo test setter in assignment testsetterinassignment string set field setfield string get field getfield field string set field setfield string field field field field

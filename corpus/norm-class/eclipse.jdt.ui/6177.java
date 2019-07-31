@@ -1,0 +1,1 @@
+variable declaration initializer variabledeclarationinitializer variable declaration initializer parameter variabledeclarationinitializerparameter parameter object parameterobject variable declaration initializer parameter variabledeclarationinitializerparameter foo parameter object parameterobject get test gettest test parameter object parameterobject get test gettest

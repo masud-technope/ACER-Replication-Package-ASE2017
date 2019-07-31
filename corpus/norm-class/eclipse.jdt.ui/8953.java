@@ -1,0 +1,1 @@
+test use in local class testuseinlocalclass main provider use in local class useinlocalclass

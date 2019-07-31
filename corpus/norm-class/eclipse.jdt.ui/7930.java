@@ -1,0 +1,1 @@
+object foo test test clone not supported exception clonenotsupportedexception interrupted exception interruptedexception get class getclass equals hash code hashcode notify notify all notifyall to string tostring wait wait wait

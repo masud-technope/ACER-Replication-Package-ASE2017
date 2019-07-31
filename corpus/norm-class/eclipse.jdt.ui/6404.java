@@ -1,0 +1,1 @@
+variable declaration initializer variabledeclarationinitializer test foo test test test

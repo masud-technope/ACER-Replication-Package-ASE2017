@@ -1,0 +1,1 @@
+object test setter in expression testsetterinexpression string field foo test setter in expression testsetterinexpression set field setfield foo string get field getfield field string set field setfield string field field field field

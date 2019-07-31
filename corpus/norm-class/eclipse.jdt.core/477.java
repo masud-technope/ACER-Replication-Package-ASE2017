@@ -1,0 +1,1 @@
+foo string happy nls string happy place string happy place nls nls string happy place

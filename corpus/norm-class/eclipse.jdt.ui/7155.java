@@ -1,0 +1,1 @@
+java util collection test collection object string temp to string tostring system println temp

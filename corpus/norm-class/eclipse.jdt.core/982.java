@@ -1,0 +1,1 @@
+test bug search search declarations of referenced types searchdeclarationsofreferencedtypes reports declarations

@@ -1,0 +1,1 @@
+enum color red dish reddish color green color pink

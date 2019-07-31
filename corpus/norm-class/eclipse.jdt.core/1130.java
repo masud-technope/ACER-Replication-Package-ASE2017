@@ -1,0 +1,1 @@
+completion find exception completionfindexception foo

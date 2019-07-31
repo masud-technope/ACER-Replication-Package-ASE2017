@@ -1,0 +1,1 @@
+test wksp eclipse returns complete node contents subtree rooted key receiver api param key key subtree contents copy foo string key

@@ -1,0 +1,1 @@
+main string args gugguseli print print param print print

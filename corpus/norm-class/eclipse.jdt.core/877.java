@@ -1,0 +1,1 @@
+test bug anonymous type missing type hierarchy editor modified

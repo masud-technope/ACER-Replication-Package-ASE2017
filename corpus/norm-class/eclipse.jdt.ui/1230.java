@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse jdt internal corext refactoring code flow block flow info blockflowinfo generic sequential flow info genericsequentialflowinfo block flow info blockflowinfo

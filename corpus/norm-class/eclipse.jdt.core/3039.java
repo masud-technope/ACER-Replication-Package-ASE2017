@@ -1,0 +1,1 @@
+test enum test string field foo string field

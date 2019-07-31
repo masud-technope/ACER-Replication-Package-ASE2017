@@ -1,0 +1,1 @@
+test itpjcore winnt search finds bogus references

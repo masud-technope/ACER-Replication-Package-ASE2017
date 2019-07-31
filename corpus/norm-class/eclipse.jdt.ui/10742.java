@@ -1,0 +1,1 @@
+lambda expression lambdaexpression java io exception ioexception functional interface functionalinterface foo io exception ioexception method interrupted exception interruptedexception extracted extracted interrupted exception interruptedexception interrupted exception interruptedexception io exception ioexception

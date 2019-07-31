@@ -1,0 +1,1 @@
+abstract method abstractmethod abstract method abstractmethod foo

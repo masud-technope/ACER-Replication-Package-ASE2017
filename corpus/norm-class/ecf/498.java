@@ -1,0 +1,1 @@
+copyright comp osent composent rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors comp osent composent initial api implementation org eclipse ecf examples remote services remoteservices i hello ihello string string string hello message hellomessage hello message hellomessage message

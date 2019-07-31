@@ -1,0 +1,1 @@
+test bar my class myclass

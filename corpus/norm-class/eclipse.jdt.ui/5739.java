@@ -1,0 +1,1 @@
+object test simple read testsimpleread string field foo string get field getfield string get field getfield field set field setfield string field field field

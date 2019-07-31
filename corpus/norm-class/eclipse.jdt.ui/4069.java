@@ -1,0 +1,1 @@
+object test compound write testcompoundwrite string field foo field

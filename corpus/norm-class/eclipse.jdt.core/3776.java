@@ -1,0 +1,1 @@
+test java util iterator predicate list list select predicate list iterable list select predicate result result add result iterator iterator add

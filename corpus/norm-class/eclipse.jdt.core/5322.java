@@ -1,0 +1,1 @@
+test bug rename fails classes imported test inner test innertest

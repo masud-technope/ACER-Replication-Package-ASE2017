@@ -1,0 +1,1 @@
+targets bug java lang annotation element type elementtype java lang annotation retention java lang annotation retention policy retentionpolicy java lang annotation target use less useless annotation processed annotation processor annotation reproduce bug retention retention policy retentionpolicy target element type elementtype field some annotation someannotation

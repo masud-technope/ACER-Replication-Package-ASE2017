@@ -1,0 +1,1 @@
+object obj get o geto get o geto object object get o geto

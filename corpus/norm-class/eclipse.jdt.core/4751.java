@@ -1,0 +1,1 @@
+org eclipse jdt compiler apt tests annotations java lang annotation inherited java lang annotation repeatable repeatable i foo container ifoocontainer inherited i foo ifoo

@@ -1,0 +1,1 @@
+test static import read teststaticimportread get x getx static import read reference staticimportreadreference foo get x getx

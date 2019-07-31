@@ -1,0 +1,1 @@
+inner class parameter innerclassparameter foo inner class parameter innerclassparameter get foo getfoo foo set foo setfoo foo foo foo

@@ -1,0 +1,1 @@
+simple test field initializer testfieldinitializer field foo

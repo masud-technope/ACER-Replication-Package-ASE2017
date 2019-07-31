@@ -1,0 +1,1 @@
+java util function bi function bifunction bi function bifunction integer integer integer integer integer foo foo foo foo

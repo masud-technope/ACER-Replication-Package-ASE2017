@@ -1,0 +1,1 @@
+test bug npe reference search

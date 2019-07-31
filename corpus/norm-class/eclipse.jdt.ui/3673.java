@@ -1,0 +1,1 @@
+lambda expression lambdaexpression functional interface functionalinterface foo string test flag foo flag foo null pointer exception nullpointerexception

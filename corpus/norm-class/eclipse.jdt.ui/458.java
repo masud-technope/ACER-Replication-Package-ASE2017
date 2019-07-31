@@ -1,0 +1,1 @@
+object test compound parenthesized write testcompoundparenthesizedwrite string field foo test compound parenthesized write testcompoundparenthesizedwrite set field setfield field string get field getfield field set field setfield string field field field

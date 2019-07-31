@@ -1,0 +1,1 @@
+resolve qualified type resolvequalifiedtype foo java lang object

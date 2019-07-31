@@ -1,0 +1,1 @@
+targets model java lang annotation target java lang annotation element type elementtype target element type elementtype type type annot typeannot iface foo type annot typeannot interface test interfacetest iface main string argv iface foo

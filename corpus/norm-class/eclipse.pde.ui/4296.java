@@ -1,0 +1,1 @@
+invoke dynamic invokedynamic java util arrays tests invoke dynamic reference method test mr compare mrcompare string str string str string array arrays sort array mr compare mrcompare

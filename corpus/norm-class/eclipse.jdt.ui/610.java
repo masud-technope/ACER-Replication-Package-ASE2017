@@ -1,0 +1,1 @@
+lambda expression lambdaexpression functional interface functionalinterface foo foo extracted extracted

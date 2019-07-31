@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets model overriding overrides over b overb context over c overc context over d overd override over b overb context overrides over b overb context over c overc over d overd

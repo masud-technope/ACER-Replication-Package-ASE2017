@@ -1,0 +1,1 @@
+java util collection test type variable assignments testtypevariableassignments number collection string object array array array number number integer integer collection string coll string

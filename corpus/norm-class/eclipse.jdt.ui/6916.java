@@ -1,0 +1,1 @@
+static instance staticinstance static instance staticinstance foo string args static instance staticinstance create static instance createstaticinstance system println bar string args static instance staticinstance create static instance createstaticinstance system println static instance staticinstance create static instance createstaticinstance static instance staticinstance

@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html org eclipse jdt apt tests annotations read annotation type readannotationtype simple annotation simpleannotation enum good bye

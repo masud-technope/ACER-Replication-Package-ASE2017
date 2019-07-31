@@ -1,0 +1,1 @@
+test nls string bundle test test string get string getstring string

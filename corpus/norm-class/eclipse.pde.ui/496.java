@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation interfaces restrictions noimplement intended implemented clients noextend intended extended clients add no extend no implement addnoextendnoimplement

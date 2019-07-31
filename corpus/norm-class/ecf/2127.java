@@ -1,0 +1,1 @@
+org eclipse ecf examples internal event admin eventadmin app non serializable nonserializable string payload non serializable nonserializable string string payload string string get payload getpayload payload

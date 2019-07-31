@@ -1,0 +1,1 @@
+static import no reference staticimportnoreference foo

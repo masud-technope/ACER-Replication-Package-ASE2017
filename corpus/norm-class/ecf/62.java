@@ -1,0 +1,1 @@
+org jivesoftware smack enum smack error smackerror response server response server string message smack error smackerror string err message errmessage message err message errmessage string get error message geterrormessage message smack error smackerror get error code geterrorcode string message smack error smackerror code values code message equals message code

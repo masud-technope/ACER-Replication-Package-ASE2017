@@ -1,0 +1,1 @@
+object test style array read testcstylearrayread object field object test style array read testcstylearrayread field object basic run basicrun system err println field length

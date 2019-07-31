@@ -1,0 +1,1 @@
+copyright jesper steen moller rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors jesper steen moller initial api implementation org eclipse jdt apt pluggable tests annotations model test modeltest trigger test method string test arbitrary argument string arg arbitrary argument string arg

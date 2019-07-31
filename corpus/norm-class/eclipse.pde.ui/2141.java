@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse pde api tools internal provisional provide api tools session i session isession i tree model itreemodel get model getmodel string get description getdescription

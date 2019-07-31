@@ -1,0 +1,1 @@
+doit foo fred stat foo fred stat

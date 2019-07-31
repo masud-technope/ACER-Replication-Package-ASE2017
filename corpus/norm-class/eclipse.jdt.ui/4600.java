@@ -1,0 +1,1 @@
+test var arg testvararg integer integer

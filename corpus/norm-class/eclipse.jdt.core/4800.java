@@ -1,0 +1,1 @@
+junit framework protectable throwable test result testresult protectable method protect throwable

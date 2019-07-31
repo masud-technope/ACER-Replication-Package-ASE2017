@@ -1,0 +1,1 @@
+selection invalid foo get image getimage object obj foo

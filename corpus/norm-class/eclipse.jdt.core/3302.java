@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets model org eclipse jdt compiler apt tests annotations type d annos typedannos anno string annostring special type d annos typedannos anno char annochar

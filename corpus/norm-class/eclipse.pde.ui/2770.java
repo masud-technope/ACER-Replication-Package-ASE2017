@@ -1,0 +1,1 @@
+no instantiate c noinstantiatec test object no instantiate c noinstantiatec

@@ -1,0 +1,1 @@
+some other field class someotherfieldclass some other field class someotherfieldclass some other field class someotherfieldclass foo some other field class someotherfieldclass some local somelocal some other field class someotherfieldclass foo some other field class someotherfieldclass foo some other field class someotherfieldclass todo auto generated method stub

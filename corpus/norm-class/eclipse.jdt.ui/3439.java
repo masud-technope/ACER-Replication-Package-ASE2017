@@ -1,0 +1,1 @@
+get thing getthing set thing setthing object number number set thing setthing number integer number tee get thing getthing set thing setthing

@@ -1,0 +1,1 @@
+targets bug gen generated class generatedclass inherited class inheritedclass generated class generatedclass

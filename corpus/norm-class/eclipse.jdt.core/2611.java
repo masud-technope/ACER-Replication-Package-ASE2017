@@ -1,0 +1,1 @@
+def define def methods typical constructors standard parameters type parameter single method type parameter method parameter parameterized type mix previous def single single single single single gst single single gst

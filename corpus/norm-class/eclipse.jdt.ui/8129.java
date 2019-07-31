@@ -1,0 +1,1 @@
+bugs inline auto boxed inlineautoboxed foo integer int value intvalue bar integer int value intvalue

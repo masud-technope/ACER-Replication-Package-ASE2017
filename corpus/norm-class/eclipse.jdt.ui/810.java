@@ -1,0 +1,1 @@
+inner documented class innerdocumentedclass comment source range sourcerange inner class innerclass foo

@@ -1,0 +1,1 @@
+java util abstract collection abstractcollection java util vector test nested parametric type testnestedparametrictype foo abstract collection abstractcollection vector string vector vector string

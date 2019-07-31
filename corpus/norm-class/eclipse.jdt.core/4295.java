@@ -1,0 +1,1 @@
+enum coin penny nickel dime quarter coin

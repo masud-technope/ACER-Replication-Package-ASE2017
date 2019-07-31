@@ -1,0 +1,1 @@
+copyright and reas andreas gudian rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets model order enum enum instances enuminstances

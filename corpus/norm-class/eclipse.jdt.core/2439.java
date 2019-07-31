@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors ibm corporation initial api implementation org eclipse jdt internal compiler ast magic literal magicliteral literal magic literal magicliteral start start is valid java statement isvalidjavastatement source

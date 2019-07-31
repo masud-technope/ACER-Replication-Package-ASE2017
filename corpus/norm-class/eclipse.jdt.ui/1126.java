@@ -1,0 +1,1 @@
+test static import teststaticimport foo provider math

@@ -1,0 +1,1 @@
+regression test bug search incorrect range type references brackets field object foo bar field

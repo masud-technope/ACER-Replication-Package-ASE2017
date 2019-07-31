@@ -1,0 +1,1 @@
+java util enumeration java util vector vector enumeration elements has more elements hasmoreelements system println next element nextelement

@@ -1,0 +1,1 @@
+test inline rename testinlinerename foo foo test inline rename testinlinerename foo system println foo foo foo

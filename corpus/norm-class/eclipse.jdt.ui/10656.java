@@ -1,0 +1,1 @@
+locals test foo string args args extracted args args string extracted string args args string args

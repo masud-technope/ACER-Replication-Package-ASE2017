@@ -1,0 +1,1 @@
+test static import read write teststaticimportreadwrite get x getx test static import read write teststaticimportreadwrite set x setx static import read write reference staticimportreadwritereference foo set x setx get x getx

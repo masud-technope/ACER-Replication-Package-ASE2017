@@ -1,0 +1,1 @@
+static methods staticmethods test enum foo

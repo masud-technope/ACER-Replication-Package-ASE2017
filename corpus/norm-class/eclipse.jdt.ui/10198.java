@@ -1,0 +1,1 @@
+argument test array testarray bar main

@@ -1,0 +1,1 @@
+object test compound write testcompoundwrite string field foo set field setfield get field getfield string get field getfield field set field setfield string field field field

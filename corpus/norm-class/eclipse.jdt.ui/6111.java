@@ -1,0 +1,1 @@
+object foo string text object temp object temp to string tostring temp

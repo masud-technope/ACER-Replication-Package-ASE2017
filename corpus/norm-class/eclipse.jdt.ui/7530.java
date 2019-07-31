@@ -1,0 +1,1 @@
+receiver test expression two implicit receiver testexpressiontwoimplicitreceiver implicit receiver implicitreceiver foo bar bar bar main implicit receiver implicitreceiver get object getobject bar bar implicit receiver implicitreceiver get object getobject implicit receiver implicitreceiver

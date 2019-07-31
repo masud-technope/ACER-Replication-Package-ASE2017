@@ -1,0 +1,1 @@
+resolve local constructor declaration resolvelocalconstructordeclaration foo string

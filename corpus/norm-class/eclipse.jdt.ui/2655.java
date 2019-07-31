@@ -1,0 +1,1 @@
+bugs test foo to inline toinline system println foo to inline toinline

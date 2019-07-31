@@ -1,0 +1,1 @@
+source base class baseclass source color source in sub pack insubpack sub class subclass base class baseclass sub class subclass count count f protected fprotected base method basemethod base method basemethod referenced virtual method referencedvirtualmethod in sub pack insubpack compare to compareto base class baseclass override paint color paintcolor color color don paint

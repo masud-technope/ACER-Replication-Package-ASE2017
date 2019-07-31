@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration test inline lambda array testinlinelambdaarray fi arr fiarr fi arr fiarr fi arr fiarr object fi arr fiarr object fi arr fiarr functional interface functionalinterface foo

@@ -1,0 +1,1 @@
+test bug search hierarchy matches hierarchy

@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html targets model java util list targets model list field list a fieldlistia string methodiastring to string tostring

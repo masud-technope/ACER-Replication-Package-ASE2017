@@ -1,0 +1,1 @@
+switch case updates switchcaseupdates switch case updates parameter switchcaseupdatesparameter parameter object parameterobject switch case updates parameter switchcaseupdatesparameter foo parameter object parameterobject get test gettest parameter object parameterobject set test settest parameter object parameterobject set test settest

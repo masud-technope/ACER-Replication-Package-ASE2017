@@ -1,0 +1,1 @@
+copyright comp osent composent rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors comp osent composent initial api implementation org eclipse ecf file transfer filetransfer noimplement intended implemented clients i send file transfer options isendfiletransferoptions

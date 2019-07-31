@@ -1,0 +1,1 @@
+argument test local reference write testlocalreferencewrite main bar system println foo bar bar

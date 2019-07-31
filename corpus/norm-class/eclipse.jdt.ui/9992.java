@@ -1,0 +1,1 @@
+invalid test multiple methods testmultiplemethods bar to inline toinline to inline toinline string system println to inline toinline string system println

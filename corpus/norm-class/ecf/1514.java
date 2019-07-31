@@ -1,0 +1,1 @@
+org eclipse ecf remote service remoteservice util ids present idspresent checks decl arative declarative service service configured decl arative declarative services registered osgi runtime is present ispresent

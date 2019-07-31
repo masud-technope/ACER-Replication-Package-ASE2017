@@ -1,0 +1,1 @@
+resolve empty selection on method resolveemptyselectiononmethod foo bar foo

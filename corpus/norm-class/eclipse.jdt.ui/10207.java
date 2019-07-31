@@ -1,0 +1,1 @@
+test receiver cast testreceivercast foo object obj string goo string obj string goo string string string int ern intern

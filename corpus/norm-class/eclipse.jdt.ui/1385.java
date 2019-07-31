@@ -1,0 +1,1 @@
+receiver test expression zero implicit receiver testexpressionzeroimplicitreceiver implicit receiver implicitreceiver foo system println eclipse main get object getobject foo implicit receiver implicitreceiver get object getobject implicit receiver implicitreceiver

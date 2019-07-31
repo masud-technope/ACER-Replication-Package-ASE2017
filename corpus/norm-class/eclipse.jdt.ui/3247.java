@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration i sup isup foo foo functional interface functionalinterface f sub fsub foo test inline lambda testinlinelambda f sub fsub fun i sup isup fun i sup isup

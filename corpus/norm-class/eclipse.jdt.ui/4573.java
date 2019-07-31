@@ -1,0 +1,1 @@
+object test final field testfinalfield object field test final field testfinalfield object field object get field getfield field

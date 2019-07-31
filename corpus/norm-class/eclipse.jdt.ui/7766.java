@@ -1,0 +1,1 @@
+name conflict nameconflict test local in type testlocalintype main bar bar foo bar

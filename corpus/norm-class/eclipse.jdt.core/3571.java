@@ -1,0 +1,1 @@
+package reference packagereference no reference g noreferenceg foo

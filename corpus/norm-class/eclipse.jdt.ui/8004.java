@@ -1,0 +1,1 @@
+string foo deprecated link string deprecated link get g getg string get f getf get g getg string get g getg

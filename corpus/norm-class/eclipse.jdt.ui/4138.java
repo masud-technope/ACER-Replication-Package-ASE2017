@@ -1,0 +1,1 @@
+number cloneable object to string tostring

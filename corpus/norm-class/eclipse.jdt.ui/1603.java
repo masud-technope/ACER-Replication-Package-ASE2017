@@ -1,0 +1,1 @@
+test inline lambda testinlinelambda fun fi arr fiarr fi arr fiarr fi arr fiarr object fi arr fiarr object fi arr fiarr functional interface functionalinterface foo

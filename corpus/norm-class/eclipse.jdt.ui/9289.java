@@ -1,0 +1,1 @@
+object test simple write testsimplewrite string field foo field field

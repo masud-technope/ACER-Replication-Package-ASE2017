@@ -1,0 +1,1 @@
+test static import write teststaticimportwrite set x setx static import write reference staticimportwritereference foo set x setx

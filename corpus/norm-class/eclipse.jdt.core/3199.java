@@ -1,0 +1,1 @@
+string foo string length length string string foo capacity java util list string java util list string new list newlist vector main string args system get property getproperty abc length string string integer length to string tostring java util list string size java util array list arraylist string

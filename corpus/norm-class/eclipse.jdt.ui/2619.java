@@ -1,0 +1,1 @@
+invalid test interrupted statement testinterruptedstatement main foo foo system println eclipse

@@ -1,0 +1,1 @@
+f magic fmagic main string args bin go bingo f magic fmagic print print param print system println f magic fmagic string f name fname string f name fname string to string tostring f name fname

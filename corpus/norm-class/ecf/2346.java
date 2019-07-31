@@ -1,0 +1,1 @@
+org eclipse ecf presence roster org eclipse ecf presence i presence ipresence ir oster resource irosterresource ir oster item irosteritem methods i presence ipresence get presence getpresence

@@ -1,0 +1,1 @@
+java test var arg testvararg check true checktrue gen eralize generalize object lines pass linespass integer lines pass linespass string lines

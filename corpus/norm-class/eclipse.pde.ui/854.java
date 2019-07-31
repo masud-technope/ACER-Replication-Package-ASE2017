@@ -1,0 +1,1 @@
+package name packagename dictionary returns language dictionary language dictionary string get language getlanguage check existence word dictionary param word word checked word dictionary check string word

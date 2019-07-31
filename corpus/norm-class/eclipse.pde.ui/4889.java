@@ -1,0 +1,1 @@
+int f a intfa read class b classb int f a intfa

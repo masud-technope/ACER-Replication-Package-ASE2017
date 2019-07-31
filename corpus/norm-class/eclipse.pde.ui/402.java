@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation api internal internal class internalclass test enum java performance testing enum test enum testenum nls system println internal class internalclass

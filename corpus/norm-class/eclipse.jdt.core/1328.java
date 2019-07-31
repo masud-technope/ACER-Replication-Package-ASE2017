@@ -1,0 +1,1 @@
+enum enum string foo string str

@@ -1,0 +1,1 @@
+org eclipse ecf core shared object sharedobject model org eclipse ecf core shared object sharedobject model shared model sharedmodel property i shared model property add event isharedmodelpropertyaddevent i shared model event isharedmodelevent property get pre added property getpreaddedproperty property get added property getaddedproperty

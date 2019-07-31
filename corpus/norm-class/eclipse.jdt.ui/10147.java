@@ -1,0 +1,1 @@
+argument test literal reference write testliteralreferencewrite main foo foo bar bar

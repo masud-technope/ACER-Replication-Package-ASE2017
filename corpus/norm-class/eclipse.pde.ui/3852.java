@@ -1,0 +1,1 @@
+package name packagename simple log service simplelogservice log string message

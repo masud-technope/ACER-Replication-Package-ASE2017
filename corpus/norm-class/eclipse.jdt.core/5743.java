@@ -1,0 +1,1 @@
+test wksp eclipse compare plug code open compare editor opencompareeditor code method takes code i compare editor input icompareeditorinput code starts seq uencing sequencing steps compare result empty compare editor opened takes sequence event ually eventually closed

@@ -1,0 +1,1 @@
+stdjavatest junit framework mypackage my class myclass testing my class testingmyclass test case testcase test method my class myclass obj a obja obj a obja my class myclass obj a obja method

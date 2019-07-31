@@ -1,0 +1,1 @@
+test use in class literal testuseinclassliteral main provider use in class literal useinclassliteral

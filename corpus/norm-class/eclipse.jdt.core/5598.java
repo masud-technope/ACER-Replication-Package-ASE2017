@@ -1,0 +1,1 @@
+correct local variable type correctlocalvariabletype foo aaa dddz a class aclass local

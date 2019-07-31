@@ -1,0 +1,1 @@
+test plus postfix testpluspostfix result foo result inline inline

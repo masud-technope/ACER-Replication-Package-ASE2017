@@ -1,0 +1,1 @@
+test simple enclosing testsimpleenclosing foo string system println foo caller foocaller foo string test

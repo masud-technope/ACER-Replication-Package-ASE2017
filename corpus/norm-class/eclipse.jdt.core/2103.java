@@ -1,0 +1,1 @@
+test cloneable member of local memberoflocal

@@ -1,0 +1,1 @@
+breaking comment bug main string args is true istrue f inner finner inner bool innerbool is true istrue is not true isnottrue is true istrue inner bool innerbool breaking comment f inner finner f inner finner is true istrue f inner finner inner bool innerbool is not true isnottrue f inner finner inner bool innerbool

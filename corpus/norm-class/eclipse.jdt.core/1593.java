@@ -1,0 +1,1 @@
+org eclipse jdt compiler apt tests annotations java lang annotation element type elementtype java lang annotation target target element type elementtype type t foo container tfoocontainer t foo tfoo

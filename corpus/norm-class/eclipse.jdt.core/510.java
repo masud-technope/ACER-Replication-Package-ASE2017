@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors wharley bea initial api implementation targets file r filer gen class genclass generated pkg gen summary parent

@@ -1,0 +1,1 @@
+functional interface functionalinterface foo renamed ii renamedii renamed ii renamedii foo

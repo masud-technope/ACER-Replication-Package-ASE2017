@@ -1,0 +1,1 @@
+type reference as single name reference typereferenceassinglenamereference has reference hasreference type reference as single name reference typereferenceassinglenamereference type reference as single name reference typereferenceassinglenamereference object has no reference hasnoreference object type reference as single name reference typereferenceassinglenamereference

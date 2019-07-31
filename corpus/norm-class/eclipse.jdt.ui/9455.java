@@ -1,0 +1,1 @@
+replace all references replaceallreferences remove declaration removedeclaration part of decl name selected partofdeclnameselected foo oo foooo foo oo foooo

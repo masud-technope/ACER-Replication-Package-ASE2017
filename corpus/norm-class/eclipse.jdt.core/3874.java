@@ -1,0 +1,1 @@
+test object foo io exception ioexception exception string string object

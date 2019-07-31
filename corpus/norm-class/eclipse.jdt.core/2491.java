@@ -1,0 +1,1 @@
+test wksp eclipse returns open input stream contents resource client responsible closing stream finished param href url string resource valid href link org eclipse i help resource ihelpresource get href gethref i help resource ihelpresource get href gethref input stream contents resource code code resource opened foo string href

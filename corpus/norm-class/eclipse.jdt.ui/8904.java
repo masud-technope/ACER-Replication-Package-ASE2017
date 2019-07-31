@@ -1,0 +1,1 @@
+java util enumeration create test list createtestlist test collector testcollector collector enumeration string collector collect tests collecttests has more elements hasmoreelements string next element nextelement test collector testcollector enumeration string collect tests collecttests

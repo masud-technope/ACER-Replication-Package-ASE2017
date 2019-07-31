@@ -1,0 +1,1 @@
+def define def methods typical methods standard parameters type parameter multiple method type parameters type multiple type arguments method parameter parameterized types mix previous def multiple multiple multiple multiple gst multiple multiple gst multiple multiple gst

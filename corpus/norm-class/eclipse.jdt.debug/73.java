@@ -1,0 +1,1 @@
+working directory test workingdirectorytest main string args string dir system get property getproperty user dir system println dir

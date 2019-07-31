@@ -1,0 +1,1 @@
+foo valid string literals

@@ -1,0 +1,1 @@
+test foo short condition shortcondition fit on same line fitonsameline condition is quite long isquitelong cannot fit on same line as if cannotfitonsamelineasif argument argument split split remain comp act remaincompact remain comp act remaincompact

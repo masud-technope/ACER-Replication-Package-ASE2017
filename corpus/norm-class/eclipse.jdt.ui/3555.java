@@ -1,0 +1,1 @@
+rename system println foo

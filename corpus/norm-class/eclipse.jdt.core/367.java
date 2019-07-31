@@ -1,0 +1,1 @@
+open string str foo open

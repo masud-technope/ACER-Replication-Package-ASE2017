@@ -1,0 +1,1 @@
+java security permission test body update testbodyupdate permission foo permission string

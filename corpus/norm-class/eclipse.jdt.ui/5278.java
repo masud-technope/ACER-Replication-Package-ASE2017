@@ -1,0 +1,1 @@
+java lang math inner inner innerinner inner inner inner innerinnerinner doit foo fred stat foo fred stat

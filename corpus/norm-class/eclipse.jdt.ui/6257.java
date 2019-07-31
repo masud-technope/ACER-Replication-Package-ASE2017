@@ -1,0 +1,1 @@
+enum red green blue yellow buddy get buddy getbuddy buddy set buddy setbuddy buddy user red set buddy setbuddy green red get buddy getbuddy green green buddy

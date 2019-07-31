@@ -1,0 +1,1 @@
+object some object someobject some object someobject get class getclass object some object someobject some object someobject get class getclass integer some int someint some int someint get class getclass integer some int someint some int someint get class getclass

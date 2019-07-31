@@ -1,0 +1,1 @@
+test bug search search references implicit arg constructor

@@ -1,0 +1,1 @@
+test java lang comparable java util collection java util iterator object comparable min collection coll iterator coll iterator candidate has next hasnext compare to compareto candidate candidate candidate

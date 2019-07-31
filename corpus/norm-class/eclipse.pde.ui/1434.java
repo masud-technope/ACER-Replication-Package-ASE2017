@@ -1,0 +1,1 @@
+package name packagename org eclipse core runtime i platform runnable iplatformrunnable controls aspects application execution application class applicationclass i platform runnable iplatformrunnable javadoc org eclipse core runtime i platform runnable iplatformrunnable java lang object object object args exception system println message i platform runnable iplatformrunnable exit

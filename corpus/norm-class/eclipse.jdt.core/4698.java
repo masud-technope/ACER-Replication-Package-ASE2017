@@ -1,0 +1,1 @@
+test join column joincolumn string string referenced column name referencedcolumnname

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation enums classes hierarchy interface a interfacea enum remove super interface removesuperinterface interface a interfacea method a methoda

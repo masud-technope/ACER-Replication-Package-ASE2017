@@ -1,0 +1,1 @@
+foo test visibility adjustment int ermediary intermediary type existing references create bar bar bar bar

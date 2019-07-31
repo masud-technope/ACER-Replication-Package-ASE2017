@@ -1,0 +1,1 @@
+argument test local reference read testlocalreferenceread main foo bar foo bar system println foo inline me inlineme bar bar

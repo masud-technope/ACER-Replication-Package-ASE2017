@@ -1,0 +1,1 @@
+test bug testbug test class testclass works fine some undeclared type someundeclaredtype undeclared field undeclaredfield main string args class cast exception classcastexception some undeclarated type someundeclaratedtype undeclared local declaration undeclaredlocaldeclaration

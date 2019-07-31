@@ -1,0 +1,1 @@
+no ref class norefclass test c testc method no ref class norefclass clazz no ref class norefclass string field clazz f no ref class field fnorefclassfield clazz no ref class method norefclassmethod method no ref class norefclass clazz no ref class norefclass string field clazz f no ref class field fnorefclassfield clazz no ref class method norefclassmethod

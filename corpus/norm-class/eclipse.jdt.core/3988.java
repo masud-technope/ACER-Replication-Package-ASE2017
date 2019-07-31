@@ -1,0 +1,1 @@
+some class someclass clas sify set two classifysettwo objects dev ice device object element objects system println element get class getclass get name getname

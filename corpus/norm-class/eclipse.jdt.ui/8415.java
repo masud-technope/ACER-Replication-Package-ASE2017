@@ -1,0 +1,1 @@
+foo comparable get foo getfoo foo foo invoke get foo getfoo

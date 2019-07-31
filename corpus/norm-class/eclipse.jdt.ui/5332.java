@@ -1,0 +1,1 @@
+test flag foo extracted extracted flag null pointer exception nullpointerexception

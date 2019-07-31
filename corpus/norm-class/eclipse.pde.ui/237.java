@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation in o ref javadoc default interface inorefjavadocdefaultinterface tests implementing method calling test in o ref javadoc default interface inorefjavadocdefaultinterface test

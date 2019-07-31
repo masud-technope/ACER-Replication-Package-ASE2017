@@ -1,0 +1,1 @@
+star decorator stardecorator string decorate string

@@ -1,0 +1,1 @@
+test color white test color black test enum color white black test main string args color black black white

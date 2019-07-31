@@ -1,0 +1,1 @@
+copyright salesforce rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors igor ifedorenko initial api implementation targets annotation processor tests annotationprocessortests bug bug

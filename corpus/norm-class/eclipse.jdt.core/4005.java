@@ -1,0 +1,1 @@
+hibernate lazy table guja rti cle cat egorization gujarticlecategorization cascade save update hibernate collection key column article id articleid hibernate collection guj model category column category id categoryid cat egorias categorias dest e deste artigo category get category getcategory category

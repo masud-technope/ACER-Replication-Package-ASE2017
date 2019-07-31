@@ -1,0 +1,1 @@
+multi generics multigenerics multi generics multigenerics integer int vec intvec multi generics multigenerics integer int vec intvec add element addelement int vec intvec add element addelement integer multi generics multigenerics string s vec svec multi generics multigenerics string s vec svec add element addelement add element addelement

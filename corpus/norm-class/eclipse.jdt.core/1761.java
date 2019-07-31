@@ -1,0 +1,1 @@
+resolve method declaration in anonymous resolvemethoddeclarationinanonymous object field object foo

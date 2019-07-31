@@ -1,0 +1,1 @@
+allow loadtime allowloadtime constant get yet another fred getyetanotherfred constant get yet another fred getyetanotherfred

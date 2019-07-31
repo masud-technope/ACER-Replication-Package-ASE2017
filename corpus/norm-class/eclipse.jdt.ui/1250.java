@@ -1,0 +1,1 @@
+rename bin ds binds iff exists

@@ -1,0 +1,1 @@
+test times plus testtimesplus result foo result inline inline

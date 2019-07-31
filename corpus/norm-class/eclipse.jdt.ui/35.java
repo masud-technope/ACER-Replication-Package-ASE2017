@@ -1,0 +1,1 @@
+selection foo foo simple static getter staticgetter foo bar system println foo bar

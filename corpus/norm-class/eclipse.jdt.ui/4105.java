@@ -1,0 +1,1 @@
+foo test warnings incorrectly qualified calls foo invoke change bar foo foo foo get foo getfoo foo foo bar foo bar

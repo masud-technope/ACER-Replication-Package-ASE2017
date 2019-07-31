@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation methods modifiers private to public no reference privatetopublicnoreference noreference method other method othermethod method

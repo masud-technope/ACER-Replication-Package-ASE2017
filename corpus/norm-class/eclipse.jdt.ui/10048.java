@@ -1,0 +1,1 @@
+stat doit foo fred stat

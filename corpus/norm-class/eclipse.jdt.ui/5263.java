@@ -1,0 +1,1 @@
+object test setter as receiver testsetterasreceiver string field foo test setter as receiver testsetterasreceiver field length

@@ -1,0 +1,1 @@
+foo expected foo bar string get foo bar getfoobar string get foo bar getfoobar

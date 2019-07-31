@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation tests invalid noreference tags nested enums noreference enum test noreference enum enum noreference enum enum enum enum

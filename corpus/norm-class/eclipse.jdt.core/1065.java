@@ -1,0 +1,1 @@
+javadoc searched javadocsearched javadoc searched javadocsearched javadoc searched javadocsearched string str javadoc searched var javadocsearchedvar javadoc searched method javadocsearchedmethod javadoc searched method javadocsearchedmethod string str

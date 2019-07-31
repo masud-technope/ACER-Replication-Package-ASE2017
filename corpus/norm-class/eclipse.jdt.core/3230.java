@@ -1,0 +1,1 @@
+test test foo test clone not supported exception clonenotsupportedexception test test test test clone

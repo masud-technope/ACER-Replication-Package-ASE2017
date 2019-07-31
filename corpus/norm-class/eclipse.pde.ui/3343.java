@@ -1,0 +1,1 @@
+package name packagename java util array list arraylist java util arrays java util list dictionary impl dictionaryimpl dictionary list f words fwords array list arraylist arrays as list aslist word word word string f language flanguage language string get language getlanguage f language flanguage check string word f words fwords word string to string tostring f language flanguage

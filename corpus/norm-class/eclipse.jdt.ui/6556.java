@@ -1,0 +1,1 @@
+receiver test explicit this method receiver testexplicitthismethodreceiver logger get logger getlogger logger get logger getlogger logger getlog get logger getlogger getlog info message logger logger get logger getlogger string string info string string

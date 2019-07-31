@@ -1,0 +1,1 @@
+resolve inner class as param ater resolveinnerclassasparamater foo string foo bar foo

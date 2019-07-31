@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation integer access integeraccess main string args matrix matrix length row matrix row row length row row length system println matrix

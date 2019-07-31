@@ -1,0 +1,1 @@
+simple test labeled statement testlabeledstatement main foo foo label label

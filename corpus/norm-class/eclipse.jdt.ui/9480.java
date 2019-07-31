@@ -1,0 +1,1 @@
+enum enum enum enum get g getg set g setg enum

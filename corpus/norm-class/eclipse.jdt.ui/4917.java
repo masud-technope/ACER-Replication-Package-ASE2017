@@ -1,0 +1,1 @@
+inline main string args

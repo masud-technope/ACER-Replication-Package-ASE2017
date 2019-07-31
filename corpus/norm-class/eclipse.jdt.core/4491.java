@@ -1,0 +1,1 @@
+test bug search declarations of referenced type d searchdeclarationsofreferencedtyped missing exception types foo my exception myexception my exception myexception exception

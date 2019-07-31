@@ -1,0 +1,1 @@
+foo object foo object bar string buffer stringbuffer bar string foo foo

@@ -1,0 +1,1 @@
+java util vector eclipse format test eclipseformattest main string args vector vector string string trim string string

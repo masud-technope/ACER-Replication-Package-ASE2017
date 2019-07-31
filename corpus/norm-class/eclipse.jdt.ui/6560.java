@@ -1,0 +1,1 @@
+receiver test explicit static this field receiver testexplicitstaticthisfieldreceiver logger log logger get logger getlogger logger getlog log getlog info message logger logger get logger getlogger string string info string string

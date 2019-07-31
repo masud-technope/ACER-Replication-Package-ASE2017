@@ -1,0 +1,1 @@
+enum green dark green black get next getnext green dark green dark green black black green green get next getnext

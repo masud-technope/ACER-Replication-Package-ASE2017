@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation i ext interface iextinterface base impl baseimpl indirectly noimplement parent noimplement test c testc base impl baseimpl i ext interface iextinterface

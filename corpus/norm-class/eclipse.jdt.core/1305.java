@@ -1,0 +1,1 @@
+test wksp eclipse shutdown hcr mgr java debug targets org osgi framework bundle activator bundleactivator org osgi framework bundle context bundlecontext text foo

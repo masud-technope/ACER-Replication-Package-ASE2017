@@ -1,0 +1,1 @@
+java lang invoke method handle methodhandle foo method handle methodhandle throwable invoke abc

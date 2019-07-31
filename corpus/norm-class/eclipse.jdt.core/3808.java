@@ -1,0 +1,1 @@
+test smoke compile errors int roduced introduced rename refactoring gfbk object foo

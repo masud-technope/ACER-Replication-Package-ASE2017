@@ -1,0 +1,1 @@
+test wksp eclipse param code text code string match param code start code starting text search inclusive param code code stop ping stopping point search exclusive param code code string wildcard param code ignore case ignorecase code indicating wether code code sensitive starting text pattern foo

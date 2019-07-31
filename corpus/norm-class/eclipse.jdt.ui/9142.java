@@ -1,0 +1,1 @@
+test interface method testinterfacemethod impl i test interface method itestinterfacemethod foo foo parameter fooparameter parameter object parameterobject system println parameter object parameterobject parameter object parameterobject param parameter object parameterobject blubb

@@ -1,0 +1,1 @@
+test bug field reference search lookup mode

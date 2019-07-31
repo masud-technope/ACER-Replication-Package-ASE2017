@@ -1,0 +1,1 @@
+method foo deprecated link foo foo foo method foo foo

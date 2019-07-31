@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation in o impl inoimpl test c testc method in o impl inoimpl ini in o impl inoimpl test c testc in o impl inoimpl ini in o impl inoimpl

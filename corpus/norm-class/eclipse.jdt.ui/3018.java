@@ -1,0 +1,1 @@
+test static import none teststaticimportnone get x getx

@@ -1,0 +1,1 @@
+test bug npe searching qualified insensitive type object foo constant

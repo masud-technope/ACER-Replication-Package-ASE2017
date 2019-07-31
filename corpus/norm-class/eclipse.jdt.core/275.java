@@ -1,0 +1,1 @@
+resolve part ially qualified type resolvepartiallyqualifiedtype foo java lang object

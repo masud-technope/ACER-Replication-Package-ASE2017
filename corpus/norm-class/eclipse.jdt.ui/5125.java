@@ -1,0 +1,1 @@
+java util list has anonymous hasanonymous has anonymous hasanonymous foo has anonymous hasanonymous foo

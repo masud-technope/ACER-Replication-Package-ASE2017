@@ -1,0 +1,1 @@
+simple test initializer testinitializer foo foo system println eclipse

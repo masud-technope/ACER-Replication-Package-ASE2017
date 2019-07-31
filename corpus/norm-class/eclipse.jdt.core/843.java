@@ -1,0 +1,1 @@
+type binding typebinding get other field bindings getotherfieldbindings block scope blockscope scope is field use deprecated isfieldusedeprecated field binding fieldbinding scope bits isstrictlyassignedmask index of first field binding indexoffirstfieldbinding length

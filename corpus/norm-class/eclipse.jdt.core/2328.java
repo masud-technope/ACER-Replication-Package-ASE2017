@@ -1,0 +1,1 @@
+resolve message send on base type resolvemessagesendonbasetype foo boo foo

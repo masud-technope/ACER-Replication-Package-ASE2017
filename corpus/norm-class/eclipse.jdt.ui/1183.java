@@ -1,0 +1,1 @@
+some other class someotherclass some class someclass some new inner class somenewinnerclass f some new inner class fsomenewinnerclass

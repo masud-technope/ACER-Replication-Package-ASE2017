@@ -1,0 +1,1 @@
+member type reference membertypereference b member bmember foo azz f hello fhello object some var somevar object azz azz member azzmember b member bmember some var somevar poo

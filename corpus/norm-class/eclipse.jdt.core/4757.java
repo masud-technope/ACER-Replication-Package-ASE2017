@@ -1,0 +1,1 @@
+copyright google rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors het google initial api implementation targets annotation processor tests annotationprocessortests bug gen anno annos gen anno genanno bug foo gen anno genanno

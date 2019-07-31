@@ -1,0 +1,1 @@
+first class firstclass object my method mymethod do something dosomething do something else dosomethingelse do this dothis left do this dothis do that dothat do this dothis do that dothat do that dothat last thing lastthing

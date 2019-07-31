@@ -1,0 +1,1 @@
+foo string bar foo bar

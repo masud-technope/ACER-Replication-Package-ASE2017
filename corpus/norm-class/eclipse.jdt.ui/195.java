@@ -1,0 +1,1 @@
+object test compound parenthesized write testcompoundparenthesizedwrite string field foo test compound parenthesized write testcompoundparenthesizedwrite field field

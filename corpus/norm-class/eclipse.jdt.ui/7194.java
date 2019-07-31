@@ -1,0 +1,1 @@
+object enum test enum read testenumread test string field foo string field

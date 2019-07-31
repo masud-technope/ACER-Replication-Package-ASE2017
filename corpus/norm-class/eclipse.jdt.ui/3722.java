@@ -1,0 +1,1 @@
+doit local class localclass rename method method method

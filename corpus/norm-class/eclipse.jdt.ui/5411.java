@@ -1,0 +1,1 @@
+lambda expression lambdaexpression functional interface functionalinterface foo test integer value of valueof

@@ -1,0 +1,1 @@
+test default package point testdefaultpackagepoint main string args test default package point testdefaultpackagepoint foo array list arraylist array list arraylist xer yer array list arraylist xer yer xer xer yer yer foo array list arraylist parameter object parameterobject system println parameter object parameterobject xer parameter object parameterobject yer

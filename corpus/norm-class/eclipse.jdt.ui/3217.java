@@ -1,0 +1,1 @@
+java util array list arraylist java util collections java util list foo string min collections min get names getnames list string get names getnames array list arraylist string result array list arraylist string result add zwyssig result add abaecherli result

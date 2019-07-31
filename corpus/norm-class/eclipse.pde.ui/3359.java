@@ -1,0 +1,1 @@
+invoke dynamic invokedynamic java util hash set hashset java util function supplier tests invoke dynamic reference lambda constructor call test supplier supplier hash set hashset string

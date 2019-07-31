@@ -1,0 +1,1 @@
+shape rectangle f bounds fbounds rectangle f inner bounds finnerbounds returns area area area f bounds fbounds area filled area filledarea area f inner bounds finnerbounds get width getwidth f inner bounds finnerbounds get height getheight is smaller than issmallerthan rectangle rect area rect get width getwidth rect get height getheight

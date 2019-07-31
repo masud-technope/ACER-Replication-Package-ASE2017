@@ -1,0 +1,1 @@
+foo test adjustment target method target type int ermediary intermediary create indirection bar foo

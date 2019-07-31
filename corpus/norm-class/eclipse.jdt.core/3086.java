@@ -1,0 +1,1 @@
+test wksp eclipse creates project location specification controls param project group projectgroup parent composite param initial enabled widgets created foo object project group projectgroup enabled

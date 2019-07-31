@@ -1,0 +1,1 @@
+test wksp eclipse tells resource children compile errors method acts current build recompile param resource resource check errors code code resource children error free org eclipse core runtime core exception coreexception marker problem foo

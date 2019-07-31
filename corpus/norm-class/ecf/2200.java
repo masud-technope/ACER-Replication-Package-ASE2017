@@ -1,0 +1,1 @@
+org eclipse ecf core shared object sharedobject model org eclipse ecf core shared object sharedobject model shared model sharedmodel property i shared model property remove event isharedmodelpropertyremoveevent i shared model event isharedmodelevent property get removed property getremovedproperty

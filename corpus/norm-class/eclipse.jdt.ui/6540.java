@@ -1,0 +1,1 @@
+initializer test extracted extracted bar bar

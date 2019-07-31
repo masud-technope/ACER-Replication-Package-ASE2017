@@ -1,0 +1,1 @@
+testshiftjis main string args system println ‚é‚ù‚ñ

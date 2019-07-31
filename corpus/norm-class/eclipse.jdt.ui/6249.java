@@ -1,0 +1,1 @@
+string assume camel case assumecamelcase

@@ -1,0 +1,1 @@
+test interface method testinterfacemethod i test interface method itestinterfacemethod javadoc i test interface method itestinterfacemethod foo java lang string foo foo parameter fooparameter parameter object parameterobject foo parameter object parameterobject

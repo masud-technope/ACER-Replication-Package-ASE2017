@@ -1,0 +1,1 @@
+counts ten console one to ten print onetotenprint main string args system println system println system println system println system println system println system println system println system println system print ten system exit

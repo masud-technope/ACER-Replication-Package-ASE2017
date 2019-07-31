@@ -1,0 +1,1 @@
+test inline method reference testinlinemethodreference fun fun test inline method reference testinlinemethodreference test inline method reference testinlinemethodreference bar fun test inline method reference testinlinemethodreference functional interface functionalinterface foo functional interface functionalinterface bar

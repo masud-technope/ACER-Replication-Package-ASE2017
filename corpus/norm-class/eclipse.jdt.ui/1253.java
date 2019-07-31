@@ -1,0 +1,1 @@
+enum enum test anonymous enum testanonymousenum foo bar bar system println eclipse

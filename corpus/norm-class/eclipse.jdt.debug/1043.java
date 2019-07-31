@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation java testio main string args testio tio testio tio test baby testbaby eof exception eofexception test baby testbaby eof exception eofexception eof exception eofexception test

@@ -1,0 +1,1 @@
+rename notify all notifyall lang spec string

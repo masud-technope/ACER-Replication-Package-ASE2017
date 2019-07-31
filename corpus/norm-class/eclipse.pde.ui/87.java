@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation methods modifiers noextend intended subclassed clients protected to private no extend protectedtoprivatenoextend method

@@ -1,0 +1,1 @@
+invalid test local initializer testlocalinitializer foo bar bar

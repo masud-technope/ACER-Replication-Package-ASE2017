@@ -1,0 +1,1 @@
+object pipe in pipein string foo pipe in pipein spawn parsing thread get reader getreader string bar pipe in pipein spawn parsing thread get reader getreader get reader getreader

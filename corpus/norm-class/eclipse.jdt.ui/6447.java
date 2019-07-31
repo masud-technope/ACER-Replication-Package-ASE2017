@@ -1,0 +1,1 @@
+functional interface functionalinterface foo renamed p renamedp foo renamed p renamedp

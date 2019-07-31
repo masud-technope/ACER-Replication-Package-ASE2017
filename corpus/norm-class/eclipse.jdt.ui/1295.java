@@ -1,0 +1,1 @@
+declare r declarer string constant foo string foo foo

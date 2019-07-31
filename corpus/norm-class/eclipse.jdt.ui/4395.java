@@ -1,0 +1,1 @@
+invalid test not method name testnotmethodname this class thisclass test not method name testnotmethodname system println this class thisclass

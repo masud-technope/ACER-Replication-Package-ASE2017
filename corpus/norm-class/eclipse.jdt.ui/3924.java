@@ -1,0 +1,1 @@
+signature java util list test wildcard types testwildcardtypes foo list string list string list

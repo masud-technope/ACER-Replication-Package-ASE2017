@@ -1,0 +1,1 @@
+simple test surrounding callers testsurroundingcallers call one callone to inline toinline to inline toinline system println eclipse call two calltwo to inline toinline

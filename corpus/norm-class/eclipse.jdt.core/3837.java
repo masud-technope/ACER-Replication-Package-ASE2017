@@ -1,0 +1,1 @@
+resolve local method resolvelocalmethod bar foo foo string bar foo

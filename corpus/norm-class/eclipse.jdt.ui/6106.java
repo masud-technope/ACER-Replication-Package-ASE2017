@@ -1,0 +1,1 @@
+receiver test no implicit receiver testnoimplicitreceiver no implicit receiver noimplicitreceiver foo system println eclipse main no implicit receiver noimplicitreceiver no implicit receiver noimplicitreceiver system println eclipse

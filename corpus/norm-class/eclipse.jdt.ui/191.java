@@ -1,0 +1,1 @@
+destination test foo extracted bar system println extracted bar

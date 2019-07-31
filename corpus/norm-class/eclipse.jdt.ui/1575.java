@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration foobar system println ceci est pas une pipe foobar

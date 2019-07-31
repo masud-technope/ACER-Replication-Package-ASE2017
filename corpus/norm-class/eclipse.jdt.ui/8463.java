@@ -1,0 +1,1 @@
+test inline lambda testinlinelambda object fun object object object object object object object object fun test inline lambda testinlinelambda test inline lambda testinlinelambda bar object fun object test inline lambda testinlinelambda object functional interface functionalinterface foo functional interface functionalinterface object bar object

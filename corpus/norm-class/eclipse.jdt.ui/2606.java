@@ -1,0 +1,1 @@
+system println integer double value doublevalue

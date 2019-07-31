@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation tests method correctly inherit restrictions valid noextend test method testmethod nooverride test method testmethod

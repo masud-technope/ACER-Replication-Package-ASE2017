@@ -1,0 +1,1 @@
+static context staticcontext static context staticcontext main string args static context staticcontext create static context createstaticcontext system println static context staticcontext create static context createstaticcontext static context staticcontext

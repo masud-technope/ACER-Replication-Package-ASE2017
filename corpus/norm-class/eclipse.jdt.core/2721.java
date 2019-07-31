@@ -1,0 +1,1 @@
+test test enum foo bar foo bar string bar

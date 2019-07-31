@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors ibm corporation initial api implementation org eclipse jdt internal compiler lookup binding ids bindingids field local variable field local type method

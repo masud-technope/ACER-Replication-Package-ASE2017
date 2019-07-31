@@ -1,0 +1,1 @@
+argument test literal reference read testliteralreferenceread main bar foo bar bar

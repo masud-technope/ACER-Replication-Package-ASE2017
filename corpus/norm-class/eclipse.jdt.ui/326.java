@@ -1,0 +1,1 @@
+test class instance testclassinstance to inline toinline test class instance testclassinstance references bar test class instance testclassinstance string number test class instance testclassinstance string number to inline toinline baz test class instance testclassinstance integer test class instance testclassinstance integer to inline toinline

@@ -1,0 +1,1 @@
+test wksp eclipse status code constant indicating attempt modify workspace locked resource disallowed types resource change event notification severity error category workspace i resource change event iresourcechangeevent foo

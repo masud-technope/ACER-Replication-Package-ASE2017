@@ -1,0 +1,1 @@
+replace all replaceall remove declaration removedeclaration can tonzuerich cantonzuerich gruezi wohl grueziwohl string gruezi gruezi wohl gruezi equals gruezi string holen gruss holengruss string gruezi gruezi gruezi gruezi equals gruezi wohl grueziwohl gruezi wohl wohl gruezi equals gruezi

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation int f a intfa read lamda expression anony int f a intfa p instance pinstance system println lamda expression

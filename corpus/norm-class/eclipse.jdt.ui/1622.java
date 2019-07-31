@@ -1,0 +1,1 @@
+name conflict nameconflict test field in type testfieldintype main foo

@@ -1,0 +1,1 @@
+foo nls string base base string constant base suffix string constant

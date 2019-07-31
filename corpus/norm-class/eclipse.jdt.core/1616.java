@@ -1,0 +1,1 @@
+test java util hashtable test test hashtable fields todo todo text direct field names dictionaries country dict info countrydictinfo fields hashtable fields fields num eric code numericcode numeric code numericcode get sqls getsqls fin mon finmon domain dictionary somefieldsqldescriptor select country dict countrydict order fields

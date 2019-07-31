@@ -1,0 +1,1 @@
+string str toto str titi str tata foo string str toto str titi str tata

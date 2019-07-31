@@ -1,0 +1,1 @@
+copyright bea systems rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors tyeung bea initial api implementation org eclipse jdt apt tests annotations api test apitest annotation trigger link api annotation processor factory apiannotationprocessorfactory common

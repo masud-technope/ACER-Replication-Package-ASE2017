@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation java util array list arraylist foo initializer problem initializerproblem test foo test test array list arraylist list array list arraylist

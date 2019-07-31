@@ -1,0 +1,1 @@
+selection iterator iter simple java util array list arraylist new instance import newinstanceimport array list arraylist iterator has next hasnext

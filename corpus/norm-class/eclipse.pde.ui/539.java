@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse pde internal core i extension delta listener iextensiondeltalistener extensions changed extensionschanged i extension delta event iextensiondeltaevent event
