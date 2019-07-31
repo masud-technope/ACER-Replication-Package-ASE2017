@@ -1,0 +1,3 @@
+bundles/api/src/main/java/org/apache/sling/api/request/RequestPathInfo.java
+bundles/api/src/main/java/org/apache/sling/api/request/package-info.java
+bundles/engine/src/main/java/org/apache/sling/engine/impl/request/SlingRequestPathInfo.java

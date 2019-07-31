@@ -1,0 +1,4 @@
+bundles/jcr/jackrabbit-accessmanager/src/main/java/org/apache/sling/jcr/jackrabbit/accessmanager/PrivilegesInfo.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/accessManager/AbstractAccessManagerTest.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/accessManager/PrivilegesInfoTest.java
+launchpad/testing/src/test/resources/integration-test/accessmanager/privileges-info.json.esp

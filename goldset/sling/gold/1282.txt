@@ -1,0 +1,11 @@
+bundles/jcr/jackrabbit-server/pom.xml
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/Activator.java
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/security/CallbackHandlerWrapper.java
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/security/AdministrativeCredentials.java
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/security/PluggableDefaultLoginModule.java
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/security/AnonCredentials.java
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/SlingServerRepository.java
+bundles/jcr/jackrabbit-server/src/main/resources/OSGI-INF/metatype/metatype.properties
+bundles/jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/impl/security/TrustedCredentials.java
+bundles/jcr/base/src/main/java/org/apache/sling/jcr/base/AbstractSlingRepository.java
+launchpad/builder/src/main/bundles/list.xml

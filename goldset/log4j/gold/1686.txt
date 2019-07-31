@@ -1,0 +1,5 @@
+docs/HISTORY
+src/java/org/apache/log4j/test/pattern
+src/java/org/apache/log4j/test/witness/pattern.15
+src/java/org/apache/log4j/xml/DOMConfigurator.java
+src/xdocs/download.xml

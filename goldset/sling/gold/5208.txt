@@ -1,0 +1,8 @@
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/CombinedResourceProvider.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/CombinedResourceProvider.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/ResourceProviderAuthenticator.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/StatefulResourceProvider.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/BasicResolveContext.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/AuthenticatedResourceProvider.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/BasicResolveContext.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/stateful/ResourceProviderAuthenticator.java

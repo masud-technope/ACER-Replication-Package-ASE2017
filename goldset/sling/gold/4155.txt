@@ -1,0 +1,2 @@
+bundles/extensions/models/api/src/main/java/org/apache/sling/models/annotations/injectorspecific/RequestAttribute.java
+bundles/extensions/models/impl/src/main/java/org/apache/sling/models/impl/injectors/RequestAttributeInjector.java

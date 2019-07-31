@@ -1,0 +1,3 @@
+bundles/extensions/discovery/commons/src/test/java/org/apache/sling/discovery/commons/providers/spi/base/TestOakSyncTokenService.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/spi/base/OakBacklogClusterSyncService.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/spi/base/AbstractServiceWithBackgroundCheck.java

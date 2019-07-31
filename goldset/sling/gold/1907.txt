@@ -1,0 +1,2 @@
+contrib/scripting/scala/script/pom.xml
+contrib/scripting/scala/samples/forum/README.txt

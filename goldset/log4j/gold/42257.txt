@@ -1,0 +1,11 @@
+src/main/java/org/apache/log4j/xml/DOMConfigurator.java
+pom.xml
+src/main/java/org/apache/log4j/xml/DOMConfigurator.java
+src/main/javadoc/org/apache/log4j/xml/log4j.dtd
+src/main/resources/org/apache/log4j/xml/log4j.dtd
+src/java/org/apache/log4j/xml/DOMConfigurator.java
+src/java/org/apache/log4j/xml/log4j.dtd
+pom.xml
+src/java/org/apache/log4j/xml/DOMConfigurator.java
+src/java/org/apache/log4j/xml/UnrecognizedElementHandler.java
+src/java/org/apache/log4j/xml/log4j.dtd

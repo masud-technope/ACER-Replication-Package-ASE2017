@@ -1,0 +1,13 @@
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/taglib.tld
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/taglib10.tld
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/EvalTagHandler.java
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/taglib.tld
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/taglib11.tld
+bundles/scripting/jsp-taglib/pom.xml
+bundles/scripting/core/pom.xml
+bundles/scripting/jsp-taglib/NOTICE
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/EvalTagHandler.java
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/ForwardTagHandler.java
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/IncludeTagHandler.java
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/NOTICE
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/taglib.tld

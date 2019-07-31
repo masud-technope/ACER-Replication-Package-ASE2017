@@ -1,0 +1,6 @@
+src/java/org/apache/log4j/xml/XMLLayout.java
+src/java/org/apache/log4j/xml/DOMConfigurator.java
+build.xml
+docs/HISTORY.txt
+src/java/org/apache/log4j/xml/examples/XMLSample.java
+src/java/org/apache/log4j/xml/examples/package.html

@@ -1,0 +1,3 @@
+src/java/org/apache/log4j/net/SMTPAppender.java
+src/java/org/apache/log4j/net/SMTPAppender.java
+src/java/org/apache/log4j/net/SMTPAppender.java

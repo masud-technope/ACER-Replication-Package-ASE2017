@@ -1,0 +1,1 @@
+bundles/jcr/jackrabbit-server/pom.xml

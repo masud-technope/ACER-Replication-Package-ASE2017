@@ -1,0 +1,2 @@
+contrib/extensions/replication/it/src/test/java/org/apache/sling/replication/it/ReplicationIntegrationTestBase.java
+contrib/extensions/replication/it/pom.xml

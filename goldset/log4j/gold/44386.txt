@@ -1,0 +1,10 @@
+NTEventLogAppender.amd64.dll
+src/ntdll/NTEventLogAppender.def
+src/main/java/org/apache/log4j/nt/NTEventLogAppender.java
+src/ntdll/NTEventLogAppender.rc
+src/assembly/bin.xml
+src/ntdll/resources/NTEventLogAppender.amd64.dll
+src/changes/changes.xml
+pom.xml
+src/ntdll/build.xml
+src/ntdll/nteventlog.cpp

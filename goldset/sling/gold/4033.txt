@@ -1,0 +1,2 @@
+testing/resourceresolver-mock/pom.xml
+testing/resourceresolver-mock/src/main/java/org/apache/sling/testing/resourceresolver/MockResource.java

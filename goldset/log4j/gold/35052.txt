@@ -1,0 +1,4 @@
+src/java/org/apache/log4j/CategoryKey.java
+src/java/org/apache/log4j/CategoryKey.java
+tests/performance.xml
+tests/src/java/org/apache/log4j/performance/GetLoggerTest.java

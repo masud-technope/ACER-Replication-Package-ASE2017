@@ -1,0 +1,2 @@
+bundles/commons/log/src/main/java/org/apache/sling/commons/log/internal/slf4j/SlingLoggerWriter.java
+bundles/commons/log/src/test/java/org/apache/sling/commons/log/internal/slf4j/SlingLogWriterTest.java

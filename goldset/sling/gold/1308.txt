@@ -1,0 +1,7 @@
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/RedirectServlet.java
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/DefaultGetServlet.java
+bundles/servlets/get/src/main/resources/OSGI-INF/metatype/metatype.properties
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/JsonRenderingTest.java
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/helpers/ResourceTraversor.java
+launchpad/builder/src/main/bundles/list.xml
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/helpers/JsonRendererServlet.java

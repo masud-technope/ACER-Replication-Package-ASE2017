@@ -1,0 +1,10 @@
+tests/src/java/org/apache/log4j/xml/LoggerFactoryTest.java
+tests/input/xml/loggerFactory2.xml
+src/java/org/apache/log4j/joran/action/LoggerFactoryAction.java
+src/java/org/apache/log4j/spi/LoggerRepositoryEx.java
+src/java/org/apache/log4j/xml/log4j.dtd
+src/java/org/apache/log4j/DefaultLoggerFactory.java
+src/java/org/apache/log4j/Hierarchy.java
+tests/input/xml/loggerFactory1.xml
+src/java/org/apache/log4j/joran/JoranConfigurator.java
+src/java/org/apache/log4j/PropertyConfigurator.java

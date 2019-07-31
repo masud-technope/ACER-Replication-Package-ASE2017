@@ -1,0 +1,4 @@
+scripting/javascript/src/main/java/org/apache/sling/scripting/javascript/helper/SlingRhinoDebugger.java
+scripting/javascript/pom.xml
+scripting/javascript/src/main/java/org/apache/sling/scripting/javascript/RhinoJavaScriptEngineFactory.java
+scripting/javascript/src/main/java/org/apache/sling/scripting/javascript/helper/SlingContextFactory.java

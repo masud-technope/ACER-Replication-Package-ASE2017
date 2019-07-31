@@ -1,0 +1,10 @@
+examples/lf5/InitUsingXMLPropertiesFile/example.xml
+src/changes/changes.xml
+src/main/java/org/apache/log4j/xml/Log4jEntityResolver.java
+src/main/java/org/apache/log4j/xml/XMLLayout.java
+src/main/javadoc/org/apache/log4j/xml/examples/sample1.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample2.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample3.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample4.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample5.xml
+src/performance/java/org/apache/log4j/performance/xml/logging1.xml

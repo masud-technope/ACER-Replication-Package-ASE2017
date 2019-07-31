@@ -1,0 +1,2 @@
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/jcr/JcrNodeResource.java
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/starresource/StarResource.java

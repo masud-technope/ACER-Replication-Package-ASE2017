@@ -1,0 +1,6 @@
+microsling/microsling-core/src/test/java/org/apache/sling/microsling/integration/SlingResourceTypeRenderingTest.java
+microsling/microsling-core/src/main/java/org/apache/sling/microsling/scripting/helpers/ScriptFilenameBuilder.java
+microsling/microsling-core/src/test/resources/integration-test/rendering-test-2.esp
+microsling/microsling-core/src/test/resources/integration-test/rendering-test-3.esp
+microsling/microsling-core/src/test/java/org/apache/sling/microsling/scripting/helpers/ScriptFilenameBuilderTest.java
+microsling/microsling-core/src/main/java/org/apache/sling/microsling/scripting/MicroslingScriptResolver.java

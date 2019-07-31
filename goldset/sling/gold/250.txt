@@ -1,0 +1,2 @@
+sling/core/src/test/java/org/apache/sling/core/impl/request/SlingRequestPathInfoTest.java
+sling/core/src/main/java/org/apache/sling/core/impl/request/SlingRequestPathInfo.java

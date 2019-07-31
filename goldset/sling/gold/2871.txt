@@ -1,0 +1,5 @@
+bundles/scripting/jsp-taglib/src/test/java/org/apache/sling/scripting/jsp/taglib/TestSlingFunctions.java
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/SlingFunctions.java
+bundles/scripting/jsp-taglib/src/test/java/org/apache/sling/scripting/jsp/taglib/TestAdaptObjectTag.java
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/AdaptToTag.java
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/taglib13.tld

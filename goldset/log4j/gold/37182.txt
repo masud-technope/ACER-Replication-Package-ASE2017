@@ -1,0 +1,5 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/or/DefaultRenderer.java
+src/main/java/org/apache/log4j/or/ThreadGroupRenderer.java
+src/main/java/org/apache/log4j/or/sax/AttributesRenderer.java
+tests/src/java/org/apache/log4j/spi/LoggingEventTest.java

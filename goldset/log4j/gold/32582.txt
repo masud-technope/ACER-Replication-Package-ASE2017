@@ -1,0 +1,7 @@
+src/main/java/org/apache/log4j/net/SMTPAppender.java
+tests/build.xml
+src/changes/changes.xml
+tests/input/xml/smtpAppender1.xml
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+pom.xml
+tests/src/java/org/apache/log4j/net/SMTPAppenderTest.java

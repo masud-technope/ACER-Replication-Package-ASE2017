@@ -1,0 +1,1 @@
+bundles/extensions/bundleresource/src/main/java/org/apache/sling/bundleresource/impl/BundleResourceProvider.java

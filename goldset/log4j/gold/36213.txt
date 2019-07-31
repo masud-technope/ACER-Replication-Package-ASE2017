@@ -1,0 +1,4 @@
+docs/HISTORY.txt
+src/xdocs/documentation.xml
+src/xdocs/plan.xml
+src/xdocs/srtw.xml

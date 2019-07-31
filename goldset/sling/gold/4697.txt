@@ -1,0 +1,4 @@
+bundles/extensions/discovery/commons/src/test/java/org/apache/sling/discovery/commons/providers/impl/SimpleInstanceDescription.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/impl/ViewStateManagerImpl.java
+bundles/extensions/discovery/commons/src/test/java/org/apache/sling/discovery/commons/providers/impl/SimpleTopologyView.java
+bundles/extensions/discovery/commons/src/test/java/org/apache/sling/discovery/commons/providers/impl/TestViewStateManager.java

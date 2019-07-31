@@ -1,0 +1,2 @@
+tests/src/java/org/apache/log4j/plugins/PluginTestCase.java
+tests/witness/plugins.PluginTestCase.test1.txt

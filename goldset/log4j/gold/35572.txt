@@ -1,0 +1,3 @@
+tests/.cvsignore
+tests/build.properties.sample
+tests/build.xml

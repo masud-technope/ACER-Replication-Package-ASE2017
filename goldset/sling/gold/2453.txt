@@ -1,0 +1,2 @@
+bundles/servlets/post/src/test/java/org/apache/sling/servlets/post/impl/helper/HtmlResponseProxyTest.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/HtmlResponseProxy.java

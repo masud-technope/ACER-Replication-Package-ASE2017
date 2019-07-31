@@ -1,0 +1,16 @@
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/PrivilegeReplicationRequestAuthorizationStrategy.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/transport/authentication/impl/UserCredentialsTransportAuthenticationProvider.java
+contrib/extensions/replication/core/src/test/java/org/apache/sling/replication/trigger/impl/ChainReplicateReplicationTriggerTest.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/RemoteEventReplicationTrigger.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/packaging/impl/importer/RemoteReplicationPackageImporter.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/transport/authentication/impl/UserCredentialsTransportAuthenticationProviderFactory.java
+contrib/extensions/replication/core/src/test/java/org/apache/sling/replication/agent/impl/DefaultReplicationComponentFactoryTest.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/ScheduledReplicationTrigger.java
+contrib/extensions/replication/core/src/test/java/org/apache/sling/replication/serialization/impl/vlt/FileVaultReplicationPackageTest.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/CoordinatingReplicationAgentFactory.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/packaging/impl/importer/LocalReplicationPackageImporter.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/ChainReplicateReplicationTrigger.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/ReplicationRequestAuthorizationStrategy.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/AbstractJcrEventTrigger.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/ReplicationComponentFactory.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/JcrEventReplicationTrigger.java

@@ -1,0 +1,6 @@
+bundles/extensions/discovery/oak/src/main/java/org/apache/sling/discovery/oak/TopologyWebConsolePlugin.java
+bundles/extensions/discovery/oak/src/main/java/org/apache/sling/discovery/oak/cluster/OakClusterViewService.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/spi/base/OakSyncTokenConsistencyService.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/spi/base/SyncTokenOnlyConsistencyService.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/spi/base/BaseSyncTokenConsistencyService.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/spi/base/IdMapService.java

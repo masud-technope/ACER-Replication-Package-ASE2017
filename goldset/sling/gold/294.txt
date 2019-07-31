@@ -1,0 +1,3 @@
+jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/SlingServerRepository.java
+jcr/api/src/main/java/org/apache/sling/jcr/api/AbstractSlingRepository.java
+jcr/jackrabbit-client/src/main/java/org/apache/sling/jcr/jackrabbit/client/SlingClientRepository.java

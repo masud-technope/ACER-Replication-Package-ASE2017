@@ -1,0 +1,6 @@
+tests/src/java/org/apache/log4j/xml/DOMTest.java
+src/java/org/apache/log4j/xml/DOMConfigurator.java
+tests/input/xml/DOMTest3.xml
+tests/src/java/org/apache/log4j/xml/DOMTest.java
+tests/witness/xml/dom.A1.3
+tests/witness/xml/dom.A2.3

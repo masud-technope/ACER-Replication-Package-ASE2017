@@ -1,0 +1,15 @@
+bundles/jcr/ocm/pom.xml
+bundles/scripting/jsp-taglib/pom.xml
+maven/maven-jspc-plugin/pom.xml
+bundles/scripting/javascript/pom.xml
+maven/maven-sling-plugin/pom.xml
+launchpad/builder/pom.xml
+bundles/api/pom.xml
+bundles/scripting/jsp/pom.xml
+parent/pom.xml
+bundles/jcr/jackrabbit-accessmanager/pom.xml
+bundles/jcr/jackrabbit-usermanager/pom.xml
+bundles/commons/json/pom.xml
+bundles/commons/mime/pom.xml
+maven/maven-jcrocm-plugin/pom.xml
+bundles/jcr/resource/pom.xml

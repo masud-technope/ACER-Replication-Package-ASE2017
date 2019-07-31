@@ -1,0 +1,1 @@
+bundles/commons/log/src/main/java/org/apache/sling/commons/log/internal/slf4j/LogConfigManager.java

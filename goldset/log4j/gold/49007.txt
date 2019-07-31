@@ -1,0 +1,2 @@
+src/changes/changes.xml
+tests/src/java/org/apache/log4j/pattern/CachedDateFormatTest.java

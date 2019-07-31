@@ -1,0 +1,3 @@
+installer/jcr/jcrinstall/src/main/java/org/apache/sling/jcr/jcrinstall/impl/FileNodeConverter.java
+installer/osgi/installer/pom.xml
+installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/InstallableResource.java

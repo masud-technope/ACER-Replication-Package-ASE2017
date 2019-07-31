@@ -1,0 +1,2 @@
+launchpad/base/src/test/java/org/apache/sling/launchpad/base/impl/bootstrapcommands/BootstrapCommandFileTest.java
+launchpad/base/src/test/java/org/apache/sling/launchpad/base/impl/bootstrapcommands/UninstallBundleCommandTest.java

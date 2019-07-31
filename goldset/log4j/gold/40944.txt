@@ -1,0 +1,9 @@
+tests/src/java/org/apache/log4j/PropertyConfiguratorTest.java
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+src/java/org/apache/log4j/PropertyConfigurator.java
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/PropertyConfiguratorTest.java
+src/java/org/apache/log4j/PropertyConfigurator.java
+tests/.cvsignore
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/PropertyConfiguratorTest.java

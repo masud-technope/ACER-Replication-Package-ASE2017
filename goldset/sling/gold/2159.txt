@@ -1,0 +1,2 @@
+samples/custom-login-form/pom.xml
+samples/custom-login-form/src/main/resources/org/apache/sling/auth/form/impl/custom_login.html

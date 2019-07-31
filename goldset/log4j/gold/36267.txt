@@ -1,0 +1,3 @@
+build.properties.sample
+build.xml
+docs/HISTORY.txt

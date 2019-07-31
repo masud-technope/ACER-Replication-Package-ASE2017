@@ -1,0 +1,4 @@
+launchpad/bundles/pom.xml
+launchpad/app/pom.xml
+launchpad/testing/pom.xml
+launchpad/webapp/pom.xml

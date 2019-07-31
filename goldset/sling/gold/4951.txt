@@ -1,0 +1,2 @@
+bundles/extensions/validation/core/src/main/java/org/apache/sling/validation/impl/resourcemodel/ResourceValidationModelProviderImpl.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/resourcemodel/ResourceValidationModelProviderImplTest.java

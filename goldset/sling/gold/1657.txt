@@ -1,0 +1,15 @@
+installer/osgi/it/pom.xml
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundleDependenciesTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundleInstallStressTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundleInstallUpgradeDowngradeTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundlePrioritiesTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundleSnapshotUpdateTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundleStartRetriesTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/BundleStatePreservedTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/ConfigInstallTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/ContextBundleUpdateTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/InvalidBundlesTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/OsgiInstallerTestBase.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/RegisterResourcesTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/RemovedResourceDetectionTest.java
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/WorkerThreadIdleTest.java

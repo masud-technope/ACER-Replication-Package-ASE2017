@@ -1,0 +1,2 @@
+src/java/org/apache/log4j/scheduler/Scheduler.java
+src/java/org/apache/log4j/spi/LocationInfo.java

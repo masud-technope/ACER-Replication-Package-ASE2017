@@ -1,0 +1,2 @@
+jcr/resource/src/test/java/org/apache/sling/jcr/resource/internal/helper/ResourcePathIteratorTest.java
+jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/ResourcePathIterator.java

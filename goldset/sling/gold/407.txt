@@ -1,0 +1,1 @@
+jcr/jackrabbit-server/src/main/java/org/apache/sling/jcr/jackrabbit/server/Activator.java

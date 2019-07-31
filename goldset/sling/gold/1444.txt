@@ -1,0 +1,1 @@
+bundles/commons/auth/src/main/java/org/apache/sling/commons/auth/impl/SlingAuthenticator.java

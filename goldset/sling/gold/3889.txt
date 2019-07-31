@@ -1,0 +1,4 @@
+testing/resourceresolver-mock/pom.xml
+testing/resourceresolver-mock/src/test/java/org/apache/sling/testing/resourceresolver/SlingCrudResourceResolverTest.java
+testing/resourceresolver-mock/src/main/java/org/apache/sling/testing/resourceresolver/MockResourceResolver.java
+testing/resourceresolver-mock/src/test/java/org/apache/sling/testing/resourceresolver/CreateDeleteResourceResolverTest.java

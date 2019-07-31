@@ -1,0 +1,3 @@
+launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/scripting/SlingJSPTaglibTest.java
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/jcr/JcrItemResource.java
+launchpad/builder/src/main/bundles/list.xml

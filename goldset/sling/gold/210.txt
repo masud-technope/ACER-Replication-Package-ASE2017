@@ -1,0 +1,4 @@
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/ReferenceServlet.java
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/ResourceServlet.java
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/FileServlet.java
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/FolderServlet.java

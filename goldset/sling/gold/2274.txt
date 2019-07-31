@@ -1,0 +1,1 @@
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/AnonymousAccessConfigServlet.java

@@ -1,0 +1,2 @@
+src/changes/changes.xml
+src/site/xdoc/manual.xml

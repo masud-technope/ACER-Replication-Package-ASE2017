@@ -1,0 +1,4 @@
+bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/setup/OSGiMock.java
+bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/topology/LargeTopologyWithHubTest.java
+bundles/extensions/discovery/impl/src/test/resources/log4j.properties
+bundles/extensions/discovery/impl/src/main/java/org/apache/sling/discovery/impl/common/heartbeat/HeartbeatHandler.java

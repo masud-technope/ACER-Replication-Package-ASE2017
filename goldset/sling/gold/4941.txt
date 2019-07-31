@@ -1,0 +1,1 @@
+bundles/extensions/healthcheck/core/src/main/java/org/apache/sling/hc/core/impl/JmxAdjustableStatusForTesting.java

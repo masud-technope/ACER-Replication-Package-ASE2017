@@ -1,0 +1,3 @@
+contrib/scripting/java/src/main/java/org/apache/sling/scripting/java/JavaScriptEngineFactory.java
+contrib/scripting/java/src/main/java/org/apache/sling/scripting/java/CompilationContext.java
+contrib/scripting/java/src/main/java/org/apache/sling/scripting/java/ServletWrapper.java

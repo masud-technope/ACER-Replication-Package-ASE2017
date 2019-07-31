@@ -1,0 +1,7 @@
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/HtmlDefaultServlet.java
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/PutMethodServlet.java
+launchpad/test-services-war/src/main/java/org/apache/sling/launchpad/testservices/war/servlets/SelectorServlet.java
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/PrefixServletMinusOne.java
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/PrefixServletZero.java
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/SelectorServlet.java
+launchpad/test-services/src/main/java/org/apache/sling/launchpad/testservices/servlets/GetConfigServlet.java

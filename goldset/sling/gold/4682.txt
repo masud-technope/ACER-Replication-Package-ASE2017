@@ -1,0 +1,9 @@
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/serialization/impl/vlt/JcrVaultDistributionPackageBuilder.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/serialization/impl/vlt/FileVaultDistributionPackageBuilder.java
+contrib/extensions/distribution/core/src/test/java/org/apache/sling/distribution/serialization/impl/vlt/FileVaultDistributionPackageBuilderTest.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/queue/DistributionQueue.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/serialization/impl/ResourceSharedDistributionPackage.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/packaging/impl/DistributionPackageUtils.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/queue/impl/simple/SimpleDistributionQueue.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/serialization/impl/AbstractDistributionPackageBuilder.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/queue/impl/jobhandling/JobHandlingDistributionQueue.java

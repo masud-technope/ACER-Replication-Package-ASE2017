@@ -1,0 +1,1 @@
+bundles/extensions/httpauth/src/main/java/org/apache/sling/httpauth/impl/AuthorizationHeaderAuthenticationHandler.java

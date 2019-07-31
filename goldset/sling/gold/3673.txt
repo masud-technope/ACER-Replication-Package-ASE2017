@@ -1,0 +1,10 @@
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/sling-ordered-folder-with-children-reordered.xml
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/jcr/PrimaryTypeMatcher.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/jcr/PropertyMatcher.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/jcr/ChildrenNameMatcher.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/jcr/MixinTypesMatcher.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/JcrPartialCoverageAggregatesDeploymentTest.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/sling-ordered-folder-with-children.xml
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/jcr/NodePathMatcher.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/jcr/ChildrenCountMatcher.java
+tooling/ide/impl-vlt/src/org/apache/sling/ide/impl/vlt/AddOrUpdateNodeCommand.java

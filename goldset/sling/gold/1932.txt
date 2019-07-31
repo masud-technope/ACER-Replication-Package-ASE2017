@@ -1,0 +1,3 @@
+launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/login/FormGenerationTest.java
+launchpad/builder/src/main/bundles/list.xml
+bundles/auth/core/src/main/java/org/apache/sling/auth/core/spi/AbstractAuthenticationFormServlet.java

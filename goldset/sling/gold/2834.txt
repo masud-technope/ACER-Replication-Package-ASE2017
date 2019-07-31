@@ -1,0 +1,2 @@
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/IncludeTagHandler.java
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/sling.tld

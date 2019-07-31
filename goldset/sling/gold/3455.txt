@@ -1,0 +1,8 @@
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/impl/ResourceModelClassesTest.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/ChildValueMapModel.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/ChildResourceModel.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/interfaces/ChildModel.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/impl/ResourceModelInterfacesTest.java
+bundles/extensions/models/impl/src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/ParentModel.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/interfaces/ParentModel.java

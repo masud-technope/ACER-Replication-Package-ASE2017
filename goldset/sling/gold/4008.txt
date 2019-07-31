@@ -1,0 +1,4 @@
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/serialization/impl/vlt/FileVaultReplicationPackageBuilder.java
+contrib/extensions/replication/core/pom.xml
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/communication/ReplicationRequest.java
+contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/JcrEventReplicationTrigger.java

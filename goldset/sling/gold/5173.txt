@@ -1,0 +1,8 @@
+bundles/extensions/discovery/base/src/test/java/org/apache/sling/discovery/base/its/setup/mock/SimpleConnectorConfig.java
+bundles/extensions/discovery/impl/src/main/java/org/apache/sling/discovery/impl/Config.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/base/MinEventDelayHandler.java
+bundles/extensions/discovery/base/src/main/java/org/apache/sling/discovery/base/commons/DefaultTopologyView.java
+bundles/extensions/discovery/commons/src/main/java/org/apache/sling/discovery/commons/providers/base/ViewStateManagerImpl.java
+bundles/extensions/discovery/base/src/test/java/org/apache/sling/discovery/base/its/AbstractTopologyEventTest.java
+bundles/extensions/discovery/base/src/main/java/org/apache/sling/discovery/base/connectors/BaseConfig.java
+bundles/extensions/discovery/base/src/main/java/org/apache/sling/discovery/base/connectors/ping/TopologyConnectorClient.java

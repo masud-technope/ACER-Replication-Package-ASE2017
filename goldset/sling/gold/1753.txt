@@ -1,0 +1,1 @@
+bundles/servlets/post/src/main/resources/system/sling.js

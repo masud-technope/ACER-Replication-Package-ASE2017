@@ -1,0 +1,2 @@
+bundles/extensions/httpauth/pom.xml
+bundles/extensions/httpauth/src/main/java/org/apache/sling/httpauth/impl/AuthorizationHeaderAuthenticationHandler.java

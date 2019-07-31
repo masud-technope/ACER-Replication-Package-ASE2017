@@ -1,0 +1,1 @@
+installer/osgi/it/src/test/java/org/apache/sling/osgi/installer/it/OsgiInstallerTestBase.java

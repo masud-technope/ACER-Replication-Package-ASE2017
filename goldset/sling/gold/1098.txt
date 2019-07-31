@@ -1,0 +1,2 @@
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/helpers/PlainTextRendererServlet.java
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/helpers/HtmlRendererServlet.java

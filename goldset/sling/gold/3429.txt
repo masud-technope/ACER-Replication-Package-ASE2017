@@ -1,0 +1,4 @@
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/impl/OSGiInjectionTest.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/OptionalListOSGiModel.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/OptionalArrayOSGiModel.java
+bundles/extensions/models/impl/src/main/java/org/apache/sling/models/impl/injectors/OSGiServiceInjector.java

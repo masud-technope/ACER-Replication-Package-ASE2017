@@ -1,0 +1,3 @@
+contrib/extensions/distribution/core/src/test/java/org/apache/sling/distribution/trigger/impl/PersistingJcrEventDistributionTriggerTest.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/trigger/impl/PersistedJcrEventDistributionTrigger.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/trigger/impl/AbstractJcrEventTrigger.java

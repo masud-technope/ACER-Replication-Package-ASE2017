@@ -1,0 +1,7 @@
+bundles/jcr/contentloader/src/main/java/org/apache/sling/jcr/contentloader/internal/DefaultContentImporter.java
+launchpad/integration-tests/src/main/resources/integration-test/servlets/post/testimport2.json
+bundles/jcr/contentloader/src/main/java/org/apache/sling/jcr/contentloader/internal/DefaultContentCreator.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ImportOperation.java
+launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletImportTest.java
+bundles/jcr/contentloader/src/main/java/org/apache/sling/jcr/contentloader/internal/readers/JsonReader.java
+launchpad/integration-tests/src/main/resources/integration-test/servlets/post/importresults.json

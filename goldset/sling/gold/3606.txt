@@ -1,0 +1,2 @@
+tooling/ide/eclipse-ui/src/org/apache/sling/ide/eclipse/ui/nav/model/JcrNode.java
+tooling/ide/eclipse-ui/src/org/apache/sling/ide/eclipse/ui/nav/model/ModifiableProperties.java

@@ -1,0 +1,1 @@
+contrib/scripting/scala/script/src/main/scala/org/apache/sling/scripting/scala/AbstractSettingsProvider.scala

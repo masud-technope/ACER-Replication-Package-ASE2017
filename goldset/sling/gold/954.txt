@@ -1,0 +1,3 @@
+launchpad/base/src/main/java/org/apache/sling/launchpad/base/app/MainDelegate.java
+launchpad/base/src/main/java/org/apache/sling/launchpad/app/ControlListener.java
+launchpad/base/src/main/java/org/apache/sling/launchpad/app/Main.java

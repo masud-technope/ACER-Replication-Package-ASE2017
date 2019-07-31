@@ -1,0 +1,4 @@
+src/java/org/apache/log4j/spi/ThrowableInformation.java
+tests/src/java/org/apache/log4j/spi/ThrowableInformationTest.java
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/spi/ThrowableInformationTest.java

@@ -1,0 +1,2 @@
+src/main/java/org/apache/log4j/Logger.java
+src/site/xdoc/manual.xml

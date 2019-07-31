@@ -1,0 +1,2 @@
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/ResourceProviderEntry2.java
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/WrappedResourceProvider.java

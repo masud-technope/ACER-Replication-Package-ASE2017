@@ -1,0 +1,5 @@
+src/xdocs/plan.xml
+src/xdocs/download.xml
+src/xdocs/contributors.xml
+src/xdocs/documentation.xml
+src/xdocs/history.xml

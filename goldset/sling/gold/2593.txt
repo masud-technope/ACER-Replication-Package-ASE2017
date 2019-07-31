@@ -1,0 +1,2 @@
+performance/tests/src/main/java/org/apache/sling/performance/tests/ResolveNonExistingWithManyVanityPathTest.java
+performance/tests/src/main/java/org/apache/sling/performance/tests/ResolveNonExistingWithManyAliasTest.java

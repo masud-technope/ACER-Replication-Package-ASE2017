@@ -1,0 +1,6 @@
+bundles/extensions/discovery/oak/src/test/java/org/apache/sling/discovery/oak/its/setup/OakVirtualInstanceBuilder.java
+bundles/extensions/discovery/oak/src/main/java/org/apache/sling/discovery/oak/OakDiscoveryService.java
+bundles/extensions/discovery/impl/src/main/java/org/apache/sling/discovery/impl/DiscoveryServiceImpl.java
+bundles/extensions/discovery/oak/src/test/java/org/apache/sling/discovery/oak/its/setup/SimulatedLeaseCollection.java
+bundles/extensions/discovery/oak/src/test/java/org/apache/sling/discovery/oak/its/OakDiscoveryServiceTest.java
+bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/cluster/RepositoryDelaysTest.java

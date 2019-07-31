@@ -1,0 +1,1 @@
+contrib/scripting/jsp-taglib-atom/src/main/java/org/apache/sling/atom/taglib/internal/AbderaActivator.java

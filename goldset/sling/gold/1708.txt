@@ -1,0 +1,3 @@
+contrib/scripting/velocity/src/main/java/org/apache/sling/scripting/velocity/SlingResourceLoader.java
+contrib/scripting/velocity/src/main/java/org/apache/sling/scripting/velocity/VelocityScriptEngineService.java
+contrib/scripting/velocity/src/main/java/org/apache/sling/scripting/velocity/VelocityTemplatesScriptEngine.java

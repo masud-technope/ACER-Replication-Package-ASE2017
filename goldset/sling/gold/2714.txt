@@ -1,0 +1,1 @@
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/tree/ResourceProviderEntry.java

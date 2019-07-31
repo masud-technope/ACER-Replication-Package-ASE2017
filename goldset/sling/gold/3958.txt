@@ -1,0 +1,8 @@
+bundles/scripting/jsp-taglib/src/test/java/org/apache/sling/scripting/jsp/taglib/TestSlingFunctions.java
+launchpad/installer/src/main/java/org/apache/sling/launchpad/installer/impl/LaunchpadConfigInstaller.java
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/SlingFunctions.java
+testing/junit/core/src/main/java/org/apache/sling/junit/impl/servlet/JUnitServlet.java
+launchpad/integration-tests/src/main/resources/integration-test/taglib-test.jsp
+bundles/scripting/jsp-taglib/src/main/resources/META-INF/sling.tld
+testing/junit/core/src/main/java/org/apache/sling/junit/impl/servlet/SlingJUnitServlet.java
+launchpad/builder/src/main/bundles/list.xml

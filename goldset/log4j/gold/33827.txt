@@ -1,0 +1,4 @@
+src/java/org/apache/log4j/db/ConnectionSourceSkeleton.java
+src/java/org/apache/log4j/db/DataSourceConnectionSource.java
+src/java/org/apache/log4j/db/DriverManagerConnectionSource.java
+src/java/org/apache/log4j/db/JNDIConnectionSource.java

@@ -1,0 +1,5 @@
+build.xml
+build.xml
+src/main/java/org/apache/log4j/WriterAppender.java
+src/changes/changes.xml
+src/main/java/org/apache/log4j/WriterAppender.java

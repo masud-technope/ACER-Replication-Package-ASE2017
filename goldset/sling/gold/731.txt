@@ -1,0 +1,1 @@
+extensions/jcrinstall/src/main/java/org/apache/sling/jcr/jcrinstall/osgi/impl/BundleResourceProcessor.java

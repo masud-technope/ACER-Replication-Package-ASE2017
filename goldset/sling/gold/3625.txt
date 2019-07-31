@@ -1,0 +1,5 @@
+contrib/extensions/replication/it/src/test/java/org/apache/sling/replication/it/ReplicationIntegrationTestBase.java
+contrib/extensions/replication/it/src/test/java/org/apache/sling/replication/it/ReplicationAgentResourcesIntegrationTest.java
+contrib/extensions/replication/it/src/test/java/org/apache/sling/replication/it/ReplicationUtils.java
+contrib/extensions/replication/it/src/test/java/org/apache/sling/replication/it/ForwardReplicationTest.java
+contrib/extensions/replication/it/src/test/java/org/apache/sling/replication/it/ReplicationPackageImporterResourcesIntegrationTest.java

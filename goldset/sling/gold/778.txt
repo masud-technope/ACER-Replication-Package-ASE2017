@@ -1,0 +1,4 @@
+jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/MapEntries.java
+jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/JcrResourceResolver2.java
+jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/MapEntry.java
+jcr/resource/src/test/java/org/apache/sling/jcr/resource/internal/JcrResourceResolver2Test.java

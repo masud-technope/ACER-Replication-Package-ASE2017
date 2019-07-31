@@ -1,0 +1,5 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/jmx/AbstractDynamicMBean.java
+src/main/java/org/apache/log4j/jmx/AppenderDynamicMBean.java
+src/main/java/org/apache/log4j/jmx/HierarchyDynamicMBean.java
+src/main/java/org/apache/log4j/jmx/LoggerDynamicMBean.java

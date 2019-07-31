@@ -1,0 +1,15 @@
+tests/src/java/org/apache/log4j/pattern/CachedDateFormatTest.java
+src/java/org/apache/log4j/pattern/CachedDateFormat.java
+src/java/org/apache/log4j/pattern/DatePatternConverter.java
+tests/src/java/org/apache/log4j/pattern/CachedDateFormatTest.java
+src/java/org/apache/log4j/pattern/CacheUtil.java
+src/java/org/apache/log4j/pattern/CachedDateFormat.java
+src/java/org/apache/log4j/pattern/DatePatternConverter.java
+tests/build.xml
+tests/src/java/org/apache/log4j/pattern/CacheUtilTest.java
+tests/src/java/org/apache/log4j/pattern/CachedDateFormatTest.java
+src/java/org/apache/log4j/PatternLayout.java
+src/java/org/apache/log4j/helpers/AbsoluteTimeDateFormat.java
+src/java/org/apache/log4j/helpers/DateTimeDateFormat.java
+src/java/org/apache/log4j/helpers/ISO8601DateFormat.java
+src/java/org/apache/log4j/helpers/RelativeTimeDateFormat.java

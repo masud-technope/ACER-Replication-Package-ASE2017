@@ -1,0 +1,14 @@
+microsling/microsling-core/src/main/webapp/erb-scripts.html
+microsling/microsling-core/src/main/java/org/apache/sling/microsling/slingservlets/MicrojaxPostServlet.java
+microsling/microsling-core/src/main/webapp/server-side-javascript.html
+microsling/microsling-core/src/test/resources/integration-test/rendering-test.erb
+microsling/microsling-core/src/test/java/org/apache/sling/microsling/request/helpers/MicroslingRequestPathInfoTest.java
+microsling/microsling-core/src/main/webapp/freemarker-scripts.html
+microsling/microsling-core/src/test/resources/integration-test/rendering-test.js
+microsling/microsling-core/src/main/java/org/apache/sling/microsling/scripting/MicroslingScriptResolver.java
+microsling/microsling-core/src/test/resources/integration-test/rendering-test.vlt
+microsling/microsling-core/src/test/resources/integration-test/rendering-test.ftl
+microsling/microsling-core/src/test/resources/integration-test/rendering-test.esp
+microsling/microsling-core/src/test/resources/integration-test/include-test.esp
+microsling/microsling-core/src/main/java/org/apache/sling/microsling/slingservlets/DefaultSlingServlet.java
+microsling/microsling-core/src/main/webapp/velocity-scripts.html

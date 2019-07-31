@@ -1,0 +1,2 @@
+testing/mocks/osgi-mock/src/main/java/org/apache/sling/testing/mock/osgi/junit/OsgiContext.java
+testing/mocks/osgi-mock/src/main/java/org/apache/sling/testing/mock/osgi/junit/OsgiContextCallback.java

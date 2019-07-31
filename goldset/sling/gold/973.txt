@@ -1,0 +1,1 @@
+bundles/commons/mime/src/main/resources/META-INF/core_mime.types

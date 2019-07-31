@@ -1,0 +1,13 @@
+launchpad/launchpad-servlets/src/main/java/org/apache/sling/ujax/UjaxPostServlet.java
+sling/servlet-resolver/src/main/java/org/apache/sling/servlet/resolver/helper/SlingScriptServlet.java
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/FolderServlet.java
+launchpad/launchpad-servlets/src/main/java/org/apache/sling/launchpad/renderers/JsonRendererServlet.java
+sling/scheduler/src/main/java/org/apache/sling/scheduler/impl/ServiceLocatorImpl.java
+scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/JspServletWrapperAdapter.java
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/ReferenceServlet.java
+scripting/resolver/src/main/java/org/apache/sling/scripting/resolver/ScriptHelper.java
+sling/servlets-standard/src/main/java/org/apache/sling/servlets/standard/FileServlet.java
+scripting/resolver/src/main/java/org/apache/sling/scripting/resolver/impl/LazyRequestReader.java
+scripting/resolver/src/main/java/org/apache/sling/scripting/resolver/impl/DefaultSlingScript.java
+jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/JcrResourceResolver.java
+scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/JspScriptEngineFactory.java

@@ -1,0 +1,4 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/MDC.java
+tests/src/java/org/apache/log4j/PatternLayoutTestCase.java
+tests/witness/patternLayout.mdc.clear

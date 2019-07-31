@@ -1,0 +1,5 @@
+extensions/jcrinstall/service/pom.xml
+extensions/jcrinstall/testing/src/test/java/org/apache/sling/jcr/jcrinstall/integrationtest/JcrinstallTestBase.java
+extensions/jcrinstall/testing/README.txt
+extensions/jcrinstall/testing/pom.xml
+extensions/jcrinstall/testing/src/test/java/org/apache/sling/jcr/jcrinstall/integrationtest/InstallClonedBundlesTest.java

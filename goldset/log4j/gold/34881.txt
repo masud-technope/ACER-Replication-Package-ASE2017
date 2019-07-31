@@ -1,0 +1,2 @@
+build.properties.sample
+tests/build.properties.sample

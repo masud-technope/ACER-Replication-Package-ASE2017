@@ -1,0 +1,1 @@
+bundles/jcr/jackrabbit-usermanager/src/main/java/org/apache/sling/jackrabbit/usermanager/impl/AuthorizablePrivilegesInfoImpl.java

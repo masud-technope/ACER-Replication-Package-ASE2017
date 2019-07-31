@@ -1,0 +1,12 @@
+tests/resources/org/apache/log4j/TestLogMFPatterns.properties
+tests/resources/org/apache/log4j/TestLogSFPatterns.properties
+tests/src/java/org/apache/log4j/LogCapture.java
+tests/src/java/org/apache/log4j/TestLogMF.java
+src/changes/changes.xml
+src/main/java/org/apache/log4j/LogMF.java
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/TestLogXF.java
+src/main/java/org/apache/log4j/LogSF.java
+tests/resources/TestLogSFPatterns.properties
+tests/src/java/org/apache/log4j/TestLogSF.java
+src/main/java/org/apache/log4j/LogXF.java

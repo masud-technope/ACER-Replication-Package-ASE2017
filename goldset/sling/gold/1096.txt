@@ -1,0 +1,4 @@
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/RedirectServlet.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/SlingPostServlet.java
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/DefaultGetServlet.java
+bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/JsonQueryServlet.java

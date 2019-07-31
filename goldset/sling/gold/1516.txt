@@ -1,0 +1,1 @@
+bundles/extensions/fsresource/src/main/java/org/apache/sling/fsprovider/internal/FsResourceProvider.java

@@ -1,0 +1,9 @@
+tooling/ide/api-test/src/test/java/org/apache/sling/ide/util/PathUtilTest.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/ContentImportTest.java
+tooling/ide/impl-vlt/src/org/apache/sling/ide/impl/vlt/JcrCommand.java
+tooling/ide/impl-resource/src/org/apache/sling/ide/impl/resource/serialization/SimpleXmlSerializationManager.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/helpers/AbstractFailOnUnexpectedEventsRule.java
+tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/JcrPartialCoverageAggregatesDeploymentTest.java
+tooling/ide/api/src/org/apache/sling/ide/util/PathUtil.java
+tooling/ide/eclipse-core/src/org/apache/sling/ide/eclipse/core/internal/ResourceChangeCommandFactory.java
+tooling/ide/eclipse-core/src/org/apache/sling/ide/eclipse/core/internal/SlingLaunchpadBehaviour.java

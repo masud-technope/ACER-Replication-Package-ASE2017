@@ -1,0 +1,2 @@
+contrib/launchpad/karaf/org.apache.sling.launchpad.karaf-integration-tests/src/test/java/org/apache/sling/launchpad/karaf/tests/bootstrap/SlingLaunchpadJackrabbitDerbyIT.java
+contrib/launchpad/karaf/org.apache.sling.launchpad.karaf-features/src/main/feature/feature.xml

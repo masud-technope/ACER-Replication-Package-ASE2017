@@ -1,0 +1,7 @@
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletCreateTest.java
+extensions/jcrinstall/testing/src/test/java/org/apache/sling/jcr/jcrinstall/integrationtest/HttpPingTest.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/CreateNodeTest.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/MkdirTest.java
+commons/testing/src/main/java/org/apache/sling/commons/testing/integration/HttpTestBase.java
+commons/testing/src/main/java/org/apache/sling/commons/testing/integration/SlingIntegrationTestClient.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletDeleteTest.java

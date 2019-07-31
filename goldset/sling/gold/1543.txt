@@ -1,0 +1,3 @@
+launchpad/integration-tests/README.txt
+launchpad/integration-tests/pom.xml
+launchpad/testing/README.txt

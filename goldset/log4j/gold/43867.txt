@@ -1,0 +1,4 @@
+src/site/fml/faq.fml
+src/changes/changes.xml
+src/main/java/org/apache/log4j/LogManager.java
+src/site/fml/faq.fml

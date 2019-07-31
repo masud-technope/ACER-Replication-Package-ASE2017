@@ -1,0 +1,2 @@
+maven/maven-jcrocm-plugin/pom.xml
+maven/maven-jcrocm-plugin/src/main/java/org/apache/sling/maven/jcrocm/AbstractDescriptorElement.java

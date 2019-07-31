@@ -1,0 +1,5 @@
+bundles/servlets/resolver/src/main/java/org/apache/sling/servlets/resolver/internal/SlingServletResolver.java
+bundles/servlets/resolver/src/test/java/org/apache/sling/servlets/resolver/internal/helper/ScriptSelectionTest.java
+bundles/servlets/resolver/src/test/java/org/apache/sling/servlets/resolver/internal/helper/ResourceCollectorGetServletsTest.java
+bundles/servlets/resolver/src/test/java/org/apache/sling/servlets/resolver/internal/ResolveFromRequestAndDefaultSlingServletResolverTest.java
+bundles/servlets/resolver/src/test/java/org/apache/sling/servlets/resolver/internal/ResolveFromRequestNoDefaultSlingServletResolverTest.java
