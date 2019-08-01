@@ -73,4 +73,8 @@
 2274	DavEx	servlet	require	authentication	anonymous	access	prohibited
 4324	create	individual	factories	distribution	triggers	distribution	event	sling	service	settings	secret	authorization	saved	empts	enabled
 2808	Scripts	classes	fragment	bundles	Felix	framework	issue
+<<<<<<< HEAD
 4350	minor	typo	log	message	version	servlet	service	locations	tld	sling	main	request	provider	dispatcher
+=======
+4350	minor	typo	log	message	version	servlet	service	locations	tld	sling	main	request	provider	dispatcher
+>>>>>>> 66a0c87817ea048c0f392932d9a555fd87d813e0
