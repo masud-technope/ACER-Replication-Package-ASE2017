@@ -1,0 +1,309 @@
+334876	quick	assist	invert	conditions	generates	incorrect	code	quick	action	assist	statement	based	editor	annotation	menu	ruler	type
+28698	bug	ctrl	outline	work	file	editor	read	editor	java	element	selection	changed	post	action	input	read	level
+217126	bug	performance	performance	tests	measure	measure	test	performance	replace	wise	create	editor	text	refactoring	number
+272418	junit	support	junit	test	code	comparison	source	message	unit	itize	prior	failure	initialize
+425006	bug	quick	assist	convert	anonymous	creation	creates	wildcard	type	type	test	lambda	proposal	proposals	method	action	create	variable	menu
+304174	hashcode	equals	generated	equals	invalid	object	scope	test	create	history	relative	java	element	marker	attribute	equals	elopment
+55349	bug	delete	key	quick	outline	text	box	deletes	text	editor	create	selection	key	text	outline	preference	editor	source	input	change
+239695	jar	exporter	export	jar	project	folder	project	workspace	jar	export	manifest	file	folder	java	add	base	read	files
+256087	bug	typing	automatically	close	brace	work	properly	test	add	text	selected	key	typing	brace	delete	string	event
+331864	junit	importing	url	trim	whitespace	skip	delimiters	indent	key	word	string	trailing	java	label	whitespace	element	change
+462948	render	method	content	assist	adornment	image	label	context	hierarchy	text	java	type	proposal	call	bottom
+341109	explorer	remove	filters	explorer	removes	filters	action	filter	element	view	filters	selection	viewer	input	tool	add
+151668	reorg	copy	action	add	copy	prefix	copy	action	selection	drop	java	workbench	reorg	elements	destination	actions
+397447	hovering	code	polishing	javadoc	hovering	feature	type	handle	javadoc	link	text	doc	drop	element	content	control
+88195	bug	navigation	type	search	quick	outline	prefer	enclosing	type	outline	action	type	selection	create	method	element	text	input	java
+53383	bug	incorrect	progress	message	search	view	create	key	type	java	test	search	find	browsing	method	view
+374920	preferences	intuitive	tab	order	editor	preferences	dialog	preference	dialog	order	create	clean	java	registry	configuration	workbench	store
+437398	ccp	don	select	extension	file	paste	paste	type	selection	action	file	clipboard	java	element	copy	operation
+416915	tests	tycho	surefire	plugin	test	doc	info	perf	suite	resource	tests	attached	type	refactoring
+309415	bug	implementation	nls	tooling	dbcs	find	broken	externalized	strings	handle	constants	cjk	ext	action	key	accessor	editor	string	create	strings	selection	file	menu
+91306	bug	navigation	java	file	opens	text	selected	file	text	create	accessor	dialog	focus	key	test	path	constant
+81078	bug	preferences	restore	defaults	duplicates	list	entries	preference	list	create	dialog	members	container	classpath	formatter	status	preferences
+385237	move	member	type	moving	member	file	adds	host	type	parameters	type	method	member	create	check	handle	declaration	javadoc	delegate	doc
+479440	rename	rename	options	links	hover	test	rename	create	control	input	text	check	dummy	binding	element
+42208	bug	source	hover	affordance	text	black	hover	control	annotation	text	java	source	binding	info	content	input
+66787	bug	wrong	capitalized	filters	message	search	filter	type	search	filters	match	text	create	add	item	selection
+332008	quick	quick	improved	mixed	projects	quick	correction	image	assist	marker	annotation	processor	meter	java	problem
+46332	bug	jobs	longer	responsive	pressing	ctrl	element	java	resource	viewer	post	update	lines	runs	changed	content
+318731	perfs	comments	applied	jdt	performance	tests	obsolete	measure	insert	performance	perf	replace	create	test	method	measurements	runs
+81172	bug	spell	checking	preferences	spell	checking	works	report	problems	type	enabled	spell	single	threshold	proposal	spelling	dictionary	check	word	print	debug
+82204	bug	key	binding	shortcut	open	declaration	doesn	context	menu	java	editor	action	perform	editor	input	java	context	selection	preference	view	workbench
+102696	quick	quick	fail	update	method	comment	action	quick	test	image	editor	unit	proposal	menu	java	selection
+9517	bug	browser	perspective	project	doesn	project	view	selection	java	type	create	editor	javadoc	input	source	action	time
+153912	common	navigator	java	model	hiding	parent	folders	sync	view	java	action	add	resource	create	label	children	viewer	elements	pipelined
+398648	javadoc	view	inserts	wrong	asterisk	link	linebreak	type	selection	action	create	element	link	javadoc	text	add	info
+43332	bug	string	substitution	support	org	eclipse	core	variables	accessor	create	check	key	substitution	file	button	source	add	field
+232773	working	sets	assign	working	pre	fill	selected	elements	working	create	selection	action	scope	add	element	project	selected	dialog
+129354	bug	keybinding	focus	javadoc	editor	action	selection	input	create	text	editor	menu	focus	dialog	element
+466252	bug	templates	template	block	template	context	preference	type	dialog	create	changed	viewer	project	code
+477523	provide	severity	level	create	hierarchy	helper	refactoring	input	add	status	element	entry	post
+259413	refactoring	handler	conflicts	refactoring	previews	refactoring	change	perform	context	element	exception	create	java	dialog	open
+312659	remove	unused	nls	unused	remove	clean	variable	side	create	statement	declaration	rewrite	code
+53603	search	search	view	expand	collapse	actions	action	view	hierarchy	method	working	call	search	history	input	add
+43364	bug	typing	insertion	wrong	typing	text	event	listener	key	selection	focus	change	test	offset
+70005	content	assist	missing	getter	setter	code	assist	proposals	proposal	context	assist	proposals	content	completion	create	session	text	java
+186754	bug	explorer	context	menu	empty	selection	action	view	selection	element	add	create	input	viewer	editor	update
+320916	bug	preferences	content	assist	advanced	read	description	entry	fields	create	setter	selection	button	dialog	fields	configuration	preference	status	field
+222609	bug	misc	adopt	schema	identifier	pde	test	create	exception	completion	tree	computer	proposal	java	filtering	registry
+313751	typo	modfier	code	status	entry	position	event	type	matching	whitespace	paren	find	document
+215448	working	doesn	working	list	working	element	create	selection	add	test	changed	button	drop	event
+199064	bug	dnd	element	reordering	dnd	format	field	comments	drop	view	drag	selection	transfer	input	hierarchy	working	target	history
+90528	bug	editor	icon	problem	decoration	instance	create	java	annotation	editor	preference	problem	problems	changed	label	context
+279981	constructor	inlining	produces	illegal	result	test	constructor	type	project	factory	multi	unit	create	arguments	file
+480682	bug	override	method	offer	override	implement	method	method	methods	proposal	code	tree	workbench	declaration	content	type	override
+252340	clean	clean	infrastructure	minor	documentation	issues	clean	test	code	settings	options	number	proposal	create	tab	participant
+70079	bug	rulers	override	indicators	anonymous	classes	test	method	type	anonymous	hierarchy	perform	names	create	expression	field
+59845	bug	performance	opening	file	editor	compute	overriding	indicators	measure	text	editor	test	override	open	runs	hold	number	background
+306646	bug	painting	print	margin	differentiate	file	type	test	type	helper	tests	temp	method	expected	rename	instance	replace
+320983	hovering	javadoc	display	properly	classes	type	html	element	type	javadoc	create	selection	drop	element	link	label	parameter	action
+49619	bug	formatting	comment	formatter	leaves	whitespace	comments	indent	java	create	test	format	formatter	preference	preview	lines	empty
+233941	bug	ltk	refactoring	history	workspace	refactorings	year	refactoring	history	pattern	accept	descriptor	label	time	context	merge	resource
+30169	bug	hover	message	bookmarks	overview	ruler	create	annotation	input	java	hover	ruler	selection	source	outline	text
+255448	preferences	code	style	preference	single	selection	table	create	preference	selection	update	focus	dialog	key	input	filter	list
+344552	bug	source	tabs	cleared	project	closed	test	project	indent	selection	create	java	unit	element	action	factory
+59891	bug	formatter	improve	lines	wrapping	nested	method	calls	test	create	map	update	wrapping	preview	style	indent	text	preferences
+14837	bug	java	search	actions	shouldn	enabled	folder	selected	packages	view	action	create	view	input	selection	working	element	editor	add	type
+421383	bug	graphics	scaling	issues	high	dpi	displays	dialog	task	move	test	create	type	text	field	image	todo
+144902	bug	navigation	explorer	test	action	focus	text	explorer	packages	navigation	files	working	trigger
+35339	bug	inheritedoc	consistently	rendered	link	image	type	element	color	key	text	java	label	provider
+396808	hovering	hovering	multiple	hyperlinks	multiple	location	build	path	source	entry	dialog	list	drop	elements	create	path	selection	type
+52750	bug	correct	indentation	messes	comment	boxes	indentation	indent	test	create	java	method	type	lines	alignment	clean
+396809	hovering	write	junits	hovering	feature	action	drop	selection	operation	servlet	java	buffer	references	working	target
+252432	render	api	jdt	core	provide	display	referenced	jars	label	file	java	path	search	jar	content	post	element	fragment
+329252	preferences	content	assist	auto	activation	delay	mention	unit	time	completion	context	assist	create	text	preference	processor	field	add	change
+329248	ltk	file	folder	exist	empty	input	resource	rename	dialog	test	delete	refactoring	file	project	rename	resource	folder	change	check
+13877	bug	nls	tool	values	displayed	correctly	action	create	menu	update	selection	input	settings	property	preference	java
+67124	bug	ccp	dnd	minor	copy	paste	issues	action	selection	type	copy	drop	paste	operation	java	target	clipboard
+165434	bug	structure	viewers	reconcile	structure	document	ion	create	structure	java	test	collapse	element	document	problem	project
+178744	bug	misc	editor	opened	sync	resource	refresh	action	editor	input	action	create	view	selection	java	method	element	init
+79419	bug	preferences	link	component	create	add	preference	property	project	selection	changed	link	java	check
+52801	bug	press	focus	work	spell	checking	hovers	spell	text	hover	dictionary	check	single	sentence	control	proposal	info
+108115	bug	refactoring	extract	local	variable	constant	don	find	matching	invocations	methods	descriptor	create	check	variable	temp	refactoring	test	expression	guess	match
+133731	bug	field	assist	platform	define	preferences	content	assist	colors	create	text	assist	context	preference	field	test	registry	content	java
+13921	bug	desire	project	property	settings	ant	integration	jar	javadoc	ant	path	launch	project	create	selection	base	preference
+19043	bug	config	dialog	generate	doc	wizard	bad	javadoc	create	dialog	method	string	button	builder	template	check	unit
+274023	bug	build	path	nested	source	folder	build	path	rendered	lib	icon	path	test	project	action	folder	update	dialog	container	classpath	selection
+38499	bug	source	hover	oszillates	annotation	hover	source	java	ruler	text	info	control	content	doc
+64108	bug	javadoc	keywords	settings	longer	work	java	editor	javadoc	selection	indent	java	type	path	create	action	image	color
+62062	bug	mark	occurrences	annotation	text	interesting	tooltip	description	occurrences	create	selection	mark	preference	editor	outline	java	action	occurrence
+47731	bug	junit	view	leaks	colors	test	image	random	label	undo	path	unit	view	poisson	workbench
+28277	bug	clicking	types	view	refreshes	decorators	hierarchy	type	viewer	view	changed	update	input	label	element	create
+211578	bug	build	path	dialog	extend	classpath	variable	slow	dialog	path	entry	update	project	element	classpath	selection	list	variable
+312966	bug	hovering	text	javadoc	hover	view	visible	ubuntu	control	hover	action	selection	java	color	input	text	style	browser
+421506	bug	suggestion	align	additional	save	actions	desired	code	eclipse	contribution	guidelines	create	preference	menu	java	file	folder	context	registry	text	workbench
+37513	bug	misc	outline	tool	window	remember	size	position	create	action	selection	element	outline	property	input	key	position	control
+492173	bug	missing	styling	java	project	wizard	classpath	test	path	editor	java	element	create	string	list	styling
+304792	move	method	move	single	function	interfaces	work	test	selection	move	method	create	selected	changed	text	conditions	user
+32412	bug	ccp	progress	monitor	rename	prompt	copy	pasting	file	create	test	annotation	java	file	save	problems	rename	document	change
+126625	bug	missing	options	formatting	annotation	types	type	method	override	string	problem	indent	number	indentation	compilation	clean
+330415	inline	refactor	inline	fails	parenthesize	replaced	arguments	descriptor	create	action	menu	selection	test	refactoring	method	extract	quick
+12996	bug	open	multipage	editor	invalid	thread	access	exporting	jar	selection	java	jar	key	action	type	create	text	editor	time
+19145	bug	wizards	wizards	resizable	bounds	dialog	button	list	entry	attachment	pattern	inclusion	create	path	hierarchy
+312014	content	tree	view	projects	folders	export	jar	read	screen	readers	jar	export	create	file	manifest	refactoring	java	handle	folder	add
+244431	preferences	outgoing	change	preferences	change	preference	label	property	create	add	project	java	scanner	link	listener
+24271	bug	source	folders	sort	java	packages	simple	folders	create	destination	java	source	elements	manifest	jar	move	copy	packages
+108247	bug	selected	resources	scope	disabled	enclosing	projects	test	scope	search	text	create	java	change	projects	children	project
+333541	bug	preferences	whitespace	characters	toggled	whitespace	characters	dialog	opened	test	create	escape	preview	token	check	java	scanner	character	wise
+338656	quick	change	type	offer	matching	type	type	arguments	method	type	proposal	proposals	lambda	check	action	parameter	members	menu
+94951	bug	implementation	compiler	error	prevents	development	test	dialog	create	type	annotation	button	list	helper	annotations	field
+326377	bug	content	assist	content	assist	instantiation	adds	semicolon	wrong	place	assist	context	content	field	create	history	test	text	iteration	session
+120560	bug	implementation	add	logging	jme	accessing	javadoc	attached	javadoc	javadoc	type	action	handle	doc	input	selection	text	exception	info
+58098	bug	smart	cursor	positioning	java	names	don	work	constant	names	type	test	handle	text	constant	names	create	string	add	content
+398076	add	test	cases	bug	test	session	flow	find	lass	tree	send	ifies	method	tests
+99072	bug	preferences	explain	ctrl	modifier	code	assistant	editor	text	create	context	content	java	assist	activation	test	iteration
+30468	bug	enhanced	smart	pasting	test	paste	java	element	smart	diff	brace	indent	auto	add
+62226	bug	search	inline	filters	menu	view	action	input	selection	filter	create	viewer	filters	menu	element
+381714	export	runnable	jar	wizard	documented	jar	manifest	export	create	refactoring	description	java	file	widget	update
+271139	rename	button	clipped	rename	dialog	create	rename	element	selection	input	check	setter	button	accessor	update
+181040	actions	removing	create	java	project	toolbar	action	create	buildpath	filter	viewer	list	handle	element	tool	output
+333631	bug	nls	tooling	rename	properties	key	field	adds	additional	key	accessor	create	selection	button	change	table	search	nls	property
+165689	bug	spell	checking	enable	quick	menu	spell	problem	test	dictionary	quick	table	word	sentence	menu	proposal
+143171	bug	misc	update	conflicts	dialog	appears	save	save	longer	dialog	save	create	update	button	file	jar	delegate	element	group
+230222	bug	breadcrumb	unfocused	dropdown	closed	leaving	workbench	window	create	editor	selection	action	breadcrumb	menu	java	test	outline	changed
+100174	bug	preferences	link	java	editor	pref	honor	dialog	font	create	dialog	button	add	test	configuration	preference	list	validate	field
+185172	bug	working	sets	action	working	selected	working	action	create	element	checked	dialog	search	model	find	scope
+338809	quick	bogus	javadoc	errors	incorrect	reference	nested	type	type	proposal	proposals	lambda	method	add	variable	create	convert	constructor
+291716	bug	explorer	hides	jars	java	resources	working	selected	working	element	selection	create	selected	test	action	java	dialog	drop
+239490	working	sets	explorer	newly	created	incompatible	working	sets	explorer	working	element	create	selection	add	selected	drop	test	action	location
+285573	quick	wrong	quickfix	proposal	operations	involving	integer	test	quick	proposal	correction	assist	image	string	proposals	preview	type
+82839	bug	misc	breakpoint	icons	disappear	image	breakpoint	java	annotation	ruler	icon	event	action	hover	create
+299928	bug	hovering	problem	hover	configure	problem	severity	project	specific	javadoc	preferences	preference	label	problems	annotation	changed	problem	source	java	specific	proposal
+231329	decorators	decorator	methods	label	hierarchy	problems	changed	annotation	java	text	image	source	ticks
+17317	bug	preference	taller	screen	test	type	method	preference	java	constant	action	perform	link	parameter
+179109	bug	misc	editor	computing	ast	concurrently	operation	window	type	text	imports	java	selection	editor	control	input
+275370	bug	tostring	generator	wrong	suffixes	prefixes	type	method	names	expression	create	field	template	dialog	variable	string
+55221	bug	bug	comment	mapper	grabs	node	javadoc	type	parameter	create	method	handle	tag	javadoc	add	field	text
+13243	bug	browsing	remains	types	deleted	test	delete	create	add	source	element	action	type	browsing	file
+432056	javadoc	open	attached	javadoc	adapt	javadoc	anchor	format	type	javadoc	action	handle	selection	text	input	doc	create	classpath
+13269	bug	incorrect	operation	order	jarpackager	test	imports	add	type	unresolvable	action	jar	star	names	remove
+140248	bug	junit	support	disabled	launched	test	wise	session	editor	scroll	prior	message	itize	send	launched
+210918	bug	rulers	number	overview	ruler	create	input	ruler	editor	annotation	source	text	mouse	java	key
+411636	bug	save	slow	burns	cycles	project	explorer	clean	change	test	create	files	project	element	dialog	changed	list
+51187	bug	content	assist	filter	setters	fields	setter	create	assist	proposals	selection	getter	context	fields	content	completion
+422908	bug	organize	imports	add	skip	organize	dialog	test	imports	create	clean	type	java	organize	unresolvable	settings	preference
+329720	bug	hover	preference	change	background	color	debug	hover	popup	preference	control	java	color	annotation	create	initialize	text	registry	hover
+364539	generate	constructor	generate	constructor	fields	globally	sets	access	modifier	action	create	selection	constructor	fields	editor	check	menu	generate	visibility
+313339	remove	unused	internal	deprecated	code	unused	clean	test	remove	code	variable	side	statement	options	rewrite
+432132	junit	test	failures	addunimplementedmethodstest	test	description	failures	java	methods	tests	create	suite	unimplemented	action
+99330	bug	implementation	don	swallow	illegalstateexception	astprovider	test	perform	inline	reference	expression	field	save	type	start	method
+443410	renametypeperfacceptancetests	testcold	fails	perf	test	rename	finish	measurements	move	compilation	eptance	unit	members
+259093	reverted	latest	change	introduceparameterobjectprocessor	test	failure	test	failure	status	random	undo	children	change	time	poisson	refactoring
+4121	bug	jarexporter	sync	gilqd	type	image	search	job	history	add	resource	progress	create	info
+111653	bug	misc	dialogs	remembering	location	open	correct	monitor	type	project	search	item	text	selection	filter	dialog	create	key
+372768	adjust	preference	bug	visibility	test	field	method	constant	member	type	path	project	adjust
+96302	bug	implementation	useless	statement	getautoeditstrategies	test	type	expression	method	statement	flow	variable	field	loop	perform
+291893	search	finegrained	search	options	missing	options	test	source	add	path	java	search	proposal	version	clean	rename
+178238	quick	lightbulb	suppresswarnings	quick	user	configured	error	annotation	quick	assist	marker	problems	create	problem	image	correction	save
+317497	bug	content	assist	overriding	content	assist	suggestion	closing	brace	generates	invalid	code	context	compute	assist	text	content	create	completion	auto	session	iteration
+294970	strings	label	element	label	create	type	string	pattern	parameter	key	styled	strings	selection
+81983	bug	preferences	disabling	enabling	folding	small	file	takes	java	ion	create	preference	collapse	context	element	registry	provider	workbench
+75843	bug	deadlock	arised	calling	jdidebugmodel	createmethodentrybreakpoint	image	refactoring	check	history	add	breakpoint	descriptor	spell	bottom	execution
+435279	bug	hover	npe	annotation	visible	classpath	annotation	control	hover	color	mouse	viewer	ruler	item	size	completion
+261198	nodes	missing	java	model	synchronize	view	add	type	action	selection	missing	create	annotation	control	parent	input
+298066	bug	nls	tooling	refactoring	removes	comments	properties	message	key	key	test	create	result	input	property	check	file	search	change
+372818	test	failures	bug	test	action	create	view	session	failures	launch	description	progress	entries
+434269	bug	hovering	support	showing	javadoc	javafx	properties	drop	java	buffer	proposal	type	viewer	text	print	enabled	selection
+43103	bug	renametype	refactoring	detected	test	word	source	constant	helper	code	string	status	temp	guess
+290916	junit	recreate	testsuite	uncheck	alltests
+23652	bug	refactor	move	doesn	handle	classes	correctly	refactoring	action	move	handler	type	extract	selection	member	copy	convert	nested
+67691	bug	nls	javaeditor	nlsed	string	job	type	search	job	history	progress	messages	info	positions	editor	update
+90249	bug	remove	workaround	code	bug	signature	focus	test	receiver	type	method	path	navigation	trigger	sort
+425109	quick	failures	typemismatchquickfixtests	iproblem	returntypemismatch	proposal	problem	unit	ignore	annotation	preview	type	proposals	number	add
+461999	bug	warning	option	argument	type	collection	methods	object	bug	test	perform	type	helper	reference	expression	method	field	inline	suppress
+430267	refactoring	extract	method	extract	method	misses	parameter	resources	statement	create	descriptor	test	method	type	check	expression	selection	parameter	declaration
+301242	bug	refactoring	clean	locked	dialogs	repeated	undos	java	editor	test	bug	preference	clean	java	create	workbench	change	registry	error
+457926	junit	update	junit	test	suite	classpath	method	create	type	unit	update	selection	classes
+49352	bug	typing	smart	quotes	problem	test	brace	indent	auto	smart	listener	add	create	text	method
+289992	iresource	setderived	iprogressmonitor	iresource	setderived	resource	drag	create	change	history	refactoring	merge	undo	handle	model
+378068	update	importorganizetest	fup	bug	bug	test	helper	type	rename	method	expected	tests	update	field	create
+303313	test	failures	surroundwithtests	allallrefactoringtests	test	exception	failures	compilation	method	initializer	description	output	create	resource
+491756	bug	project	explorer	extensionstate	applied	test	completion	java	project	output	selection	create	element	sash	action
+442614	bug	extract	merge	string	literal	escaping	test	type	create	field	escaping	constant	declaration	check	node	temp
+262389	bug	internal	code	icompilationunit	applytextedit	test	type	project	path	create	helper	source	constant	file	factory
+290034	bug	effects	suppresswarnings	unchecked	broader	eclipse	javac	map	call	member	list	resource	items	text	viewer	file	content
+283891	junit	add	camel	support	testselectiondialog	test	add	classpath	method	prefix	proposal	java	failed	guessing	auto
+193795	bug	implementation	javadochover	logs	incomplete	message	test	selection	element	action	failure	java	exception	create	time	count
+130317	bug	astparser	iclassfile	source	creates	type	bindings	isequalto	binary	bindings	method	type	test	create	target	check	source	argument	declaration	search
+371987	quick	generated	code	required	type	masked	local	declaration	full	type	type	proposal	create	method	proposals	lambda	statement	local	parameter	convert
+60703	bug	performance	editors	longer	open	editors	editor	number	measure	test	key	meter	input	annotation	count	activate
+395558	introduce	parameter	object	introduce	parameter	object	introduce	type	context	create	refactoring	descriptor	action	start	parameter	type	menu	input	method
+267554	ccp	canceling	file	copy	operation	error	create	input	annotation	file	drop	action	project	problems	copy	editor
+218431	inline	problem	fields	types	type	proposal	method	find	preview	field	fields	property	ignore	referenced
+164162	bug	implementation	memory	leak	abstractjavacompletionproposal	synthetic	field	anonymous	validation	proposal	test	change	field	search	link	string	leak	reference
+239940	bug	implementation	npe	editing	javadoc	comment	create	doc	java	buffer	preference	type	content	text	color	javadoc
+88397	bug	openaction	select	itypeparameter	action	test	key	create	selection	hyperlinks	text	select	hyperlink	leading
+287049	actions	add	marks	editor	unsaved	action	editor	menu	view	selection	method	add	history	create	fill
+231757	bug	implementation	npe	javaeditor	handlepreferencestorechanged	startup	test	editor	post	menu	changed	comment	element	source	create	accessor
+429399	quick	missing	quick	iproblem	undefinedname	annotation	proposal	create	problem	unit	problems	save	add	ignore	remove
+424283	hovering	support	showing	javadoc	javafx	properties	action	selection	drop	type	operation	viewer	java	create	menu	initialize
+476517	quick	add	unimplemented	methods	creates	stubs	methods	implementation	create	action	methods	selection	editor	type	constructors	method	rewrite	changed
+287078	bug	content	assist	overwrite	mode	rendered	filtering	proposals	create	completion	proposal	context	parameter	compute	assist	field	sort	add
+267616	rename	Rename	method	fails	create	method	handle
+172388	open	type	open	type	dialog	jre	libraries	identical	text	dialog	list	selection	open	element	entry	create	path	container	external
+6503	bug	search	offer	sensitivity	check	box	create	input	add	update	text	filter	preference	validate	dialog	type
+262511	quick	wrong	quick	fixes	type	visible	quick	correction	proposal	image	proposals	assist	preview	type	marker	ignore
+340338	bug	content	assist	proposal	replace	leading	chars	selection	context	add	assist	proposal	create	completion	javadoc	test	selection	core
+288121	perfs	comments	applied	performance	tests	obsolete	measure	type	constraints	performance	insert	create	replace	compute	test	perf
+93567	bug	contextinformationpopup	leaks	completionengines	java	undo	text	leak	temp	constant	ast	rewrite	extract	tests
+8581	bug	search	structuredcontentprovider	search	constructor	references	key	pattern	method	scope	node	text	match
+266646	change	commondropadapter	method	call	type	change	internal	method	refactoring	create	search	factory	selection	constructor
+364947	move	method	design	move	instance	method	refactoring	tool	doesn	match	users	expectations	method	type	target	create	argument	selection	move	refactoring	check	member
+378258	bug	hovering	hover	variable	rich	variable	hover	hover	text	action	selection	control	input	type	browser	java	binding
+297392	variables	removal	jdt	causing	compatibility	issues	eclipse	variable	create	dialog	button	proposal	edit	variables	context	position	method
+294322	jar	exporter	runnable	jar	export	problem	special	characters	included	jar	jar	filenames	jar	manifest	export	file	description	refactoring	source	java	files	ant
+251327	browsing	javabrowsingpart	clearing	fpreveiousselectionprovider	input	create	action	element	viewer	post	java	object	display	read
+347587	explorer	empty	parent	packages	filtered	correctly	svn	folder	element	selection	text	input	test	update	post	create	folder	action
+354766	bug	javadoc	content	content	assist	info	window	constructors	selection	create	java	completion	text	content	action	proposals	browser	type
+118222	bug	nls	tooling	nls	tooling	java	agnostic	test	text	java	context	buffer	type	launch	classpath	tag	nls
+360913	resource	leaks	jdt	test	editor	resource	random	java	undo	breadcrumb	property	context	poisson
+199135	bug	jdt	bundle	activator	assumes	platformui	getworkbench	causing	autobuild	failure	running	headless	test	failure	save	status	tree	children	suite	editor	session	time
+377318	encapsulate	field	encapsulate	field	introduces	methods	compilation	errors	test	create	setter	field	method	getter	access	check	refactoring	proposal
+393719	bug	compiler	inconsistent	warnings	iteration	variables	type	method	test	field	context	element	create	assist	variable	invalid
+252415	build	path	java	project	dialog	radios	parent	list	path	project	add	dialog	status	folder	classpath	time	output
+330241	quick	add	unimplemented	methods	adds	methods	implementing	action	methods	editor	type	selection	rewrite	test	impl	create	menu
+17925	bug	references	menu	item	display	keytable	item	action	menu	viewer	control	view	event	add	filter	focus
+408072	nls	tooling	flagged	missing	nls	key	image	attribute	classpath	test	encoded	element	string	container	access	messages
+260626	clean	convert	loops	enhanced	clean	leaves	iterator	references	clean	test	bug	code	convert	remove	block	rewrite	members	loop
+396823	javamodelutil	ispackageinfo	icompilationunit	util	applicable	type	java	method	create	test	action	compute	selection	completion	editor
+24082	bug	refesh	javaelementsorter	test	helper	temp	constant	guess	path	code	element	references	guessed
+476693	bug	open	declaration	jumps	wrong	method	overloaded	test	method	type	create	parameter	check	declaration	inline	perform	reference
+397842	bug	file	incorrect	content	test	helper	tests	method	temp	search	source	refactoring	init	file
+407056	support	packagequalifiedtype	ast	node	method	declaration	type	node	arguments	check	call	linked	methods	selection
+256532	bug	templates	templateproposals	api	marked	deprecated	java	context	preference	registry	template	workbench	type	file	exception	element
+298520	bug	content	assist	constructor	completion	ignores	type	completing	type	arguments	completion	proposal	method	context	compute	type	java	javadoc	core	create
+307756	bug	compare	compare	local	history	reverts	dirty	editor	editor	java	text	edit	action	changed	compare	modifier	highlight	replace
+58921	bug	texts	created	unsupported	styles	create	string	selection	style	method	styling	parameter	list	viewer	property
+80455	bug	itypebinding	canassign	aware	type	boxing	type	method	declaration	variable	binding	parameter	test	find	argument	field
+152142	bug	nls	nls	key	tab	search	dialog	window	create	key	java	preference	test	update	dialog	button	selection	map
+306763	bidi	copy	element	labels	view	bidi	markers	label	container	create	dialog	selection	list	text	input	action	java
+303698	ccp	reorgpolicies	canenable	methods	action	selection	move	create	methods	selected	actions	java	refactoring	menu
+243284	inline	inline	constant	iae	bounds	descriptor	create	constant	refactoring	selection	java	method	extract	fail	type
+303705	search	custom	search	hierarchically	java	search	view	search	action	working	scope	tree	context	remove	current	elements	parent
+434791	inline	quick	assist	delete	key	work	inline	local	variable	change	type	action	wizard	method	add	proposal	remove	input	processor
+47729	bug	unable	ignore	files	filters	filter	filters	action	dialog	root	view	build	file	project	element
+465521	comparator	errors	files	file	jar	export	manifest	java	create	refactoring	files	output	description
+162434	bug	content	assist	code	conpletion	doesn	choose	correct	collection	test	assist	generate	quick	content	context	proposal	create	param	method
+424581	inline	method	creating	returning	lambda	statement	inlined	test	method	type	lambda	create	proposal	proposals	add	reference	statement
+276111	bug	junit	classpath	container	doesn	pick	junit	jars	shared	installations	test	classpath	source	unit	add	output	project	launch	container	entries
+196242	bug	quick	work	quickfix	latency	quick	marker	assist	image	test	correction	java	annotation	create	collect
+334480	quick	create	method	incorrectly	method	called	method	method	refactoring	element	impl	type	create	hierarchy	called	correction	search
+266924	bug	content	assist	broken	anonymous	type	proposals	chars	caret	proposal	context	create	completion	type	javadoc	assist	method	core	java
+127656	bug	api	remove	selection	iquickassistinvocationcontext	api	methods	proposal	receiver	type	method	path	fail	selection	target	remove	invocation
+1708	bug	consistency	presentation	display	inspect	gjuh	create	type	viewer	completion	java	offset	element	presentation	positions	document
+234170	bug	navigation	java	element	hyperlink	imports	declarations	type	key	hyperlink	element	rewrite	open	hierarchy	editor	java	scope
+324285	bug	junit	remotetestrunnerclient	destroys	delimiters	document	test	random	buffer	undo	delimiters	text	changed	poisson	element
+286406	build	path	file	java	project	identifying	source	files	correctly	jar	file	java	path	export	project	create	manifest	add	build
+393932	refactoring	pull	destination	type	creates	bogus	nested	type	action	type	check	method	create	members	selection	pull	member	types
+30412	bug	classcastexception	selecting	java	browsing	perspective	java	perspective	javadoc	type	editor	create	browsing	wise	view	archive
+236251	bug	implementation	failure	launching	headless	test	failure	execution	launch	classpath	progress	arguments	change	main	time
+262877	javamodel	object	handled	javanavigatorlabelprovider	button	list	label	element	changed	marker	message	type	checked	problem
+309977	classpath	variable	initialization	doesn	fail	silently	structure	test	type	project	create	temp	container	element	variables	path
+253674	clean	work	preview	clean	preference	preview	create	options	register	changed	res	requires	form
+414444	bug	configure	annotation	bundle	type	image	java	ruler	quick	annotation	bundle	managed	element	type	messages
+125677	bug	navigation	category	standing	outliner	create	categories	selection	preview	text	context	update	category	assist	map
+25324	bug	ability	tests	finished	junit	test	session	tree	wise	swap	result	listener	editor	scroll	ended
+84724	bug	search	fails	find	call	sites	varargs	constructors	constructor	search	method	type	action	selection	call	hierarchy	list	dialog
+308978	jvme	exist	javaelementnamecomposer	appendtypeparameterlabel	test	delete	lambda	file	resource	bug	condition	change	folder	create
+120572	bug	implementation	iselectionlistenerwithast	notified	opening	explorer	test	selection	listener	text	frame	unit	provider	source	lass	ifies
+316155	junit	view	open	source	test	classes	fragments	suite	test	type	selection	classes	unit	javadoc	method	widget	open
+410371	generalize	type	generalize	type	adds	semantics	existing	simple	names	test	type	descriptor	create	selection	local	refactoring	field	parametric	parameter
+35590	bug	junit	window	doesn	report	errors	junit	extensions	testsetup	junit	test	project	open	hierarchy	java	perf	workspace	unit	text	editor
+12044	bug	search	find	constant	references	files	source	attached	type	handle	method	constant	java	test	doc	references	find	source
+63250	bug	searching	files	failes	test	file	search	project	unit	refactoring	path	create	matches	java
+304927	incorrect	javadoc	org	eclipse	ltk	core	refactoring	change	refactoring	create	change	type	descriptor	declaration	resource	cted	validation	java
+46875	bug	typing	tabs	messed	typing	configuration	add	create	auto	test	mode	smart	overlay	display
+297752	ccp	pasting	copied	method	pastes	method	test	type	clipboard	action	change	edit	java	create	resources	check
+61212	bug	search	search	requestor	populate	java	model	search	type	matches	method	find	test	match	referenced	compilation	create
+457515	bug	eclipse	junit	runner	hangs	parameters	attribute	newline	test	description	launch	classpath	failed	arguments	main	failures	entry	execution
+337707	junit	junitjunittests	depend	method	ordering	test	failure	list	tree	suite	error	session	ordering	description	time
+246594	bug	model	api	request	itypeparameter	getboundssignatures	getsignature	type	element	link	create	test	handle	variable	descriptor	java	proposal
+164677	bug	editormgmt	remove	iurieditorinput	test	bug	remove	problems	annotation	save	create	add	problem	code
+248659	implementation	deleting	source	folder	leaks	file	handle	refactoring	add	source	history	delete	remove	resource	java	change	create
+85850	bug	astrewrite	length	targetsourcerangecomputer	removing	node	list	type	create	method	add	constructor	node	variable	parameter	edit	field
+231263	bug	formatter	javadoc	formatter	wrongly	indent	tags	description	indent	create	tab	preference	java	add	test	formatter	javadoc	empty
+195423	bug	content	assist	computes	type	hierarchy	filtering	prefixes	content	context	assist	type	create	hierarchy	text	filter	method	exception
+387940	quick	add	unimplemented	methods	quickfix	add	incorrect	visibility	action	create	constructors	editor	type	selection	methods	constructor	test	rewrite
+275308	bug	junit	runwith	parameterized	don	navigate	test	match	editor	java	description	temp	session	tree	evil	element
+369527	potential	npes	jdt	code	merge	type	access	label	potential	change	compute	participant	proposal	create
+296836	messages	removed	actionmessages	action	selection	open	external	java	type	bar	organize	imports	constructor
+217984	quick	assist	wrong	type	inferred	assign	local	variable	proposals	proposal	type	statement	variable	lambda	method	expression	add	merge
+342926	bug	junit	dbcs	junit	generate	method	cjk	extension	test	unit	list	launch	instance	method	plugin	type	config	bundle
+411529	move	method	refactoring	reference	method	refactoring	type	change	method	move	rename	processor	analyzer	constructor	supported
+51092	bug	reconciling	javamultipassreconciler	removes	annotations	java	window	reconciling	indicator	overlaid	editor	requestor	type	reconcile	annotations
+184222	bug	templates	code	templates	lock	preference	template	registry	java	context	text	workbench	instance	file	store
+296878	quick	quick	adds	exception	doesn	check	javadoc	element	exists	quick	assist	correction	proposal	proposals	java	marker	meter	ignore	string
+443309	teardownafterclass	newtestcasecreationwizard	disabled	clicked	test	create	temp	selection	refactoring	classpath	dialog	helper	action	descriptor
+264112	bug	formatter	wrap	aggressive	qualifiers	create	indent	profile	test	preview	dialog	add	map	java	update
+81856	bug	quote	problems	property	files	jdt	file	create	annotation	type	problems	problem	java	add	save	remove
+90057	bug	nls	tooling	tvt	externalized	string	externalize	strings	panel	create	action	accessor	key	selection	button	check	table	editor	dialog
+424920	replace	references	packagequalifiedtype	namequalifiedtype	constant	type	check	method	text	create	declaration	expression	references	add
+474073	replace	valueof	proposal	create	constant	check	declaration	type	replace	method	initializer	variable
+272366	ltk	ltk	refactoringwizardopenoperation	opens	window	window	title	text	refactoring	create	wizard	initial	resource	message	user	status	manager	save
+68586	bug	implementation	reconciling	robust	reconciling	java	changed	window	literal	text	positions	reconcile	temporary	requestor
+333803	move	member	type	move	type	file	creates	compile	error	parametrized	type	method	type	create	check	members	member	target	field	refactoring	argument
+127987	bug	hovering	bidi	wrong	ordering	hebrew	text	tooltip	code	window	dialog	create	text	java	editor	buffer	selection	viewer	change	changed
+201718	bug	content	assist	paramter	guessing	slow	completion	create	context	category	proposal	clean	changed	content	assist	java
+460799	compare	structured	compare	editor	tree	doesn	properly	format	qualified	types	type	element	tree	input	selection	add	action	java	method	viewer
+47097	bug	content	assist	pressing	semicolon	commit	content	assist	bypasses	smart	semicolon	text	completion	content	assist	test	compute	method	create	comment	java
+411641	bug	content	assist	unnecessary	content	assist	popup	decimal	content	text	context	assist	java	create	history	test	iteration	session

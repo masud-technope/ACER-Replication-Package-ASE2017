@@ -1,0 +1,302 @@
+182277	plug	dependencies	view	system	packages	distinguished	framework	packages	classpath	bundle	launch	model	plugin	map	hash	collector	include	list
+173072	wrong	plugin	editor	opened	clicking	plugin	test	create	editor	bundle	file	element	form	model	context	body
+177177	extension	points	dependencies	search	content	extension	assist	outline	attribute	schema	proposal	add	form
+119843	exporting	plug	leaves	file	javacompiler	args	launch	plugin	export	source	test	baseline	delta	problem	attributes	compiled
+206887	bug	building	workspace	ies	target	large	number	plugins	takes	longer	target	test	plugins	bundle	read	location	workspace	plugin	extract	model
+331811	bug	polish	scan	feature	pattern	bundles	feature	report	scan	browse	base	touch	install	filter
+230447	invalid	warning	bundle	classpath	bundle	validate	source	plugin	project	add	version	check	build	classpath
+226349	eclipse	logs	seemingly	useless	install	bundle	error	bundle	export	build	create	components	properties	ant	script	feature	image	target
+151609	remove	deprecations	plugin	xml	extension	count	baseline	tracker	model	api	listener	cache	riptions	list
+251970	bug	tooling	osgi	declarative	services	template	generates	invalid	manifest	create	model	parent	work	indent	service	component	export	services	object
+229441	invalid	flagging	internal	extension	points	action	schema	label	extension	points	packages	bundle	change	filter	ext
+118850	bug	pde	launcher	program	arguments	command	arguments	tab	arch	model	launch	combo	head	app	entry	form	workspace
+322637	validation	dialog	closes	properly	create	plugin	validation	feature	image	entry	test	version	dialog	duplicate
+166984	eclipse	application	launch	config	fails	swt	fragment	workspace	launch	model	config	combo	workspace	product	application	block	data	lear
+174168	wrong	dialog	enter	version	number	exported	test	target	bundle	plugin	feature	dialog	location	item	version	create
+321624	Pgm	Arguments	duplicated	launching	product	editor
+140381	bug	convert	produces	warnings	build	properties	existing	source	build	file	plugin	project	entry	validate	src	test	fragment
+149604	amnesia	opening	manifest	jard	plug	source	search	plugin	model	transformer	ter	foo	bundle	target	info
+183405	Manifest	Editors	Required	Plug	ins	title	missing	Dependencies
+277611	target	target	platform	brings	plugins	previous	installations	target	bundle	test	model	button	plugin	plugins	source	container	location
+154739	PDE	editor	tab	tooltip	fully	qualified	opened	plugin	deps	view
+322672	bug	pde	api	create	build	model	create	plugin	build	file	model	update	action	form	text	progress
+96385	bug	inconsisent	casing	add	visitor	install	lazy	project	loading	component	service	file	ition
+96384	bug	runtime	library	classpath	plugin	library	classpath	entry	add	path	entries	project	create	source
+263306	Bug	Installed	metadata	group	longer	spans	preference
+195729	bug	provide	plug	ins	cvs	plug	ins	tab	model	plugin	models	external	delta	add	bundle	table	plugins	sync
+209046	bug	context	ids	templates	cycle	option	add	perspective	template	life	context
+155796	bug	patch	jface	text	deprecation	text	feature	site	add	patch	provider	features	version	lazy	hro
+224409	ability	mark	extension	points	internal	extension	create	content	form	bundle	outline	service	assist	attribute	schema
+94366	Bug	Feature	appears	feature	selection	dialog
+209056	Bug	config	ini	generated	eclipse	launch	configuration	work	target
+134311	validation	Java	project	source	output	folders	Plug	Project	Wizard
+116919	Bug	Plug	Manifest	Editor	loses	dependency	addition
+224447	Bug	change	internal	manifest	file	picked
+180420	Plug	wizard	defaults	biased	plug	development
+179401	Shells	created	launcher	buttons	wrong	parents
+221390	bug	hide	selection	user	text	create	open	dialog	file	handle	input	model	selection	button
+113870	bug	pde	editor	improperly	process	extension	points	defined	fragments	field	host	packages	bundle	table	schema	ext	search	plugin	registry
+274646	bug	progress	reporting	api	comparison	hits	list	filter	requestor	search	api	destination	regular	file	model	plugin
+229584	compute	dependencies	feature	broken	test	editor	content	assist	bundle	attribute	compute	proposal	feature	file
+158945	pde	handle	space	required	bundle	version	target	button	include	plugin	mode	label	source	bundle	tree	model
+154853	missing	border	extensions	tab	plugin	action	target	title	error	message	label	file	wizard	resolution
+430305	bug	remove	unsupported	bytecodes	preference	luna	resolution	api	target	annotation	tag	build	operation	table	remove	auto
+118008	bug	field	disabled	action	model	group	registry	tree	extension	browser	template	change	filtered
+185597	errors	creating	school	plug	ins	model	plugin	models	external	delta	add	version	bundle	table	plugins
+206081	source	locations	included	directories	target	platform	test	target	bundle	feature	missing	stream	arguments	source	version	container
+139526	extra	dependency	classpath	model	search	description	form	text	fragment	plugin	project	build
+213255	bug	extension	point	schemas	valid	schemas	extension	schema	element	plugin	attribute	point	model	assist	proposal	source
+272641	bug	externalize	strings	manifest	suffix	header	change	strings	properties	file	create	plugin	participants	message	supports	externalize
+272654	Manifest	Editors	Select	text	creating	attribute	element
+231688	bug	filter	error	manifest	validate	bundle	create	project	check	version	manifest	participants	entry	directive
+481559	Bug	Remove	redundant	Javadoc	statements	org	eclipse	pde	tests
+215314	manifest	editor	content	assist	additional	info	wrong	status	text
+213268	open	plug	artifact	filter	stringent	profile	model	create	target	open	handle	source	action	include	feature
+461083	bug	target	target	definition	editor	prematurely	editing	software	site	target	site	init	selection	group	tree	category	editor	file	managed
+354586	bug	api	errors	warnings	severity	fishy	api	compatibility	version	severity	problem	severities	elements	element	report	configuration
+125221	doc	missing	context	api	component	elements	type	descriptor	scope	listener	schema	preview	project
+208164	Regression	Extension	search	longer	highlighted	plugin	editor
+159020	included	features	don	feature	editor	outline	feature	create	content	handle	form	target	editor	file	features	action
+266548	target	move	target	button	targets	moved	top	target	button	filter	action	report	step	label	remove	radio	adapter
+198961	feature	dependency	calculations	include	plugin	action	error	message	title	label	target	file	resolution	wizard
+198965	Feature	Editor	find	feature	dependencies	correctly
+95542	Bug	PDE	attempt	add	external	folder	classpath
+131394	bug	javacverbose	add	install	lazy	loading	component	service	ition	dition	mode	version
+184646	launchers	add	required	plug	ins	acts	weird	model	plugin	feature	add	remove	models	external	delta	bundle	table
+97605	Dialog	cut	High	Contrast
+184644	feature	editor	sorting	incorrect	test	editor	create	file	feature	viewer	toolbar	bundle	content	missing
+186701	target	environment	amnesia	bundle	working	launch	cvs	api	viewer	table	feature	cached	execution
+172374	Bug	Launch	Eclipse	Application	clears	target	workspace	determines
+256343	Bug	update	API	tooling	tags	avoid	errors
+163161	Bug	PDE	Extension	Wizard	creates	bad	plugin	xml	file
+185696	bug	manifest	editors	automated	management	dependencies	title	disappears	dependencies	form	add	plugin	template	bundle	remove	project	participants	packages
+221547	bug	profiles	bind	installs	change	change	perform	file	participants	create	remove	add	bundle	api	filter
+130411	bug	copyright	statements	missing	java	files	build	validate	create	source	element	entry	participants	java	files	manifests
+113004	Bug	Plug	dependencies	element	disappears	working
+149900	PDE	Locks	adding	ton	required	plugins	sweet	time
+108954	Error	project	creation	manifest	file	created	classpath
+248216	Bug	tooling	buttons	properties
+229791	bug	save	version	info	launch	configurations	needed	info	configuration	plugin	launcher	file	entry	launch	product	window	error
+183708	plug	dependencies	view	opening	view	manifest	editor	model	open	handle	content	action	view	menu	element	description	global
+228765	existing	config	ini	product	editor	plugin	config	combo	product	button	model	application	lear	add	itional
+163258	Bundle	Localization	Manifest	Header	honored	plugin	xml	editor
+145854	create	template	osgi	service	template	wizard	label	splash	sample	service	generate	title	view	selection
+155070	exporting	feature	saving	ant	script	generates	functional	script	build	export	target	missing	bundle	header	feature	exception	error	source
+171462	clean	templates	template	branding	description	clean	resource	directory	field	progress	add	location
+109003	bug	editing	plugin	xml	located	subfolder	plugin	project	edits	manifest	root	project	bundle	extension	model	file	source	plugin	editor	locations	hing
+213457	erroneous	extension	validation	content	assist
+221655	plug	ins	view	useless	content	description
+319965	bug	feature	project	referenced	plug	ins	fragments	multiselection	functionality	model	plugin	ernationalize	list	workspace	external	update	lear	add	itional
+199129	bundle	localization	header	fragments	externalized	validate	bundle	header	packages	model	change	element	plugin	version	check
+168417	generated	ant	script	export	plugin	projects	working	export	build	ant	create	script	file	delete	properties	feature	target
+137700	bug	product	editor	generates	plugin	list	feature	based	product	feature	handle	form	model	create	plugin	product	export	add	preliminary
+164337	exceptions	pde	refactoring	participant	change	refactoring	participants	project	create	plugin	conditions	info	delete	eresting
+152054	tooltip	description	splash	action	messages	element	viewer	image	composite	editor	icon	tree
+241145	refactoring	move	code	separate	plug	ins	model	add	plugin	external	delta	change	selected	target	models	bundle
+264696	bug	target	current	target	backing	target	definition	file	deleted	target	destination	editor	managed	input	file	content	group	locations	job
+258560	bug	api	retrieve	properties	definition	files	include	target	cvs	custom	multiple	configure	error	synchronize	par	message
+153093	inconsistent	placement	labels	update	site	editor	text	site	table	repository	tab	entry	arch	url	version	patched
+169480	manifest	editor	display	plug	names	commas	export	editor	plugin	reveal	enabled	form	file	array	list	ects
+405015	bug	unsupported	tag	secondary	type	problems	created	scan	path	processed	annotations	message	tags
+155158	product	editor	doesn	support	delete	key	table	editor	launcher	repository	action	color	folding	viewer	aware	ion
+441883	Bug	bidi	Compare	editors	MANIFEST	plugin	xml	enforce	LTR
+222753	bug	prompted	rebuild	test	save	type	local	anonymous	add	error	validate	product	project
+202272	drop	fragment	project	overview	tab	confusing	create	plugin	editor	context	model	build	source	file	handle	export
+163384	wrong	order	classpath	entries	hosting	test	source	classpath	project	bundle	build	add	plugin	create	entries
+227904	bug	editor	polish	search	pattern
+233034	bug	error	message	missing	arguments	plugin	error	action	message	title	target	label	file	resolution	wizard
+151112	organize	manifests	adds	settings	meta	inf	export	create	bundle	file	form	build	plugin	export	remove	participants	add
+267848	bug	pde	illegally	complains	externalized	strings	test	strings	plugin	model	color	local	anonymous	supports	type	string
+164438	Bug	Signed	features	mistaken	plug	ins
+418392	bug	pde	build	dependency	runtime	compatibility	optional	severity	plugin	lib	entry	problem	optional	java	description	build	erved
+203356	target	platform	looses	previous	bundles	adding	directory	target	plugins	target	button	location	url	source	definition	importer	model	changed	version
+406119	Bug	Javadoc	tag	autocomplete	work	tag
+293474	editing	extensions	pde	editor	creates	invalid	plugin	xml	extension	plugin	action	model	document	pde	dec	element	base	form
+153195	create	osgi	bundle	manifest	generates	exports	cvs	metadata	bundle	build	file	profile	create	export	api	source	target	version
+201325	Target	Editors	plug	ins	features	Include	plug	ins	target	checked
+216703	validate	dialog	narrow	create	feature	update	plugin	version	validate	dialog	model	general	handler
+45695	bug	tests	variables	program	args	working	dir	config	dir	location	model	plugin	seed	tmp	preview	point	force
+175756	pde	imports	signatures	source	type	test	source	api	create	model	method	outline	java	menu
+166546	exporting	plug	project	plug	ins	classes	model	plugin	models	external	delta	add	bundle	baseline	location	perform
+209554	check	problems	platform	api	target	problem	check	bundle	version	location	component	problems	element
+173712	plug	project	jar	wizard	fails	enable	finish	button	plugin	wizard	create	option	model	selection	add	jar	properties	settings
+138903	template	perspectives	extension	point	plugin	point	filter	field	template	project	extension	desc	wizard	viewer
+201369	deleting	extension	point	file	problems	extension	schema	bundle	point	registry	plugin	service	create	file	error
+221852	bug	export	features	enabled	sdk	export	create	feature	file	add	handle	plugin	selection	action	editor
+268966	Bug	binary	plug	ins	update	source	attachment	replacing	existing	jared	plug	ins
+489122	bug	templates	annotations	osgi	pde	templates	template	branding	resource	directory	field	progress	schema	file	generate	edit
+198309	preview	granular	preview	schema	create	color	form	outline	viewer	element	editor	link
+128683	organize	manifest	detect	remove	exported	bundles	bundle	packages	remove	plugin	create	add	element	dependencies	require	icon
+89782	manifest	builder	overzealous	api	manifest	build	plugin	source	bundle	file	dependent	tooling	components
+215743	schema	errors	displayed	problems	explorer	views
+228031	bug	wrong	background	inheritance	preference	test	bundle	delta	change	source	color	content	stream	header	text
+475855	bug	patch	tvt	ies	platform	string	concatenation	appeared	polish	language	resource	library	bundle	plugin	target	properties	install	patch	info	source
+148171	PDE	Tools	Open	Manifest
+229070	pde	ignore	api	errors	launching	api	compatibility	version	severity	problem	configuration	severities	element	elements	report
+160475	decorate	erroneous	additional	bundles	raw	editor	target	create	add	project	test	plugin	bundle	handle	location	read
+289502	bug	spell	checking	issues	org	eclipse	pde	doc	user	toc	xml	outline	toc	spelling	label	component	selection	elements	location	reference	visit
+172767	buttons	needed	target	editor	button	editor	target	action	model	add	repository	mode	form	edit
+173791	PDE	Tools	Organize	Manifest	incorrectly	identifes	externalized	Bundle	Category	unused
+171758	bug	properties	properties	site	properties	setup	time	model	wizard	synchronize	complete	features	feature
+272107	bug	target	minor	issues	content	tab	create	model	target	imp	plugin	bundle	test	version	properties	api
+298742	duplicate	unordered	problems	build	properties	api	elements	problems	component	unresolved	visitor	model	setup	plugin	factory
+226037	initialization	policy	target	platform	based	location	target	bundle	test	model	feature	plugin	version	add	export	create
+496382	bug	eclipse	app	layout	add	api	baseline	doesn	accept	app	bundle	application	app	combo	elem	string	buffer	scan	test	schema	info
+218878	bug	prov	extend	product	definition	product	combo	intro	install	button	init	feature	plugin	def	wizard
+247553	export	version	creating	plug	existing	jar	archives	bundle	export	target	site	version	jar	folder	feature	file	source
+184068	pde	tooling	support	exports	action	api	session	wizard	update	javadoc	tree	remove	conversion	table
+400129	bug	npe	registering	context	plugin	project	plugin	field	kind	launcher	api	path	build	action	export	baseline
+188168	errors	workspace	dialog	displayed	api	export	wizard	severities	element	compatibility	perform	version	configuration	report
+122638	bug	mark	deprecated	extensions	attributes	generated	schema	doc	element	attribute	schema	model	text	validate	document	add	extension	plugin
+212755	pde	error	dialog	logs	error	app	running	create	dialog	plugin	error	text	export	image	link	validation	product
+206610	build	fresh	workspace	build	test	plugin	workspace	file	model	perform	ant	create	location
+121622	bug	specific	tabs	product	editor	open	current	model	handle	product	create	plugin	add	feature	configuration	action	form
+139037	PDE	resolve	translated	names	plugins	directory	format
+132893	bug	extension	points	declared	fragments	wrong	namespace	model	content	search	assist	attribute	proposal	extension	schema	form	list
+272164	bug	check	box	king	create	toc	text	plugin	model	property	filter	dialog	checkbox	patch
+150305	combo	box	lose	cursor	linux	command	create	model	update	template	combo	field	option	event	progress
+183073	manifest	editors	model	editor	open	create	change	properties	file	update	input	plugin
+135976	enhance	pde	support	extension	points	namespace	schema	action	extension	point	packages	configuration	bundle	change	ext	pde
+165672	option	wanted	add	specific	plugins	minimally	required	plugins	plugin	feature	bundle	add	model	plugins	launch	manager	handle	tree
+171838	environment	target	editor	slow	initialize	arch	text	env	init	combo	site	launch	exec	layout	plugin
+383802	bug	button	defaults	rap	eclipse	rcp	rap	developers	download	tracing	file	button	size	tree	color	workspace	tab	output	label
+181058	missing	friends	settable	warning	error	validate	bundle	element	attribute	report	property	reference	version	plugin	export
+474948	bug	templates	update	rcp	template	java	template	initial	content
+252751	bug	tag	tests	mysteriously	failed	api	leak	unsatisfied	file	reference	builder	problem	analyzer	analysis	ating
+326472	bug	remove	missing	plug	target	definition	editor	target	plugin	action	error	label	message	title	bundle	resolution	feature
+302928	bug	target	definition	problems	helios	target	profile	bundle	bundles	source	location	resolve	installable	include	equal
+344914	bug	api	problems	org	eclipse	base	test	method	problem	create	bundle	markers	api	location	build	usage
+483163	Bug	Remove	unnecessary	whitespace	eclipse	pde	repo
+187228	bug	rcp	templates	missing	create	template	branding	model	plugin	parent	work	extension	options	application
+147298	dependency	management	projects	targeting	osgi	dependencies	form	perform	bundle	plugin	lored	resource	content	find	dependency
+50018	bug	update	path	prompt	save	plugin	xml	plugin	file	create	element	workspace	model	baseline	api	progress	node
+230248	open	plug	artifact	dialog	sort	items	create	model	feature	handle	target	dialog	selection	plugin	tree	button
+247663	bug	outline	view	displayed	garbled	text	editor	overview	displayed	editor	create	form	outline	source	context	save	label	ion	manager
+370536	bug	creating	product	plugin	extension	tab	empty	editor	closed	opened	win	model	add	create	configuration	entry	form	plugin	handle	info
+138093	adding	imported	provide	version	bundle	version	test	packages	feature	element	resolution	source	project	schema
+154493	plugin	xml	file	baseline	model	api	cache	save	workspace	schema	base	change
+225148	pde	target	doesn	work	easily	target	element	extension	check	resource	plugin	local	find	create	existing
+138127	dependecy	analysis	side	edit	plugin	xml	file	model	api	add	change	element	editor	tag	file	dump	plugin
+484244	Bug	Remove	unused	methods	Activators	PDE
+258969	Bug	API	Baseline	dialog	Browse	start	current	install
+344996	bug	api	freeze	check	leads	npe	file	text	create	plugin	tar	selection	location	entry	list	data
+204719	provide	ioexceptions	parsing	exsd	files	element	plugin	add	file	schema	project	model	create	template	parse
+264106	target	provide	careful	handling	remove	button	pressed	create	update	target	form	model	action	handle	add	dialog	selection
+381875	bug	javadoc	errors	org	eclipse	pde	core	target	validate	build	source	target	test	java	document	errors	entry	matching
+171962	translatable	attribute	attribute	schema	model	plugin	property	strings	hyperlinks	details	extension	type
+256954	Bug	Add	quickfix	problem	reporting	api	component	resolution	error
+380857	bug	mixed	delimiters	schema	changed	field	model	comp	label	view	ositor	unit	compilation
+170941	execution	environment	launching	eclipse	application	launch	model	validation	plugin	operation	base	bundle	models	configuration
+307149	bug	adding	packages	manifest	rebuild	project	file	api	bundle	locations	model	change	visitor	string	buffer
+151502	change	order	fields	extensions	extension	plugin	remove	extensions	model	context	add	delta	participants	schema
+443338	bug	errors	saving	plugin	descriptor	file	baseline	validate	error	target	api	file	build	source	filter	entry
+151501	vertical	layout	weird	extensions	create	plugin	category	element	splash	data	form	toc	link	layout
+201681	manifest	editors	weird	character	representing	open	bracket	tree	table	viewers	text	element	tag	message	add	strings	update	create	table	buffer
+223194	bug	failing	test	path	compilation	unit	file
+183260	sync	switching	targets	target	debug	handle	create	launch	resource	configuration	export	add	event
+154593	pde	tools	update	classpath	deletes	access	rules	classpath	library	add	plugin	entry	container	access	target	compliance	source
+265198	target	warn	compatibility	severity	destination	lib	entry	problem	erved	path	file	map	res
+136172	quickfix	remove	redundant	internal	remove	model	action	project	bundle	add	participants	build	tree	create
+231409	bug	conversion	org	eclipse	update	core	causing	weird	api	update	wizard	declaration	project	type	check	javadoc	rewrite	table
+465909	bug	gvt	truncation	setup	convert	preferences	api	wizard	preferences	plugin	launch	javadoc	setup	update	file	customize
+267264	target	add	group	location	editprofilecontainerwizard	button	target	location	group	source	combo	bundle	selection	radio	container
+296457	Problems	problems	quick	fixes	build	properties
+220179	Bug	Manifest	Editors	XMLInputContext	erase	characters	removing	nodes
+66069	Bug	site	xml	editor	Publish	command	add	foo	jar
+215579	modelentry	getbestcandidate	bad	choices	option	choice	text	model	create	portability	form	changed	entries	dialog
+383001	bug	typo	key	mathprocessorname	localization	properties	file	file	change	properties	manifest	model	plugin	extension	element	remove	packages
+138795	presentation	names	features	launch	configuration	content	target	config	bundle	intro	args	feature	stream
+153640	template	osgi	services	usage	simplelogservice	wizard	template	create	model	bundle	extension	work	packages	initialize	list
+231977	copying	multiple	extensions	triggers	java	lang	classcastexception	element	extension	plugin	toc	test	attributes	multiple	add	service	expand
+35888	Bug	Adding	extensions	plugin	manifest	editor
+269381	bug	tooling	compiler	warnings	validate	bundle	build	source	check	src	java	error	file	create
+329287	Bug	org	eclipse	core	runtime	compatibility	registry	error	removed
+144967	bug	itemplatesection	typo	template	create	wizard	column	selection	initialize	plugin	templates	structured	main
+198724	raise	warning	bundle	classpath	source	folders	source	build	entry	bundle	validate	java	project	output	classpath	library
+230987	bug	dsadditemaction	isn	raising	imodelchangedevent	insert	event	document	operation	move	element	build	edit	list	schema	readable	source
+490062	bug	generate	lazy	activation	policy	osgi	annotations	bundle	model	required	export	project	description	host	olutions	res	plugin
+222793	bundle	contactaddress	generate	warning	translated	plugin	model	bundle	file	feature	string	remove	packages	create	schema
+171601	remove	internal	references	java	preferences	scan	count	location	label	reference	references	model	add	action	work
+201306	bug	xmlerrorreporter	deprecated	calls	schema	source	create	property	attribute	node	error	compositor	usage	info
+185955	target	setting	plug	project	wizard	remembers	wizard	plugin	model	project	ernationalize	template	projects	array	list	converted
+406112	bug	scan	api	problems	flag	collides	flags	api	type	model	marker	extra	error	delta	filter	compilation	riptions
+120938	bug	schema	editor	disabled	action	filter	open	editor	schema	element	image	ext	plugin	tree
+218223	Bug	PDE	editor	browse	type	OOME
+172675	provider	form	fields	fragment	overview	updated	externalization	quick	applied	create	form	outline	tree	size	link	handle	viewer	menu	ion
+263299	target	definition	support	appending	ini	args	launch	plugin	workspace	start	model	product	configuration	location	levels	base	models
+396429	bug	samples	loaded	option	text	launch	reveal	enabled	form	editor	configuration	test	started
+130199	navigation	manifesteditor	match	base	extension	tooling	attribute	exact	create	editor	plugin	initial
+312466	early	call	modify	bundle	root	leaves	workspacepluginmodelmanager	initialized	project	listener	provider	api	data	changed	version	text	modify	properties
+90264	bug	nested	classes	extensions	leads	classnotfoundexception	elem	tree	filtered	string	buffer	test	schema	info	app	meta
+172703	list	launch	shortcuts	pde	editor	extensible	launch	feature	bundle	plugin	configuration	handle	model	tree	column	plugins
+273049	bug	cheatsheet	registering	cheat	sheet	fails	java	lang	nullpointerexception	simple	step	file	plugin	remove	editor	tree	details	master	model
+312495	bug	bundleprojectdescription	apply	slow	call	clean	workspace	block	file	configuration	launch	workspace	data	progress	storage	model	map
+149676	Plugin	manifest	editor	suggestion	efficiently	search	extension
+65204	bug	xslt	web	site	xml	supported	mac	safari	web	reports	project	tooling	location	element	site	file	patterns	filter
+205493	invalid	manifests	multiple	bundledescription	project	bundle	project	workspace	create	manifests	remove	participants	source	selection	custom
+484548	Bug	Feature	manifest	file	label	NPE	clicking	Dependencies	tab
+243911	bug	adopt	ant	api	export	ant	source	build	button	compiled	jar	qualifier	location	temp
+248519	bug	tooling	component	definition	fields	swt	border	style	target	create	tree	viewer	update	selection	element	click	filter	form
+228044	testapplication	parameter	unusable	product	parameter	param	command	object	copy	text	type	test	values	model
+158418	creating	osgi	bundle	project	adds	lazy	start	header	project	model	assist	field	lazy	source	block	entry	osgi	exec
+203993	Schema	HTML	generator	CHKPII	errors
+257246	bug	compiler	warnings	severity	build	project	listener	model	marker	lib	entry	problem	hash
+233699	Bug	Add	support	version	types	OSGi
+310496	bug	nls	string	test	method	product	local	anonymous	type	illegal	javadoc	inherited	image
+314595	prevent	pluginmodelmanager	instantiated	plugin	feature	bundle	schema	site	dependencies	container	object	classpath	version
+300771	bug	dead	code	pde	add	component	lazy	service	loading	ition	dition
+181997	bug	abstractlaunchertoolbar	leaks	menus	bar	menu	feature	model	action	type	parent	create	work	field
+217333	maintab	location	hyperlinked	workspace	location	create	container	target	drop	manifests	input	files	data
+191231	binary	compatibility	breakage	method	removed	abstractlaunchertab	test	problem	create	api	add	perform	remove	version	method	selection
+482554	bug	warning	org	eclipse	pde	runtime	launcher	export	marker	msg	error	setup	area	required	warning	height
+61184	bug	browse	button	extension	work	button	combo	browse	plugin	file	schema	text	location	install	directory
+191232	binary	compatibility	breakage	method	removed	equinoxpluginstab	test	problem	create	api	add	perform	remove	version	method	selection
+177420	equinoxlaunchconfiguration	bundle	version	launching	launch	plugin	launcher	configuration	feature	workspace	exec	model	validation	unit
+225047	bug	dbcs	externalize	strings	halts	dbcs	characters	change	viewer	manifest	model	setup	table	externalize	ernationalize	document	error
+129817	Bug	dependencies	templates	longer
+166680	meta	inf	bundle	manifest	model	file	bundle	extension	delta	remove	plugin	manifest	schema	add
+319268	bug	pde	confused	pde	projects	project	projects	url	working	button	selection	names	location	model	table
+469803	bug	patch	eclipse	sourcereferences	supported	ctrl	space	suggestions	create	patch	tree	feature	form	filter	site	settings	install	event
+63287	bug	flickering	â€œimport	plug	insâ€	dialog	mac	win	path	model	ernationalize	sol	include	url	args	project	entry
+149816	Manifest	Editor	plugin	xml	source	editor	syntax	coloring	confused
+232771	Unexpected	confirmation	dialog	launching
+307524	org	eclipse	wst	xml	plug	manifest	editor	unreliable	extension	search	text	editor	array	model	change	list	delta	transformer
+230209	bug	api	tooling	illegally	instantiates	flagged	extending	noinstantiate	wizard	api	javadoc	update	conversion	baseline	pack	ibs	attr	based
+417603	Bug	Unjustified	tag	error	incremental	build
+274765	bug	target	cancelling	resolution	editor	closed	raises	assertion	failure	plugin	action	error	message	target	title	label	feature	resolution	file
+173393	bug	missing	entries	manifest	generated	template	wizard	option	file	model	template	string	parent	work	version	validate	create
+226640	bug	missing	tags	tag	type	api	method	resolution	declaration	annotation	test	field	update
+260953	bug	importing	fragment	export	headers	forgets	java	nature	bundle	validate	test	add	project	create	export	plugin	build	source
+488805	bug	dsannotationcompilationparticipant	performs	unnecessary	model	modification	model	file	project	editor	change	modification	open	context	participants	problem
+218983	bug	save	cycle	sync	resources	cycle	option	plugins	button	underlying	file	feature	hro	sync	component
+117094	bug	tvt	tct	plug	key	change	word	order	required	template	option	control	content	perform	preference	create	text	combo	token
+367980	bug	support	pre	release	versions	checked	tree	source	target	create	refresh	filter	ion	menu	destination
+216946	unable	junit	tests	org	eclipse	jdt	junit	runtime	target	platform	plugin	model	workspace	config	descriptor	version	test	loader	base	dir
+203126	bug	workingsets	location	workingsetconfigurationblock	changed	implementors	source	create	plugin	bundle	build	project	delete	warning	initial	wizard
+409969	bug	target	platform	feature	bundle	cached	target	listener	descriptor	ext	add	list	ensible
+227706	Bug	filter	Method	API	parameter	breaks	rebuild
+482171	bug	packageselectiondialog	filter	startswith	match	test	plugin	filter	range	element	create	properties	target	bundle
+173447	generated	schema	description	valid	html	schema	working	element	preview	notification	target	doc	force	listener	property
+185225	view	doesn	refresh	plug	action	active	filter	model	form	viewer	group	view	packages	plugin
+234376	plug	project	property	template	deprecated	elements	plugin	project	template	wizard	list	field	content	lear	jre	bundle
+220069	plug	ins	view	malformed	content	description	model	action	plugin	external	list	listener	property	workspace	content	update
+304041	bug	compiler	warnings	validate	bundle	element	build	attribute	source	test	error	java	create
+206765	pde	shoud	ignore	osgi	manifests	workspace	projects	remove	project	dependencies	plugin	manifests	add	workspace	modify	unused	level
+241074	templates	hellorcp	template	externalized	strings	ernationalize	externalize	model	message	selected	locale	plugin	wizard	template	skip
+108466	dups	eclipse	classloader	getresources	string	comment	dir	plugin	filter	source	model	map	lookup	array	factory
+79794	adopt	hyperlink	feature	create	hyperlink	link	text	event	form	product	register	action	detect
+217022	PDELabelProvider	handle	system	bundle
+486328	bug	warning	pde	core	pde	project	launcher	url	marker	export	plugin	working	location	auto	imported
+226254	bug	api	tools	memory	test	api	changed	type	lambda	anonymous	local	description	copy	usage
+183250	product	editor	add	duplicate	features	plugin	action	error	message	title	label	target	file	resolution	wizard
+383448	bug	osgiminimum	missing	principal	missing	problem	api	report	severity	list	location	title	bundle	remove
+477658	bug	multi	featureexportoperation	log	error	export	build	log	file	create	feature	dialog	info	button	ant
+207836	search	extension	point	references	don	multiple	versions	search	extension	plugin	find	add	element	java	point	create	current
+479192	Bug	Warning	PDE	moving	java
+146912	abstractmodel	update	nlresourcehelper	bundle	localization	model	plugin	create	bundle	file	change	document	resource	time	build
+226788	pdemodelutility	cache	correctly	cache	api	refresh	hing	location	scan	model	baseline	annotation	job
+98790	bug	leakage	undoactionhandler	redoactionhandler	disposed	open	close	plugin	xml	api	problems	current	type	att	count	map	location	spy	dialog
+170474	Dependancies	initially	project	creation	wizard
+342512	Bug	Plug	Manifest	Editor	adds	garbage	mnemonics	saving
+206335	convertschematohtml	task	problems	plugins	api	dump	problem	location	feature	file	list	print	plugin	bundles
+68606	Bug	Plug	Project	wizard	error	creating	box	project
