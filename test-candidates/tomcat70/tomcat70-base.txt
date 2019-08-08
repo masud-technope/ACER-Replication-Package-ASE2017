@@ -1,0 +1,454 @@
+59908 Bug DBCS recommned UTF XML encoding
+48133 misspellings javadoc comment classes org apache core
+47111 Bug bug CVS component
+48139 Tomcat Javadoc unthrown exception fixes
+50700 Bug Create patch omits parts source file
+51212 Bug Replace dialog prefilled original
+50189 Bug AJDT install properly Eclipse
+56334 Bug runtime prefs remove unused constants
+43538 Bug Ctrl Space key events
+44562 Bug Editors Editor dialog missing accelerators
+48149 misspellings org apache coyote org apache
+48661 Bug filter type reduce xml selection
+48150 misspellings javax servlet
+48151 Java files don headers
+46105 Bug Unable launch programs
+18462 System err overriden output System
+53792 Bug Scalability Prioritizing indexing searching working
+53793 Change webapp links Manager point appname appname
+48678 Bug JVE Palette persist open closed
+37929 Bug Plan Item Improve scalability
+49196 Bug Update correlation
+43053 Bug require reference cleanup expressions
+45101 Bug plan item Integrate RCP stream HEAD
+55343 Bug Unsupported protocol SSH OpenSSH
+48176 Fields
+45618 Bug Ant outline editor unable load DTD
+50228 Bug XOR mode doesn work
+42039 Bug JDT explorer doesn trigger decoration java files
+36923 Bug Font Print Margin Calculated Correctly
+50747 Bug SSH CVS Plugin connect
+49217 Bug tools jar Ant Entries
+49730 Bug source lookup Call stack editor annotation ambiguous
+58946 Bug Standalone compiler text incorrect Unix
+48196 arrays
+46666 Bug file entry popup window project
+33356 Bug Read files dialogs override methods code manipulation
+49234 JMX Descriptor Modifications
+50771 Bug Provide RDB EMF model
+49749 Bug eclipse won start Solaris eclipse
+57943 Bug Search wrong match info
+42072 Bug Exporting deployable plugin hounour compilation directive compiler preferences
+48217 Loggers
+49757 correcting generics warnings
+34399 Bug Wrong build file generated variables
+37984 Bug Hotkey popup click menu
+54370 NPE mapping method
+41059 Bug working filter Breakpoints view
+48230 Unused imports
+43622 Bug Multiple aspects difficult manage
+60008 Bug Remove Hyades documentation doc plugins
+51306 Bug Port log interaction viewer UML
+54382 Nullpointer Exception activating SSI loading html file specific comment
+47216 Bug Unexpected warning launching Eclipse Eclipse
+56953 Bug project shared
+57977 Bug Update breakpoint location verifier manage AST elements
+56446 Bug opens project wizard
+47744 Bug launch runtime workbench
+41089 Bug Background color problem
+56449 Bug reference match Javadoc Code
+37509 Bug Open Declaration opens declaration local variables
+47237 Bug Mispelt error message
+43142 Bug Feature update Unable access http
+42119 Bug Preferences Workbench Fonts alignment
+59015 Bug Editor General browse button
+48266 Patch generics catalina
+48267 Patch generics javax packages
+37515 Bug Navigator Overview keyboard accessibility
+60043 Bug Incoherent sequence method Entry Exit events reported JVMPI
+50316 Bug Workbench Empty window overlaying Editor
+58508 Bug Source Selected Element showing source selected element
+43150 Bug Duplicate Entry CVS Compare
+57490 Bug Perspectives Saving size perspectives
+39572 Bug Add option generate lazy method
+56982 Bug Typing trigger CVS edit commit
+42648 Bug Managed platform Cygwin Executable
+55960 Bug Pressing Preferences starts external browser
+56472 Bug Font Colour Active foreground white povokes nasty close widgets
+38553 Bug open illegal operation occurs
+46243 Bug Extra click required compare
+21157 Bug undo redo update filechanged astrix Editor bar
+57509 Bug Ant auto indent enhancement
+48296 Generics fixes
+39592 Bug Misleading syntax error diagnosis
+39088 Bug Create contribution error parser
+58545 Bug character launch configuration clipped console
+58547 Bug CTOR order prioritized correctly
+52405 Update Servlet Rev
+43191 Bug osgi bundles bundles installed
+47799 Bug Code Formatter EMPTY STATEMENT
+46264 Bug Function bounds wrong clicking function binary
+43706 Bug Palette desc items editor doesnt wrap linux
+49340 Webapp unavailable deploy start
+55996 Bug Sharing Wizard Resize sync
+41666 Bug eclipse hangs startup refresh workspace
+48837 Bug workspace Fails building plugin JARs multiple source folders
+48843 Bug Configure Branches dialog multi select
+54475 Bug Log Navigator won auto reload resources closed reopened
+41166 Bug Runtime Arguments improperly passed
+53454 Bug Plat terminate process attached monitoring started
+43216 Bug Errors plugin xml compilation errors
+47827 Tomcat API methods declare Exception
+49876 correcting generics compile warning org apache tomcat util bcel classfile files
+47320 Bug Ant view icons target confused Java decorator
+45785 Bug Problem saving Java editor project directory place
+48345 Bug Add plugin reference javadoc
+56025 Bug Log config area blown PDE
+56027 Bug Trim status space allocation
+47836 Bug Change method signature improve editable table refactoring
+45279 Bug Tasks Stale marker problems view
+49376 Minor corrections info properties
+38113 Bug Remove Inexact Matches enabled inexact matches
+54497 Bug generation problems JVM Terminating Hyades
+49890 Bug Create Patch wizard remember path file system
+46819 Bug enable disable builder bug cancel
+47331 Bug Wrong text error dialog
+48870 avoid parallel arrays base types
+48358 Bug plugins don display provider
+58603 Bug test release file opened runtime workbench
+29936 Bug Sync feature site editors Update spec
+50929 patch Ensure rethrown exceptions retain original
+49905 Bug DCR Quick assist unneeded bracing
+59123 Bug button enable disable referenced libraries
+49909 jstl support
+52474 load listeners declared blank spaces tld file
+47866 Bug Internal error synchronize perspective
+42747 Bug refactoring aspect crashed compiler deleted body
+56573 Bug existing message side entering message
+48895 Bug java editing performance killed unnecessary Java AST creation threads
+58119 Bug DBCS DBCS pre edit text DBCS
+52488 Bug Checkout project exists
+46866 Bug books missing
+52500 Improve client certificate authentication
+43285 Bug Variable view empty
+39704 Bug declspec supported GCC
+45851 Bug Compare editors updated file
+54045 Bug Compare window EAST WEST cursor sash
+10526 Bug Decorators Decorator mechanism optimizations
+56606 Bug Workbench Resource toggle button bar follow rule square tab style
+58660 Bug Wording Limits tab Launch Config incorrect
+48421 Bug open plugin converter
+39724 Bug Status bar space read german
+59189 Bug cleanup sites
+53565 Bug Improve manual builds
+43840 Bug read connection extssh
+50496 Bug Main TOC frame work Mozilla Firebird
+58178 Bug Content Assist completion
+48454 Bug bookmarks tasks lost Eclipse crashes
+49991 Tomcat JAAS problem CDI
+54087 Bug Install Location wizard working
+54599 Bug SSH Export SSH Key Dialog standard margins
+48973 Bug comment formatter prefs comment tab delayed
+58701 Bug Tag add support branch tags qualified
+49998 Bug Annotations sorted preference dialog
+53584 Bug JDI thread evaluations running endlessly extremely
+59217 Bug Combo editable text area accept Japanese text IME
+45906 Bug Tasks Ability global task filters
+27988 Bug checkbox tree behavior refactoring consistent
+39769 Bug Working directory block radio buttons
+47453 Bug Monitors Threads view greyed
+50018 Javadoc corrections
+46950 Bug Adding source folder project complex code manipulation general issue
+47462 Bug Remote Debugging working
+52586 requests forwarded request attribute javax servlet path info assigned incorrect
+48498 Bug Add Paste refactoring
+45427 Bug Strange behavior quickfix add field
+56179 Bug synchronize view helpful fast view
+47478 Bug Switching JRE Library container
+50550 Bug Preferences Pref Workbench Add button mnemonic
+46967 Bug Debugger leaves green background
+58232 Bug DBCS Context search System failed Search
+50556 Bug Mmnemonics Team pref
+46462 Bug RCP Preferences Workbench switches click startup
+49536 webapps deployed accessing URL returns content
+48004 Bug Ant classpath problems
+47499 Bug Quick Diff hovers don text editor font
+47502 Bug Running Ant separate console output
+56724 Bug Copy method body clipboard selection editor
+56217 Tomcat Manager Application Status
+45977 Bug Contribute variables plugin contributed
+52121 Bug generate delegate methods option copy javadoc code manipulation
+47515 Bug view offer properties JRE classpath container build path
+47518 Bug tools Tools broken runtime
+55198 Bug Sync View Regression click synchronize
+56736 Bug Debug debugging code Debug perspective menu items Java operations
+13731 Bug ability refresh hierarchy view type hierarchy
+52135 Global error handled
+50600 Bug Add description code formatter preferences
+51119 Bug Overview agree sequence diagram view
+57265 Bug Update site builder create output folders demand
+48050 Bug Quick diff preference Ant Editor
+51124 Bug Searching sequence diagram scroll correct area
+59317 Bug Build Build Working Menu displayed working
+44986 Bug Support Breakpoint groups
+39875 Bug launching Managing invalid launch configs
+55749 Bug Improve performance time based correlator
+49095 Bug Compare large sections file
+56777 configuration resources loaded places straight filesystem
+59849 Bug remove references deprecated AST LEVEL
+59850 Bug PRES Implement style presentation
+49099 Bug Reduced Search menu search
+42444 Bug Error building feature find plug versions
+49613 Bug JUnit JUnit Test
+43470 Bug Multiple breakpoints location attempt add breakpoints running jobs
+44494 Bug Remove direct dependancies Xerces plugin
+49103 Missing annotations
+49104 raw types
+49105 Javadoc corrections
+49106 Unused imports
+50642 Bug Wrong completion kind declaring argument type
+51155 Missing deprecated comments
+58836 Bug Markers Problem view update problems background builds
+49625 Bug Breakpoint hit reported remote debug session
+49116 Bug Workbench debug views
+40929 Bug Version diff check cancel opening compare editor
+46051 Bug search Search details matched
+46564 Bug dirty file Save Resources dialog exit
+48613 Bug stack frames updated symbols shared libraries loaded
+51688 Bug Search Tree shouldn context menu
+53737 Bug scalability memory search
+52719 Bug Team loss functions compared
+48627 Bug Debug Perspective Shortcuts Menu actions don work
+48629 Bug plug descriptors missing provider
+55798 Enabling Manager App process description inadequate
+55799 Bug Intro don
+48143 Javadoc fixes
+50192 performance issue revision
+46096 Bug JVM Hyades java processes
+51220 Bug formatter api ContentFormatter pass indents based partition
+56365 Simplify Mapper StandardJarScanner
+51249 Bug Performance problems PackageFragment getPath
+51251 Patch add version parameter ant task
+50230 Recursive dependency tomcat catalina tomcat catalina
+31804 Bug Subclasses TextEditor longer create custom SourceViewers
+51264 Context Manager Store configuration proposal
+48197 XByteBuffer privatize fields Javadoc
+52293 Bug Cryptic Error Message Platform Loader
+49227 toLowerCase toUpperCase work Locales
+42071 Bug DCR Support Java source mapping
+50273 Bug XML string values escaped
+52326 log level failed loading
+52328 Massive garbage production observed response writer
+48233 Loggers
+53353 Malformed contentType attribute charset values
+43117 Bug Code Assist Support doxygen context
+51310 Connector destroyInternal Execution
+41074 Bug RFP Transactions spanning multiple life cycle operations
+54387 servlets url warning
+53366 Running SecurityManager jsp returns blank accessed
+56438 Bug Save Restore Configuration warn recover
+58489 Bug Workbench create contribute drop menu actions action bar
+58497 Unable custom implementation AbstractHttp Processor methods
+50310 Manager detailed status display servlets
+49290 JarScanner scanAllDirectories Tomcat start
+12428 request getUserPrincipal Misinterpretation specification
+51348 Bug JavaStratumLineBreakpoint conditions don apply
+50325 Bug PDE classpath container working importing binary projects SWT fragments
+53398 Incorrect tag XML response calling manager status XML
+45212 Bug WorkingSets Link working sets Projects Packages Types views
+52384 Bug OutOfMemoryError opening hierarchy Object
+58535 Bug batch asyncs progress forwarding
+46252 Bug disabled exception breakpoint
+28852 Bug Verification error tracing constructor takes arguments
+56501 problems urlencoding webapp
+46261 Bug Inefficient setClasspathContainer
+53430 JVM crash startup version
+51386 HandlingType correctly handled server startup leads incorrect classes passed initializers
+44223 Bug Group widget doesn pass focus pressing mnemonic
+49345 work correctly JSF composite components
+51395 application loads SAXParserFactory loader memory leak
+58568 WebappClassLoaderBase exposes system instance member
+57544 Bug OpenSnippetWizardAction
+58582 Bug ICompilationUnit reconcile client AST API level
+45272 Bug EditorMgmt save icon toolbar
+50394 Bug models common facades behavioral support save method ITestSuite
+43236 Bug NPE DeltaProcessor
+45285 Bug Multi select AntView
+53481 Bug refactoring move Preview moving change
+51436 ServletRequestListener fails access request parameters Expect Header
+51447 Session type Backup Primary
+53498 Atomicity violation bugs misusing concurrent collections
+51453 Requests open URL include Authorization header reach servlet
+47364 Bug iterator clone provide copy arrayList order
+51467 usage method start start thread
+48399 Lock fields
+46357 Bug Method view miscounting calls compressed data option
+55576 Order ServletRequest parameters preserved
+50459 Bug DCR Compiler warning opportunity System println
+55582 Concurrent issue TagFileProcessor
+49442 StringManager fields
+48424 logic creating objectnames connector mbeans
+53545 jsp action resources IllegalStateException classic custom tag
+46381 Bug proper shutdown hook cleaning platform termination
+52547 incorrect byeswritten log completed async request http
+46403 Bug Historic isDeleted method lingering content providers
+50503 Engine level Clustering work correctly web application version
+54602 CConverter character decode underflow leaves bytes buffer
+51532 Performance Issue retriving JAR files TLD file parsing
+56653 Bug Refactoring Difficult rename methods files included
+56657 Parallel deployment sessionid belongs latest version webapp latest version
+43356 Bug setting keyword substitution mode doesn work CVS modul checked folder project
+49503 Connectors bind ports Catalina load start
+57700 Exception LifecycleListener Context webapp unreachable spite subsequent successful startups
+51557 Newline http header field obscures
+43366 Bug Hierarchy view names types
+45419 Bug browser add api read html memory Photon Browser
+41327 Bug fragments bundle implemented
+50547 Bug MessageBox locks application
+49525 Unabled store data HttpSession root context
+53624 sendRedirect doesn work dispatch AsyncContext
+42361 Bug problem dialog boxes data fails errors reported
+49530 Context correctly stopped shutdown
+50554 Bad getClass lead concurrency bugs
+55681 JSR message handling pointer thrown DecodeException caught PojoMessageHandlerWholeBase onMessage
+45441 Bug IncompatibleClassChangeError runtime compiling option
+48517 SuppressWarnings unchecked document reduce scope
+46471 Bug add swap reflect
+49543 Bug Ole Invoke fill parameters
+56712 errors time calculations PersistenceManager
+48523 Duplicate property files
+45453 Bug pocketpc Pop menus work Tables
+49550 PATCH Response isSpace deprecated isWhiteSpace
+58768 Bug readme Variables View values references consistent
+50582 Small JSPs Content Length chunked encoding AccessLogValve configured
+53654 JSP file recompiled file based TLD URL
+51615 Bug misc Annotation roll action Mark Occurrences removes sticky occurrences
+49570 CompressionFilter support HTTP proxies cache gzipped content sending Vary Accept Encoding header
+50601 Redundant checks equals
+56746 Webssocket secure client thread access webapp resources
+43435 Bug CLASSPATH Project wrong NoSuchAlgorithmException
+50606 Bug workspace location fully qualified
+40380 Bug AspectJ honour libraries defined Project Properties
+49598 Bug place arbitrary controls table wrong tab order
+50631 Bug Hook resource scheduling rule factory
+37326 Bug breakpoints breakpoint actions context menu stack
+38352 Bug OLE OleAutomation embedded objects
+47569 Test cases clear
+50646 Bug CTabFolder tooltips read
+53725 GZipped responses result java IOException Corrupt GZIP trailer gunzip
+56797 API find overriden method
+53735 Bug KeyBindings override editing java context general context
+48616 Bug formatting Format messes link space
+52724 incomplete resource leak bugs Catalina java
+50683 Servlet annotations scanned unpackWars
+55804 SPNEGOAUTHENTICATOR GSSCredential renewed RemainingLifeTime
+56848 Tomcat accept language parsing doesn properly handle IETF BCP language tags
+54802 Bug Delete IStatusLineWithProgressManager
+59923 Bug Dialogs TitleAreaDialog setTitleImage NPE invoked early
+48660 Bug DeferredTreeContentManager hard reuse
+50709 org apache catalina core ApplicationContextFacade
+51736 Bug JUnit TreeItem test cases failing
+23066 Bug TextEditor performSaveAs doesn path file
+51741 Eclipse WTP Serve modules publishing broken patch tomcat
+55842 response setBufferSize work properly
+42530 Bug ServiceTracker open generates IllegalArgumentException
+53800 Infinte loop FileDirContext CDI Weld project Eclipse Server modules publishing
+50737 Bug Overlap projects message won project root directory
+45628 Bug traverse ToolBar items
+56900 Bug Modal Window cascade
+56902 Bug FastView views track fast view orientation
+57931 NIO connector incorrectly closes connection client certificate verification fails
+56907 Bug Font Colour WorkbenchPreview colors fonts presentation API
+35410 Bug VariableView fExpandedVariables cleaned
+42579 Bug Eclipse setting source folder parent output folder wipes source code
+56917 Bug Listen MouseDoubleClick event TrayItem
+49750 WebappClassLoader validate validate javax servlet
+44633 Bug Outline View CModelBuilder quits templated friends
+48729 Bug Support implicit properties
+43617 Bug Entire eclipse locked
+53863 Unable override servlet Tomcat embedded mode
+57969 PathParam annotation captures incorrect high load
+52858 High CPU load NIO connector client breaks connection unexpectedly
+59014 Bug EditorMgmt gradient tabs slow Linux
+55943 Provide prevent System classloader webapp classloaders
+41608 Bug failed move IFile left bogus
+60041 Bug Feature Editor Install Handler URL MalformedUrlException
+51860 HTTP SSL NIO won work
+55956 Tomcat Manager Application Status
+48790 Bug Provide LogFactory logging proporties file Apache Commons
+54939 logging maxHeaderCount hit
+48795 Bug INavigable API
+51872 request getRemoteAddr returning address previous request
+59043 Bug content type AIOOBE ContentTypemanager findContentTypeFor
+38570 Bug Source generation wizards Add button open preference
+54955 Mapping application context root returns reload
+59054 Bug Missing white space Search popup menu item
+51887 Speedup sessionid generation running testsuite
+53952 Bug type local variables displayed
+51905 Bug LogViewer omits entries depth
+49860 Bug Add EclipseErrorDialogOutputter GLA outputter xsd
+42693 Bug overspecified directory path eclipse exporting feature
+53960 Extensions HttpClient test helper
+47826 Bug Wizards WizardNewFileCreationPage support file extension
+42707 Bug DCR Create field comment
+48861 Bug Problem whits object variables JavaBeans designer time
+41722 Bug refactoring Move Member type File breaks reference
+54012 pageContext tag files generated java code code generation JSTL tagplugin
+59138 Bug Profile config button config java attach
+54022 CometEvent event suspended socket disconnect running Tomcat tcnative dll Windows Vista Windows Server newer
+47881 Bug Compiler evaluates
+59145 Bug DND DND order GTK
+59151 Bug Intro NPE Introduction
+49937 Problems AsyncListener resource injection
+56082 Bug junit test LaunchConfigurationDelegate preLaunchCheck
+58166 Bug ViewMgmt Console title foo improperly truncated
+47930 Bug RCP Move icons IDE workbench
+49985 Bug Eclipse crash leads unreadable workspace
+58179 Atomicity violation
+40771 Bug ajde apis unnecessariy coupled swing
+46915 Bug Javadoc IPerspectiveListener
+49987 Bug EditorMgmt Typo IPageLayout EDITOR AREA org eclipse editorss
+59206 Bug Perf JavaCommandStackPropertySheetEntry
+53067 WebSocket implementation issue wrapped requests
+54096 env entry rejects legal types
+59219 Bug Image data
+55125 Tomcat shut LifecycleListener exception
+43868 Bug Anonymous classes sort properly Hierarchy view type hierarchy render
+54115 Minor enhancements HttpClient test helper
+56172 Bug EditorMgmt views editors close icon
+47987 Bug Watson Error Debugging
+43893 Bug Scrolling copies wrong bits
+55160 NIO connectionUploadTimeout work
+47997 Bug empty opening brace formatter
+56190 Bug CopyCommand objects reference
+59269 Bug ViewMgmt Search view flickers extremely updating
+50054 AJP connector minSpareThreads
+49030 Bug wrong field hiding error reported
+55177 connectionTimeout high CPU
+46985 Bug ViewMgmt Javadoc Java docs IViewPart init confusing
+41869 Bug Unexpected copying variables
+52113 Tomcat reports missing context xml wrong location JMX deployment
+53138 download file size NIO connector tomcat version configuration download tomcat
+49045 JMX Enhancement Provision MBeanFactory createStandardService
+46998 Bug Generalize Type Cancel work refactoring
+50105 Bug code formatter enhanced handle XDoclet tags
+50107 StandardPipeline destroyed times
+46011 Bug thisEnclosingJoinPointStaticPart resolved
+50108 Add missing setter getter AbstractXXXProtocol
+52156 ServletContext getResource path doesn accept
+49086 Addition Javadoc Servlet annotations
+44994 Bug provide automated management JavaDoc
+49092 util IntrospectionUtils PATH SEPARATOR
+40901 Bug ResizeTracker disabled cursor cursor intial
+47046 Bug KeyBindings CapsLock
+50138 Bug editor context menu source surround
+49118 Inefficient String concatenation loop
+49132 JNDI working
+48113 Bug Select element AntView single deletion
+55282 JSF PhaseListeners duplicated
+49141 Impossible naming factory SendMailFactory getObjectInstance
+58357 Bug GridBag grid lines solid red dashed
+49142 Missing serialVersionUIDs
+49143 incorrect lazy initialisations
+49144 Incorrect lazy initialization update fields
+49151 Bug java lang OutOfMemoryError running LoggingUtilSample

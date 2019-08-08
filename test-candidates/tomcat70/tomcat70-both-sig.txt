@@ -1,0 +1,454 @@
+59908 Bug DBCS recommned UTF XML encoding	set test jsp encoding error web xml file tag dir
+48133 misspellings javadoc comment classes org apache core	set cookie session init context string thread mapper input external
+47111 Bug bug CVS component	set test context digest security realm request key property change
+48139 Tomcat Javadoc unthrown exception fixes	mapper function input expression external reader thread test object file
+50700 Bug Create patch omits parts source file	set path request attribute session parse servlet add test start
+51212 Bug Replace dialog prefilled original	test file redirect request count cookies servlet client body jvm
+50189 Bug AJDT install properly Eclipse	set method request test servlet add start body smap path
+56334 Bug runtime prefs remove unused constants	context read test servlet attribute thread jsp sender set count
+43538 Bug Ctrl Space key events	set socket key entity channel data param request create context
+44562 Bug Editors Editor dialog missing accelerators	test property coerce method spec client request path type string
+48149 misspellings org apache coyote org apache	set session request path parse async internal string attribute remote
+48661 Bug filter type reduce xml selection	test filter set start request servlet key fail selector nio
+48150 misspellings javax servlet	schema web servlet jsp server resource context service data filter
+48151 Java files don headers	set file find add size remove servlet filter header application
+46105 Bug Unable launch programs	test socket set add queue path start channel webapp servlet
+18462 System err overriden output System	attrs set jsp redirect tag error print output action directive
+53792 Bug Scalability Prioritizing indexing searching working	test set servlet bytes string path context http socket output
+53793 Change webapp links Manager point appname appname	set add find context resource remove filter servlet application resources
+48678 Bug JVE Palette persist open closed	buffer data channel handshake message close test count file open
+37929 Bug Plan Item Improve scalability	item size set file content stream parse headers header lock
+49196 Bug Update correlation	set update xml test dir war row member add local
+43053 Bug require reference cleanup expressions	resource test set find expression object internal type mapper method
+45101 Bug plan item Integrate RCP stream HEAD	test file size item request response stream body content boundary
+55343 Bug Unsupported protocol SSH OpenSSH	set server local count test async ssl realm security socket
+48176 Fields	header read type method enum fields annotations application input methods
+45618 Bug Ant outline editor unable load DTD	set property method test servlet start string fail spec type
+50228 Bug XOR mode doesn work	set test context ssl digest mode realm key security file
+42039 Bug JDT explorer doesn trigger decoration java files	set file test context protection web xml app deploy dir
+36923 Bug Font Print Margin Calculated Correctly	servlet test start set fail access method request body info
+50747 Bug SSH CVS Plugin connect	test error tag plugin response context connection request servlet body
+49217 Bug tools jar Ant Entries	set test path log file stream prop add method jar
+49730 Bug source lookup Call stack editor annotation ambiguous	set entity param test context property pool add servlet params
+58946 Bug Standalone compiler text incorrect Unix	test text jsp action servlet tag start string body directive
+48196 arrays	test member principal set view buffer election msg message interceptor
+46666 Bug file entry popup window project	set message string table server window str servlet type count
+33356 Bug Read files dialogs override methods code manipulation	set file web jar resource references find add loader xml
+49234 JMX Descriptor Modifications	set jmx attribute notification context add deploy app dir hash
+50771 Bug Provide RDB EMF model	set servlet add notification security jsp count key attribute bean
+49749 Bug eclipse won start Solaris eclipse	test set path source encoding event root attribute session servlet
+57943 Bug Search wrong match info	set file context servlet string dir user test path role
+42072 Bug Exporting deployable plugin hounour compilation directive compiler preferences	parse jsp tag file attrs attribute directive body dir check
+48217 Loggers	set log add user base webapp find logger xml file
+49757 correcting generics warnings	set test type scope find context buffer async request parse
+34399 Bug Wrong build file generated variables	test servlet context jsp set quoted file tag unload token
+37984 Bug Hotkey popup click menu	test set context servlet print word start list invalid channel
+54370 NPE mapping method	socket set waiting function acc linked open method endpoint map
+41059 Bug working filter Breakpoints view	test servlet action string directive set jsp start path fail
+48230 Unused imports	set tag jsp attribute prefix body action add scripting info
+43622 Bug Multiple aspects difficult manage	request test annotations servlet multiple string str xml login response
+60008 Bug Remove Hyades documentation doc plugins	test context deploy app plugin set tag servlet start add
+51306 Bug Port log interaction viewer UML	test set path start request servlet fail digest security method
+54382 Nullpointer Exception activating SSI loading html file specific comment	ssi config servlet param file webapp encoding set time size
+47216 Bug Unexpected warning launching Eclipse Eclipse	set test file context create jsp user info add init
+56953 Bug project shared	set redirect error output selector property server stream shared log
+57977 Bug Update breakpoint location verifier manage AST elements	set context user create servlet action string role jsp tag
+56446 Bug opens project wizard	set redirect thread error output stream property string log server
+47744 Bug launch runtime workbench	socket test context servlet close count tag async waiting privileged
+41089 Bug Background color problem	set color table info message action text face snake tag
+56449 Bug reference match Javadoc Code	find resource key object type internal add reference remove context
+37509 Bug Open Declaration opens declaration local variables	set parse tag jsp attribute body action scripting attributes variable
+47237 Bug Mispelt error message	test set message error realm request internal security jsp context
+43142 Bug Feature update Unable access http	set property entity create param data body error factory add
+42119 Bug Preferences Workbench Fonts alignment	set test server socket string servlet key buf context performance
+59015 Bug Editor General browse button	generate tag jsp method string scripting action preamble property handler
+48266 Patch generics catalina	set message lock status path test resource resolver ajp buffer
+48267 Patch generics javax packages	test event expression string apr set mode resolver mapper ssl
+37515 Bug Navigator Overview keyboard accessibility	test set context jsp str servlet tag word invalid failed
+60043 Bug Incoherent sequence method Entry Exit events reported JVMPI	request table rpc context jar url servlet renderer event doc
+50316 Bug Workbench Empty window overlaying Editor	set property annotations servlet string message coerce context window method
+58508 Bug Source Selected Element showing source selected element	set entity param test error body channel add create server
+43150 Bug Duplicate Entry CVS Compare	context test set map cache add count entry wrapper remove
+57490 Bug Perspectives Saving size perspectives	test servlet param count privileged directory async channel call group
+39572 Bug Add option generate lazy method	set test channel add servlet web start jsp fail file
+56982 Bug Typing trigger CVS edit commit	node output request test servlet connection method privileged string async
+42648 Bug Managed platform Cygwin Executable	set server servlet bean string file create managed context user
+55960 Bug Pressing Preferences starts external browser	set create scan loader resource dir tld path change info
+56472 Bug Font Colour Active foreground white povokes nasty close widgets	set selector color timeout info pro face nio linked queue
+38553 Bug open illegal operation occurs	set user message context role buffer handshake max ssl connection
+46243 Bug Extra click required compare	set compare test tag digest realm string info security icon
+21157 Bug undo redo update filechanged astrix Editor bar	test servlet request multiple response filter add type attr custom
+57509 Bug Ant auto indent enhancement	add set tag generate map jsp context servlet scripting attribute
+48296 Generics fixes	set test context buffer async type expression event parameter request
+39592 Bug Misleading syntax error diagnosis	jsp set tag xml attrs prefix directive attribute file add
+39088 Bug Create contribution error parser	set test create context param entity servlet expression parser params
+58545 Bug character launch configuration clipped console	set socket protection test enabled token quoted servlet waiting linked
+58547 Bug CTOR order prioritized correctly	request jsp test pos set absolute message simple servlet element
+52405 Update Servlet Rev	update row session jsp set check context xslt path servlet
+43191 Bug osgi bundles bundles installed	set resource jar references loader endpoint find server thread lifecycle
+47799 Bug Code Formatter EMPTY STATEMENT	cache enabled test statement formatter local writer pool close info
+46264 Bug Function bounds wrong clicking function binary	test set function tag create parser mapper map jsp expression
+43706 Bug Palette desc items editor doesnt wrap linux	test set property response method type remote spec body expected
+49340 Webapp unavailable deploy start	set add find remove test file context deploy servlet dir
+55996 Bug Sharing Wizard Resize sync	set thread queue pool max size count internal work code
+41666 Bug eclipse hangs startup refresh workspace	set test start servlet fail method info filter opp node
+48837 Bug workspace Fails building plugin JARs multiple source folders	request servlet plugin tag string test jsp bug xml builder
+48843 Bug Configure Branches dialog multi select	rule test set servlet count method start channel request server
+54475 Bug Log Navigator won auto reload resources closed reopened	set bean context deploy max time app servlet connection resources
+41166 Bug Runtime Arguments improperly passed	context servlet set string parameter target method path http names
+53454 Bug Plat terminate process attached monitoring started	set add start servlet thread find test remove security init
+43216 Bug Errors plugin xml compilation errors	set jsp error attribute tag xml attrs web file source
+47827 Tomcat API methods declare Exception	servlet dispatcher variable resource filter session set listener names exception
+49876 correcting generics compile warning org apache tomcat util bcel classfile files	constant file context jsp generated dispatcher java servlet compilation exception
+47320 Bug Ant view icons target confused Java decorator	set jsp web xml action cache tag statement view directive
+45785 Bug Problem saving Java editor project directory place	set redirect property error string method coerce output servlet spec
+48345 Bug Add plugin reference javadoc	tag plugin object key context generate reference attribute function mapper
+56025 Bug Log config area blown PDE	set servlet string context test request path file start base
+56027 Bug Trim status space allocation	set socket ssl poller jsp count cache include sendfile simple
+47836 Bug Change method signature improve editable table refactoring	set tag attribute info table header notification prepared col remove
+45279 Bug Tasks Stale marker problems view	set action buffer directive jsp handshake data test servlet count
+49376 Minor corrections info properties	set add find remove servlet filter timeout version resource container
+38113 Bug Remove Inexact Matches enabled inexact matches	set parse file header tag server filter match digest template
+54497 Bug generation problems JVM Terminating Hyades	set session bytes test ssl cluster jvm servlet append cert
+49890 Bug Create Patch wizard remember path file system	test path annotations servlet session request root apr xml log
+46819 Bug enable disable builder bug cancel	test key context servlet count set request string channel rand
+47331 Bug Wrong text error dialog	test request client response message quoted connection body servlet cookies
+48870 avoid parallel arrays base types	set jjt parallel method compression servlet property string deploy response
+48358 Bug plugins don display provider	test session context plugin tag set servlet socket server generate
+58603 Bug test release file opened runtime workbench	test context servlet close tag file latch pojo drops buffer
+29936 Bug Sync feature site editors Update spec	set scan resource digest tld realm security path credentials change
+50929 patch Ensure rethrown exceptions retain original	write buffer read content listener apr set ssl mode unloading
+49905 Bug DCR Quick assist unneeded bracing	test lifecycle servlet context buffer set write word output heses
+59123 Bug button enable disable referenced libraries	set test table context key servlet buf performance renderer event
+49909 jstl support	time display session set locale output url plugin acters servlet
+52474 load listeners declared blank spaces tld file	set parse servlet add filter context find remove jsp application
+47866 Bug Internal error synchronize perspective	set nested tag context variable servlet cookie url buffer jsp
+42747 Bug refactoring aspect crashed compiler deleted body	test tag body response jsp request servlet text directive action
+56573 Bug existing message side entering message	test servlet context message cookie data count file error stream
+48895 Bug java editing performance killed unnecessary Java AST creation threads	set thread test time annotations servlet pool connection max cleanup
+58119 Bug DBCS DBCS pre edit text DBCS	node test set start write smap servlet body fail action
+52488 Bug Checkout project exists	set web error jsp xml output message file stream string
+46866 Bug books missing	bean test count jvm security set data missing message error
+52500 Improve client certificate authentication	set session message header client user key ssl time upgrade
+43285 Bug Variable view empty	test action message tag member msg view jsp directive election
+39704 Bug declspec supported GCC	test servlet set response annotations message path request connection count
+45851 Bug Compare editors updated file	set test compare member digest invocation realm prepare query connection
+54045 Bug Compare window EAST WEST cursor sash	message file source skip hash stream context snake servlet str
+10526 Bug Decorators Decorator mechanism optimizations	set statement upgrade cache file buffer response count context close
+56606 Bug Workbench Resource toggle button bar follow rule square tab style	test request redirect web table rule multiple post cookies body
+58660 Bug Wording Limits tab Launch Config incorrect	test socket request context add servlet webapp start set fail
+48421 Bug open plugin converter	test context tag plugin message servlet set stream writer converter
+39724 Bug Status bar space read german	socket ssl poller set request sendfile simple test count quoted
+59189 Bug cleanup sites	set resource message find text add internal remove directive local
+53565 Bug Improve manual builds	test action context tag jsp attributes directive set servlet lookup
+43840 Bug read connection extssh	test connection response request context message servlet chunked webapp client
+50496 Bug Main TOC frame work Mozilla Firebird	servlet close read upgrade jsp tag table input data unload
+58178 Bug Content Assist completion	test response request send write set servlet buffer chunked endpoint
+48454 Bug bookmarks tasks lost Eclipse crashes	set thread buffer servlet handshake add base user buf pool
+49991 Tomcat JAAS problem CDI	set user upgrade names config token socket login jaas context
+54087 Bug Install Location wizard working	servlet path string test set context http socket request prop
+54599 Bug SSH Export SSH Key Dialog standard margins	test set servlet server annotations add request start fail count
+48973 Bug comment formatter prefs comment tab delayed	set cookie session init context string tracking tag plugin quotes
+58701 Bug Tag add support branch tags qualified	tag set info attribute type create coerce java servlet file
+49998 Bug Annotations sorted preference dialog	test set servlet annotations count cache body cookies log request
+53584 Bug JDI thread evaluations running endlessly extremely	set socket channel thread key data write jsp parachute waiting
+59217 Bug Combo editable text area accept Japanese text IME	set test tag jsp attribute response body request action invalid
+45906 Bug Tasks Ability global task filters	set thread redirect pool buffer handshake time error filter servlet
+27988 Bug checkbox tree behavior refactoring consistent	set session info request path create attribute response string async
+39769 Bug Working directory block radio buttons	set test web file servlet path scan context xml string
+47453 Bug Monitors Threads view greyed	test action servlet annotations directive xml jsp add tag data
+50018 Javadoc corrections	mapper object function session external expression impl code type literal
+46950 Bug Adding source folder project complex code manipulation general issue	set web string error xml jsp output array test file
+47462 Bug Remote Debugging working	test servlet response context string remote server path file http
+52586 requests forwarded request attribute javax servlet path info assigned incorrect	set request path session header string async attribute parse remote
+48498 Bug Add Paste refactoring	test request servlet annotations start add fail method multiple xml
+45427 Bug Strange behavior quickfix add field	set add jar resource references remove loader find header thread
+56179 Bug synchronize view helpful fast view	view action test message directive member msg jsp set tag
+47478 Bug Switching JRE Library container	set protection tag test context jsp count info server classes
+50550 Bug Preferences Pref Workbench Add button mnemonic	set server string table sessions session key servlet test socket
+46967 Bug Debugger leaves green background	set process add thread internal background start table container member
+58232 Bug DBCS Context search System failed Search	set dir user cache add context search role path environment
+50556 Bug Mmnemonics Team pref	set test bean context servlet property word invalid failed heses
+46462 Bug RCP Preferences Workbench switches click startup	set test start servlet fail server string method socket buf
+49536 webapps deployed accessing URL returns content	set deploy context app dir test servlet session add sessions
+48004 Bug Ant classpath problems	set jsp web servlet file xml test uri output path
+47499 Bug Quick Diff hovers don text editor font	property test coerce method type string servlet spec info relative
+47502 Bug Running Ant separate console output	set servlet jmx property attribute server bean cookies test result
+56724 Bug Copy method body clipboard selection editor	generate tag jsp method set scripting preamble key channel body
+56217 Tomcat Manager Application Status	set add servlet find remove context filter application resources resource
+45977 Bug Contribute variables plugin contributed	tag plugin context generate attribute jsp generated dispatcher file java
+52121 Bug generate delegate methods option copy javadoc code manipulation	set web add jar references resource loader string file xml
+47515 Bug view offer properties JRE classpath container build path	test set loader container message client endpoint dir server context
+47518 Bug tools Tools broken runtime	set redirect error tag output path stream info add test
+55198 Bug Sync View Regression click synchronize	jsp action tag nested test variable message msg member attribute
+56736 Bug Debug debugging code Debug perspective menu items Java operations	set attribute notification enabled bean key data managed digest source
+13731 Bug ability refresh hierarchy view type hierarchy	set action directive member jsp view event format scan msg
+52135 Global error handled	set max request xslt check count server context string global
+50600 Bug Add description code formatter preferences	set enabled time cache display server socket string writer servlet
+51119 Bug Overview agree sequence diagram view	view action test message directive msg member jsp body election
+57265 Bug Update site builder create output folders demand	test set xml dir path war worker servlet string context
+48050 Bug Quick diff preference Ant Editor	property test set coerce method type string servlet spec diff
+51124 Bug Searching sequence diagram scroll correct area	set bytes table size boundary string body data read stream
+59317 Bug Build Build Working Menu displayed working	test servlet path string http context socket cgi file set
+44986 Bug Support Breakpoint groups	test group user role context set parser remove trust custom
+39875 Bug launching Managing invalid launch configs	test request socket origin invalid type simple filter check endpoint
+55749 Bug Improve performance time based correlator	set performance test pool send time prepare async type buf
+49095 Bug Compare large sections file	set test create parser servlet buffer info writer add qname
+56777 configuration resources loaded places straight filesystem	set protection resource file loader thread jar references find lifecycle
+59849 Bug remove references deprecated AST LEVEL	set add find resource servlet remove context filter lock listener
+59850 Bug PRES Implement style presentation	set connection digest idle test format security data username realm
+49099 Bug Reduced Search menu search	set dir user add context search cache bytes role environment
+42444 Bug Error building feature find plug versions	set context add find remove map start property bean container
+49613 Bug JUnit JUnit Test	test expression invoke trust parser big custom bug literal attribute
+43470 Bug Multiple breakpoints location attempt add breakpoints running jobs	set test servlet action string directive request add start jsp
+44494 Bug Remove direct dependancies Xerces plugin	context test log attribute jsp file tag dispatcher xerces version
+49103 Missing annotations	annotations web servlet test read add set xml annotation config
+49104 raw types	type method set file param decoder message token match notification
+49105 Javadoc corrections	mapper object function session external expression impl code type literal
+49106 Unused imports	set tag jsp attribute prefix body action add scripting info
+50642 Bug Wrong completion kind declaring argument type	send notification set test attribute quoted param method wrapper type
+51155 Missing deprecated comments	set servlet port member mcast listener async type stream message
+58836 Bug Markers Problem view update problems background builds	xml action dir war set member event directive jsp test
+49625 Bug Breakpoint hit reported remote debug session	set session path string servlet context request attribute user parse
+49116 Bug Workbench debug views	set key action context channel data jsp user write digest
+40929 Bug Version diff check cancel opening compare editor	pool status lock property test string member type connection key
+46051 Bug search Search details matched	set user file dir context bytes cache role search add
+46564 Bug dirty file Save Resources dialog exit	set test session digest login context object access servlet diff
+48613 Bug stack frames updated symbols shared libraries loaded	servlet max jsp tag test set file selector source string
+51688 Bug Search Tree shouldn context menu	set context user create cache dir role path scan add
+53737 Bug scalability memory search	set context test user protection role add login dir environment
+52719 Bug Team loss functions compared	test tag action expression info string jsp map function resolver
+48627 Bug Debug Perspective Shortcuts Menu actions don work	set attribute session servlet digest jsp internal realm file source
+48629 Bug plug descriptors missing provider	test managed context error type bean count close body hash
+55798 Enabling Manager App process description inadequate	set deploy file context test dir servlet add app path
+55799 Bug Intro don	set test path servlet start fail init root method session
+48143 Javadoc fixes	mapper function input expression external reader thread test object file
+50192 performance issue revision	set test performance servlet buf filter build timeout cache buffer
+46096 Bug JVM Hyades java processes	session jvm set test error ssl cluster count background servlet
+51220 Bug formatter api ContentFormatter pass indents based partition	enabled log local writer format formatter cache time info attribute
+56365 Simplify Mapper StandardJarScanner	context mapper set test param function component method expression create
+51249 Bug Performance problems PackageFragment getPath	set test session performance buf random cache secure jar input
+51251 Patch add version parameter ant task	set redirect error output jmx server add create stream fail
+50230 Recursive dependency tomcat catalina tomcat catalina	bean create resource manifest context hex file stream extensions list
+31804 Bug Subclasses TextEditor longer create custom SourceViewers	servlet custom body test error privileged component writer trust async
+51264 Context Manager Store configuration proposal	set session server store process socket key client context token
+48197 XByteBuffer privatize fields Javadoc	set size frag message buffer object data mapper ack function
+52293 Bug Cryptic Error Message Platform Loader	set protection context web xml error jsp user security token
+49227 toLowerCase toUpperCase work Locales	set session path request attribute server async parse context add
+42071 Bug DCR Support Java source mapping	test servlet message web set request stream failed invalid string
+50273 Bug XML string values escaped	time display parse set error attribute test servlet output ssi
+52326 log level failed loading	set log enabled add webapp user data recovery thread time
+52328 Massive garbage production observed response writer	set response test servlet uri message compression buffer request body
+48233 Loggers	set log add user base webapp find logger xml file
+53353 Malformed contentType attribute charset values	set jsp action encoding tag directive session content dir test
+43117 Bug Code Assist Support doxygen context	set string servlet lifecycle test digest path http ssl realm
+51310 Connector destroyInternal Execution	set thread socket lifecycle max queue pool count create internal
+41074 Bug RFP Transactions spanning multiple life cycle operations	set test servlet connection max validation remove request idle listener
+54387 servlets url warning	set servlet add find context filter remove path session application
+53366 Running SecurityManager jsp returns blank accessed	set servlet jsp jar path loader references resource add http
+56438 Bug Save Restore Configuration warn recover	set thread time protection context request max pool login idle
+58489 Bug Workbench create contribute drop menu actions action bar	test set request session multiple action create response object external
+58497 Unable custom implementation AbstractHttp Processor methods	set ssl file size nio socket max internal thread trust
+50310 Manager detailed status display servlets	set add servlet find context remove write filter application resource
+49290 JarScanner scanAllDirectories Tomcat start	set add find remove tld scan resource servlet path container
+12428 request getUserPrincipal Misinterpretation specification	servlet set path string session http principal filter request type
+51348 Bug JavaStratumLineBreakpoint conditions don apply	set servlet dispatcher digest test target realm token internal user
+50325 Bug PDE classpath container working importing binary projects SWT fragments	set test web servlet xml pos string dir add context
+53398 Incorrect tag XML response calling manager status XML	set find context add resource path servlet remove web file
+45212 Bug WorkingSets Link working sets Projects Packages Types views	set string servlet test buffer socket simple http path loader
+52384 Bug OutOfMemoryError opening hierarchy Object	test status lock bean context write path resource set servlet
+58535 Bug batch asyncs progress forwarding	boundary stream data test servlet statement send close set endpoint
+46252 Bug disabled exception breakpoint	set test context worker member mcast message add realm digest
+28852 Bug Verification error tracing constructor takes arguments	set enabled expression info create parser query shutdown init exp
+56501 problems urlencoding webapp	virtual servlet webapp input item file expected parameter filter test
+46261 Bug Inefficient setClasspathContainer	set test context realm servlet security digest key property change
+53430 JVM crash startup version	set session test request servlet jvm change cluster add port
+51386 HandlingType correctly handled server startup leads incorrect classes passed initializers	set add servlet find filter context remove resource resources application
+44223 Bug Group widget doesn pass focus pressing mnemonic	test file thread servlet channel error context ship failure common
+49345 work correctly JSF composite components	set context jmx notification pool composite prepare lifecycle property hash
+51395 application loads SAXParserFactory loader memory leak	set load protection thread servlet test find log start context
+58568 WebappClassLoaderBase exposes system instance member	test member servlet channel loader log array failure tcp thread
+57544 Bug OpenSnippetWizardAction	test request context multiple servlet response word invalid failed heses
+58582 Bug ICompilationUnit reconcile client AST API level	set test enabled path redirect digest mapper security realm internal
+45272 Bug EditorMgmt save icon toolbar	set tag info add test create map filter qname jsp
+50394 Bug models common facades behavioral support save method ITestSuite	set session test max internal basic object string login body
+43236 Bug NPE DeltaProcessor	socket context channel data waiting linked key set acc list
+45285 Bug Multi select AntView	set channel nio data selector max event send sender time
+53481 Bug refactoring move Preview moving change	set test client redirect digest security realm request cookies key
+51436 ServletRequestListener fails access request parameters Expect Header	test request session size response path invalid header servlet body
+51447 Session type Backup Primary	session set sessions send message cluster object replication time delta
+53498 Atomicity violation bugs misusing concurrent collections	set servlet session max size add config path selector authenticated
+51453 Requests open URL include Authorization header reach servlet	set session response message user servlet header request path url
+47364 Bug iterator clone provide copy arrayList order	member pos absolute async lock servlet rules count stock manifest
+51467 usage method start start thread	write set start add channel thread internal print container table
+48399 Lock fields	set lock status max member path connection add info write
+46357 Bug Method view miscounting calls compressed data option	write rec send action tag message set directive buffer jsp
+55576 Order ServletRequest parameters preserved	set servlet request instance notification security path async privileged server
+50459 Bug DCR Compiler warning opportunity System println	set servlet test jsp web file context init xml stream
+55582 Concurrent issue TagFileProcessor	servlet context tag result file library server endpoint handler send
+49442 StringManager fields	resource type find read header internal remove context enum add
+48424 logic creating objectnames connector mbeans	set bean context create remove add base managed naming string
+53545 jsp action resources IllegalStateException classic custom tag	tag parse set jsp body generate attribute scripting info action
+46381 Bug proper shutdown hook cleaning platform termination	set log server init channel naming string key internal add
+52547 incorrect byeswritten log completed async request http	set filter request socket path input async servlet session alive
+46403 Bug Historic isDeleted method lingering content providers	test servlet request response annotations start add fail chunked method
+50503 Engine level Clustering work correctly web application version	set add servlet context find remove filter xml application jsp
+54602 CConverter character decode underflow leaves bytes buffer	decode encode work size array charset pos integer servlet replace
+51532 Performance Issue retriving JAR files TLD file parsing	set find add servlet jsp protection tld remove create path
+56653 Bug Refactoring Difficult rename methods files included	file context servlet set info jsp content tag prefix dispatcher
+56657 Parallel deployment sessionid belongs latest version webapp latest version	test session set add servlet context sessions basic find webapp
+43356 Bug setting keyword substitution mode doesn work CVS modul checked folder project	set jsp output property string redirect path error redirector array
+49503 Connectors bind ports Catalina load start	set server thread bind message add remove socket port base
+57700 Exception LifecycleListener Context webapp unreachable spite subsequent successful startups	test set session cookies login servlet add context method init
+51557 Newline http header field obscures	set header field size item stream headers content error servlet
+43366 Bug Hierarchy view names types	set test action directive jsp tag param text method impl
+45419 Bug browser add api read html memory Photon Browser	set file headers digest login stream cookies size server snake
+41327 Bug fragments bundle implemented	test servlet pos absolute web header set fragments body override
+50547 Bug MessageBox locks application	set lock status request test response resource path servlet connection
+49525 Unabled store data HttpSession root context	session set comet context connection servlet nested prepared col path
+53624 sendRedirect doesn work dispatch AsyncContext	context dispatcher servlet request path listener set dispatch async filter
+42361 Bug problem dialog boxes data fails errors reported	set test connection request start servlet post max fail error
+49530 Context correctly stopped shutdown	set thread server pool context rpc sessions internal queue service
+50554 Bad getClass lead concurrency bugs	set create param servlet save auto header filter ambiguous problem
+55681 JSR message handling pointer thrown DecodeException caught PojoMessageHandlerWholeBase onMessage	message handler test string event context life decode reason data
+45441 Bug IncompatibleClassChangeError runtime compiling option	set jsp servlet web tag file xml context queue thread
+48517 SuppressWarnings unchecked document reduce scope	context node servlet set scope nested path cache lock status
+46471 Bug add swap reflect	test store idle session process set multiple servlet swap max
+49543 Bug Ole Invoke fill parameters	notification attribute set bean type invoke string hash method request
+56712 errors time calculations PersistenceManager	set tag connection session servlet validation test generate max idle
+48523 Duplicate property files	add set context map message scan error servlet resource file
+45453 Bug pocketpc Pop menus work Tables	generate tag node jsp push scripting create preamble method handler
+49550 PATCH Response isSpace deprecated isWhiteSpace	set message lock status path parse ajp add resource cookie
+58768 Bug readme Variables View values references consistent	resource find set add action internal jar check loader write
+50582 Small JSPs Content Length chunked encoding AccessLogValve configured	test response set request size comet string read jsp header
+53654 JSP file recompiled file based TLD URL	set jsp web servlet xml create tld uri tag file
+51615 Bug misc Annotation roll action Mark Occurrences removes sticky occurrences	set parse tag jsp attribute body worker scripting attributes text
+49570 CompressionFilter support HTTP proxies cache gzipped content sending Vary Accept Encoding header	set response request size xslt connection header test check socket
+50601 Redundant checks equals	file read set session source servlet skip activity check compilation
+56746 Webssocket secure client thread access webapp resources	set add find context servlet resource remove filter path session
+43435 Bug CLASSPATH Project wrong NoSuchAlgorithmException	set web error jsp xml output test property string redirector
+50606 Bug workspace location fully qualified	set find add servlet remove error security application filter wrapper
+40380 Bug AspectJ honour libraries defined Project Properties	set redirect error string test info tag output property source
+49598 Bug place arbitrary controls table wrong tab order	set test stream field pos add absolute boundary error dir
+50631 Bug Hook resource scheduling rule factory	set rule param entity test create servlet params xml start
+37326 Bug breakpoints breakpoint actions context menu stack	set test session servlet jsp attribute tag context channel exception
+38352 Bug OLE OleAutomation embedded objects	set add context async create lock remote content fair type
+47569 Test cases clear	test transformer loader member failure jvm tcp parser directory add
+50646 Bug CTabFolder tooltips read	test response request error message selector jsp chunked string connection
+53725 GZipped responses result java IOException Corrupt GZIP trailer gunzip	set size buffer read compression output response header test socket
+56797 API find overriden method	set servlet bean add info type property create session names
+53735 Bug KeyBindings override editing java context general context	test servlet notification set start bean method attribute add filter
+48616 Bug formatting Format messes link space	set format request str multiple response string rand cert org
+52724 incomplete resource leak bugs Catalina java	set protection thread resource jar references loader test add find
+50683 Servlet annotations scanned unpackWars	set annotations web servlet add security config xml init context
+55804 SPNEGOAUTHENTICATOR GSSCredential renewed RemainingLifeTime	set user context thread path attribute session role parse add
+56848 Tomcat accept language parsing doesn properly handle IETF BCP language tags	set socket protection file item size content token stream header
+54802 Bug Delete IStatusLineWithProgressManager	test dir xml war path file app directory delete servlet
+59923 Bug Dialogs TitleAreaDialog setTitleImage NPE invoked early	set socket protection context waiting acc linked servlet manager factory
+48660 Bug DeferredTreeContentManager hard reuse	set test thread action data response channel body time directive
+50709 org apache catalina core ApplicationContextFacade	set load thread context pool init create base session queue
+51736 Bug JUnit TreeItem test cases failing	test start log servlet request message fail send multiple filter
+23066 Bug TextEditor performSaveAs doesn path file	test start servlet request set fail multiple filter path method
+51741 Eclipse WTP Serve modules publishing broken patch tomcat	xslt check file info servlet path apr context entry builder
+55842 response setBufferSize work properly	set response buffer compression servlet send header string output content
+42530 Bug ServiceTracker open generates IllegalArgumentException	test servlet start message set method request fail filter upload
+53800 Infinte loop FileDirContext CDI Weld project Eclipse Server modules publishing	set redirect error test string output array property source stream
+50737 Bug Overlap projects message won project root directory	set path servlet test web file error string root scan
+45628 Bug traverse ToolBar items	notification item set size content file find stream headers parse
+56900 Bug Modal Window cascade	set context message info table window string servlet start test
+56902 Bug FastView views track fast view orientation	action add set remove directive message jsp text test queue
+57931 NIO connector incorrectly closes connection client certificate verification fails	set ssl socket poller apr max key header request size
+56907 Bug Font Colour WorkbenchPreview colors fonts presentation API	set test color context webapp servlet add user base xml
+35410 Bug VariableView fExpandedVariables cleaned	test log cleanup servlet context info set word ssl invalid
+42579 Bug Eclipse setting source folder parent output folder wipes source code	set xml dir resource war test check add file references
+56917 Bug Listen MouseDoubleClick event TrayItem	set thread channel data servlet receiver listen time tcp request
+49750 WebappClassLoader validate validate javax servlet	test set resource response jar references validate loader find add
+44633 Bug Outline View CModelBuilder quits templated friends	view action test directive message member jsp msg election selector
+48729 Bug Support implicit properties	set tag test digest jsp realm parser resolve security string
+43617 Bug Entire eclipse locked	set lock remove status add path time resource servlet format
+53863 Unable override servlet Tomcat embedded mode	set servlet jsp request add resource attribute path test file
+57969 PathParam annotation captures incorrect high load	set servlet scan string load notification add security error instance
+52858 High CPU load NIO connector client breaks connection unexpectedly	set connection test response comet close request socket stream event
+59014 Bug EditorMgmt gradient tabs slow Linux	notification pool jmx set invocation hash slow test stats count
+55943 Provide prevent System classloader webapp classloaders	set load loader add jar resource find dir references internal
+41608 Bug failed move IFile left bogus	test set message string request body literal ajp stream create
+60041 Bug Feature Editor Install Handler URL MalformedUrlException	generate tag method jsp property set scripting custom preamble handler
+51860 HTTP SSL NIO won work	socket set nio key write ssl buffer read output handshake
+55956 Tomcat Manager Application Status	set add servlet find remove context filter application resources resource
+48790 Bug Provide LogFactory logging proporties file Apache Commons	set protection enabled selector pool shared linked register timeout log
+54939 logging maxHeaderCount hit	set max count cache enabled body internal log socket upgrade
+48795 Bug INavigable API	test context string servlet session set basic login file http
+51872 request getRemoteAddr returning address previous request	set request header filter http remote nio internal test async
+59043 Bug content type AIOOBE ContentTypemanager findContentTypeFor	test request response servlet start write fail filter chunked method
+38570 Bug Source generation wizards Add button open preference	set jsp web test servlet xml file session table invalid
+54955 Mapping application context root returns reload	set add servlet find context remove filter jsp file xml
+59054 Bug Missing white space Search popup menu item	set bytes string cache cookie context login session test empty
+51887 Speedup sessionid generation running testsuite	session set attribute time sessions filter max manager internal change
+53952 Bug type local variables displayed	set request test response tag servlet path info chunked body
+51905 Bug LogViewer omits entries depth	set remove context path lock add jsp status servlet resource
+49860 Bug Add EclipseErrorDialogOutputter GLA outputter xsd	schema test web context system xml servlet resource entity failed
+42693 Bug overspecified directory path eclipse exporting feature	test path servlet root string file context http set resource
+53960 Extensions HttpClient test helper	test message extensions socket manifest container endpoint upgrade header origin
+47826 Bug Wizards WizardNewFileCreationPage support file extension	set test size max server socket upgrade header trailer string
+42707 Bug DCR Create field comment	set header cookie enum session create item string file type
+48861 Bug Problem whits object variables JavaBeans designer time	servlet context jsp tag file test set internal unload change
+41722 Bug refactoring Move Member type File breaks reference	set connection test object trans reference message ping type size
+54012 pageContext tag files generated java code code generation JSTL tagplugin	source attribute jsp plugin loaded smap string locations test interval
+59138 Bug Profile config button config java attach	test add servlet set annotations session create sessions start method
+54022 CometEvent event suspended socket disconnect running Tomcat tcnative dll Windows Vista Windows Server newer	set socket ssl poller comet key event count thread sendfile
+47881 Bug Compiler evaluates	context test jsp resolver variable tag attribute data type space
+59145 Bug DND DND order GTK	request set order pos test absolute message channel lock server
+59151 Bug Intro NPE Introduction	socket waiting acc linked test set internal defer ssl local
+49937 Problems AsyncListener resource injection	set add context find resource servlet remove filter rule resources
+56082 Bug junit test LaunchConfigurationDelegate preLaunchCheck	test attribute expression servlet invoke parser big invalid lines tag
+58166 Bug ViewMgmt Console title foo improperly truncated	test path enabled servlet start filter request fail multiple root
+47930 Bug RCP Move icons IDE workbench	set server message servlet ajp stream literal token resource size
+49985 Bug Eclipse crash leads unreadable workspace	set test invalid context servlet string source attribute lines smap
+58179 Atomicity violation	jar loader resource references request set find thread privileged lifecycle
+40771 Bug ajde apis unnecessariy coupled swing	set enabled table context renderer debug data log attribute shutdown
+46915 Bug Javadoc IPerspectiveListener	mapper object function session external expression impl code type literal
+49987 Bug EditorMgmt Typo IPageLayout EDITOR AREA org eclipse editorss	property string integer coerce encode method size base work spec
+59206 Bug Perf JavaCommandStackPropertySheetEntry	test request context format str multiple servlet response word invalid
+53067 WebSocket implementation issue wrapped requests	set servlet handler message result server buffer send endpoint context
+54096 env entry rejects legal types	add set rule context resource type map find servlet env
+59219 Bug Image data	set test response add jjt servlet token request ast user
+55125 Tomcat shut LifecycleListener exception	listeners set listener lifecycle context container add remove init data
+43868 Bug Anonymous classes sort properly Hierarchy view type hierarchy render	set action request directive jsp attributes internal body scan string
+54115 Minor enhancements HttpClient test helper	test servlet message version filter set web deny info lifecycle
+56172 Bug EditorMgmt views editors close icon	set tag info add test create map filter qname jsp
+47987 Bug Watson Error Debugging	servlet tag set test jsp context file exception source string
+43893 Bug Scrolling copies wrong bits	set test message response quoted buffer compression token servlet max
+55160 NIO connectionUploadTimeout work	set nio socket max upgrade read size send connection alive
+47997 Bug empty opening brace formatter	lock enabled status write writer info path local formatter find
+56190 Bug CopyCommand objects reference	set protection context key reference object mapper parameter service thread
+59269 Bug ViewMgmt Search view flickers extremely updating	set user action write test role context directive attributes jsp
+50054 AJP connector minSpareThreads	set test create response body message max pool ajp internal
+49030 Bug wrong field hiding error reported	set jar test references resource loader find file item size
+55177 connectionTimeout high CPU	set selector context safe format timeout binary file encode pro
+46985 Bug ViewMgmt Javadoc Java docs IViewPart init confusing	set method context function mapper buf performance expression object met
+41869 Bug Unexpected copying variables	set names bytes smap write action copy pos custom close
+52113 Tomcat reports missing context xml wrong location JMX deployment	set add xml dir remove context servlet web filter find
+53138 download file size NIO connector tomcat version configuration download tomcat	set max session request bean test nio user header add
+49045 JMX Enhancement Provision MBeanFactory createStandardService	set jmx server internal bean notification pool attribute notify string
+46998 Bug Generalize Type Cancel work refactoring	key test selector trans set max response queue blocking lock
+50105 Bug code formatter enhanced handle XDoclet tags	enabled writer local formatter info color face current log time
+50107 StandardPipeline destroyed times	context session cleanup internal valve attribute set event container pipeline
+46011 Bug thisEnclosingJoinPointStaticPart resolved	context property mapper feature set resolve iterator resolver external string
+50108 Add missing setter getter AbstractXXXProtocol	set add names info bean method prop jvm parameter configuration
+52156 ServletContext getResource path doesn accept	set servlet jsp path dir context file resource loader type
+49086 Addition Javadoc Servlet annotations	xml annotations web test dir servlet war add set string
+44994 Bug provide automated management JavaDoc	object expression function mapper bean test pool external met register
+49092 util IntrospectionUtils PATH SEPARATOR	set jsp create path resource add type method servlet init
+40901 Bug ResizeTracker disabled cursor cursor intial	set test context worker file add digest realm security source
+47046 Bug KeyBindings CapsLock	test request context multiple servlet response word invalid failed heses
+50138 Bug editor context menu source surround	jsp generate tag set test method scripting string servlet property
+49118 Inefficient String concatenation loop	set enabled error text directive write recovery socket time mcast
+49132 JNDI working	test context servlet string user file socket http path stream
+48113 Bug Select element AntView single deletion	set servlet notification jsp nio security max instance add init
+55282 JSF PhaseListeners duplicated	set session send map content attribute table add http response
+49141 Impossible naming factory SendMailFactory getObjectInstance	global data source context instance ejb open object handler wrap
+58357 Bug GridBag grid lines solid red dashed	test jsp set message servlet tag smap body write action
+49142 Missing serialVersionUIDs	bean test count jvm security set data send message decoder
+49143 incorrect lazy initialisations	set member message map request sessions string table response stream
+49144 Incorrect lazy initialization update fields	set member map message sessions table object port session action
+49151 Bug java lang OutOfMemoryError running LoggingUtilSample	set socket test channel data key thread write parachute read

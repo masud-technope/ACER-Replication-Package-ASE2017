@@ -1,0 +1,76 @@
+1796 SLING versioning	sling post node artifact resource list file response project maven
+5126 Provide Sightly REPL Java tab enable source code generation	source error erved smap plugin locations invalid enate string bean
+2311 Sling Performance Testing tool	action toolbar node listener test contribution tooltip root resolver property
+4112 Sling Models Optimize performance read sling models annotations	resources war mup optional required
+2834 sling include support attributes	tag attribute jsp url file info dispatcher attributes event action
+3606 property type sling resourceType	resource type resolver model validation search paths retriever service factory
+1562 SLING Create sample user regirstration profile update	test note text admin path property resolver resource panel service
+1691 SLING Improve startup behaviour	startup service tracker filter bundles bean server ger debug change
+4895 SLING Service registry called block	registry service view context instance resolver mock base discovery repository
+2594 server side test script TEST PASSED string fail	test servlet client script resource content check node checker setup
+1703 SLING Mixin types modified nodes	node child content xml resource types declared property overwrite thread
+4651 Ensure pulled packages deleted reach coordinator queue	distribution queue request strategy listener transport allowed admin pull processing
+5170 SLING dependency handling code reusable	artifact path resource output manager maven list bundles directory resolver
+3891 Document Sling Content Distribution	document handler transformer paces component processing prefix uri dom result
+3382 introduce strategy topology connector frequency	connector interval timeout enabled repository service backoff view cluster event
+2871 Function Tag Names Consistent	attrs tag attribute jsp map string instances action directive sequence
+3000 Support propagation executing testName server	service consumer list script test console riptive matchers agation client
+1340 TRACE supported	content output trace pool source repository factory mode context bundle
+3651 Improve Conversion Bundle Content Projects	wizard bundle provider content project log web archetype control port
+1096 Sling servlets POST registered search path	servlet resolver post resource context paths script cache size servlets
+1611 SLING Add OSGi JMX support	service bean health check source type pool user registration server
+1619 SLING attempting automatically property shouldn failure	console factory resolver server configuration uirement update type nop timeout
+1495 Sling integration test cases dependency	test dependency http model context component client timeout adapter cyclic
+3673 Content sync bug children uploaded deleted	root project resources path data debug context content cut file
+1372 Prepare jrc bundle releases prior moving	servlet context invoke web loader manager factory maven bundles service
+479 Check scr tags Sling projects release	check service result resolver ttl registration pool request thread sling
+2914 add load test discovery impl	jobs path resolver topology alive load retry configuration version change
+2788 Optionally Sling Apache OAK	service oak admin pool node rate lease queue provider board
+2405 SLING Startup synchronization problems	startup service tracker filter bundles server bean start dir info
+1638 SLING Reload jsp classloader invalid	service bundle dispatcher script jsp include directive loader manager allowed
+1004 SLING folder Sling servlets store configuration configurable deployment	launchpad folder service thread sling message folders debug project node
+1519 SLING URL Mappings URL paths work	vanity map path list alias resource open max filter bloom
+2287 Redirect logging validating redirect link allowing redirect scope Sling	servlet url post json renderer resolver max resource imum ery
+1013 SLING Atom taglib feed entry IDs URL encoded	
+1781 bad String equality check jcr resource	key log resolver enabled bloom events counter filter ryption provider
+2168 system fragment uninstalled bootstrapping framework restarted	handler bundle registration task range version support symbolic context service
+1277 SLING dependency jcr api optional	model dependency servlet context resolver version component http adapter cyclic
+1662 SLING Add GString GSP Script engine	engine resource spi script manager factory resolve host object resolver
+1282 Adminisrative logins depend password code config	console sling http factory resolver server aut launchpad def log
+1284 SLING MemoryLeak ThreadLocal variable cleared	resource test context stack options request sling resolver factory manager
+1797 SLING versionable ancestor failure	content root node overwrite resource json format read created references
+1034 NullPointerException jcr resource listener	request loader queue service event jcr resource session repository hronous
+1304 SLING Remove currentNode binding scripting core reimplement jcr resource	servlet stream type property result variable server stack bean commands
+4638 isCurrent correctly	event instance events cluster factory resolver sync ass msg log
+2593 Improvement Sling performance tools	riptive performance test data method level war mup reference report
+4900 SLING Clarify javadoc ResourceResolver getParentResourceType String	resource resolver model path session models validation multi valid ators
+1333 SLING POST Servlet handle TypeHint Reference path	handler resource service admin cache holder post type suf console
+4155 DefaultInjectionStrategy considered injector specific annotations	injectable callback model constructor servlet http annotation parameters annotated element
+2366 JcrResourceListener log errors errors	descriptor repository xml method loader warnings message required framework compilation
+3391 VanityPathTest stuck	event resolver manager node vanity map url service delay cancel
+2898 Failed integration tests Resource Access Tags	test check servlet request context client content resolver failed node
+1367 SLING NPE thrown Repository acquisition	exception expected
+5219 SLING Mounting ResourceProvider impossible create child resources	resource root context resources provider sql data admin uages exclude
+3429 NullPointerException optional array list properties	resource service type nested context model pool jsp map resolver
+3958 Function Mismatch	attrs children jsp action directive property attribute string error type
+3455 Adaptation injected objects work classes	script factory loader provider host object resolver sling wrap exception
+1161 Easier initial content loading binary files	content sling events bundle reader debug bundles rule fail type
+1675 SLING BundleResourceProvider doesn provide resources asked list children mapped path	resource resolver path root session prefix provider overlay console registration
+4750 Resource Provider API	resource provider context parent uages root owns lang service registration
+1435 SLING NoClassDefError classes installed Java	bundles server sling info test content provider client console servers
+5025 SLING ResourceResolver methods ISE factory unregistered	context resource request factory resolver distribution res provider jobs registered
+2209 Replace JavaDoc SCR annotations Java SCR annotations	resource type service resolver cache dynamic manager loader principal iterator
+1446 Scripts resolved current workspace	manager script test factory plugin client side bindings project global
+1704 SLING Add support modifying jcr primaryType	property resource root listener engine resources properties test dir label
+1705 Proactively length jcr data property file node resources	content jcr node resource provider loader bundle names repository reference
+1981 Create sample demonstrates testing tools techniques	request server sling check node servlet container called test manager
+3517 SlingPostServlet catches throwables logs debug level	log event listener progress queue trace context bundle level service
+3781 unstable Eclipse based tests	location factory service test locator sling debug dir archetype wizard
+2251 RedirectServlet create relative Location headers	post http bundle renderer json mod max imum ules location
+3536 SLING Sling Models OOME DisposalCallbackRegistry	service callback request object attribute injector resolver resource script annotated
+4306 Disable trigger method unregister trigger	distribution event secret resolver request jcr prefix repository sling path
+4307 Avoid caching JCR property values	pattern resource list script read command file context fully info
+2274 DavEx servlet require authentication anonymous access prohibited	handler service cache holder authentication resolver suf sudo connect anon
+4324 Create individual factories distribution triggers	distribution event sling service settings secret authorization saved emp enabled
+2808 Scripts classes fragment bundles Felix framework issue	admin bundle classes result content provider startup registration handler range
+4350 minor typo log message	version servlet service locations tld sling main request provider dispatcher

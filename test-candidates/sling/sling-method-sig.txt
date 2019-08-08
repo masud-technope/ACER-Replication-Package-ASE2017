@@ -1,0 +1,76 @@
+1796 SLING versioning	 path node set post create content request operation servlet delete
+5126 Provide Sightly REPL Java tab enable source code generation	 servlet source error coercion tld set smap configuration stream plugin
+2311 Sling Performance Testing tool	 test action existing node jcr set shell local vanity performance
+4112 Sling Models Optimize performance read sling models annotations	 pojo java resources status sling string content code expected optional
+2834 sling include support attributes	 parse set tag attribute jsp attributes body event request include
+3606 property type sling resourceType	 resource type validate validation property child handle servlet http path
+1562 SLING Create sample user regirstration profile update	 create group user check test form resource response content setup
+1691 SLING Improve startup behaviour	 startup bundle module file launch mode event parent servlet delta
+4895 SLING Service registry called block	 announcement announcements view topology service instance local discovery bind check
+2594 server side test script TEST PASSED string fail	 test tests content setup servlet resources scripts number side instance
+1703 SLING Mixin types modified nodes	 node set property child type path version create content primary
+4651 Ensure pulled packages deleted reach coordinator queue	 queue distribution resource request event task strategy packages config listener
+5170 SLING dependency handling code reusable	 additional dependency bundles base sling dep artifact bundle dispatcher maven
+3891 Document Sling Content Distribution	 content document output start doc select root elt serializer map
+3382 introduce strategy topology connector frequency	 set connector timeout view topology interval path cluster outgoing servlet
+2871 Function Tag Names Consistent	 tag attribute jsp info xml action create check directive string
+3000 Support propagation executing testName server	 test execution job service scripts listener consumer context iteration ate
+1340 TRACE supported	 print enabled driver trace request job pool servlet response thread
+3651 Improve Conversion Bundle Content Projects	 content bundle projects project create archetype wizard sling finish selection
+1096 Sling servlets POST registered search path	 servlet service set path cache resource create error servlets resolver
+1611 SLING Add OSGi JMX support	 bean check queue jmx health driver set servlet context register
+1619 SLING attempting automatically property shouldn failure	 property failure servlet result mappings check type context bundle events
+1495 Sling integration test cases dependency	 test dependency path content type set teleporter http add remove
+3673 Content sync bug children uploaded deleted	 resource content file root children resources node path chunk command
+1372 Prepare jrc bundle releases prior moving	 test service jsp add servlet find script bundles prepare context
+479 Check scr tags Sling projects release	 check result set create futures timeout reference tags service send
+2914 add load test discovery impl	 test path job jobs topology configuration http view alive resource
+2788 Optionally Sling Apache OAK	 service oak repository create node descriptor view namespace sling context
+2405 SLING Startup synchronization problems	 startup event bundle servlet topology storage start filter context listener
+1638 SLING Reload jsp classloader invalid	 set servlet bundle bean manager bundles web property jsp script
+1004 SLING folder Sling servlets store configuration configurable deployment	 watched launchpad file path node server context folder resource servlet
+1519 SLING URL Mappings URL paths work	 path vanity resource map url event entry bundle cache alias
+2287 Redirect logging validating redirect link allowing redirect scope Sling	 redirect test path request authentication servlet response resource reg check
+1013 SLING Atom taglib feed entry IDs URL encoded	 set entry request servlet start tag clear role scheme label
+1781 bad String equality check jcr resource	 test vanity path login request alias resource key map entry
+2168 system fragment uninstalled bootstrapping framework restarted	 bundle bundles task resource range file sling active ners ner
+1277 SLING dependency jcr api optional	 resource resolver test dependency remove artifact unary optional mandatory version
+1662 SLING Add GString GSP Script engine	 test script host resource factory template engine imported bundle gsp
+1282 Adminisrative logins depend password code config	 sling max user resolver login context set lang authentication resources
+1284 SLING MemoryLeak ThreadLocal variable cleared	 resource context test request number jobs thread time event variable
+1797 SLING versionable ancestor failure	 path node resource privilege ancestor content create servlet test overwrite
+1034 NullPointerException jcr resource listener	 event test service context resource request listener repository loader distribution
+1304 SLING Remove currentNode binding scripting core reimplement jcr resource	 set node start variable call result binding script constant objects
+4638 isCurrent correctly	 test topology event cluster expected view instance count failing local
+2593 Improvement Sling performance tools	 test performance method warm execution listener pojo java invoke status
+4900 SLING Clarify javadoc ResourceResolver getParentResourceType String	 resource model path names type abs resolver provider children servlet
+1333 SLING POST Servlet handle TypeHint Reference path	 set service request handler node authentication handle type create login
+4155 DefaultInjectionStrategy considered injector specific annotations	 injectable processor annotation constructor model annotated element matching annotations declared
+2366 JcrResourceListener log errors errors	 descriptor warm repository attribute listen errors parse execution methods performance
+3391 VanityPathTest stuck	 test event path delay service view redirect map commons extension
+2898 Failed integration tests Resource Access Tags	 test setup result path request tags tests execution resource stream
+1367 SLING NPE thrown Repository acquisition	 privilege access query manager control path cluster parent servlet session
+5219 SLING Mounting ResourceProvider impossible create child resources	 resource provider resources query root abs path servlet notify lang
+3429 NullPointerException optional array list properties	 resource nested mime test context type tag servlet map service
+3958 Function Mismatch	 matcher tag action jsp directive mismatch attribute xml expression type
+3455 Adaptation injected objects work classes	 servlet test host script object processor injection optimization context element
+1161 Easier initial content loading binary files	 bundle content node create file properties install session test path
+1675 SLING BundleResourceProvider doesn provide resources asked list children mapped path	 resource path test names mapped root servlet abs plugin service
+4750 Resource Provider API	 resource provider servlet query path context abs lang resources resolve
+1435 SLING NoClassDefError classes installed Java	 bundles bundle test startup resources server set file resource random
+5025 SLING ResourceResolver methods ISE factory unregistered	 resource distribution repository service factory servlet hierarchy request object test
+2209 Replace JavaDoc SCR annotations Java SCR annotations	 content delete loader iterator path resource group stream dynamic service
+1446 Scripts resolved current workspace	 path access authentication servlet resource directory scripts module abs script
+1704 SLING Add support modifying jcr primaryType	 node property resource test create file type jcr drop children
+1705 Proactively length jcr data property file node resources	 resource file property test node type content jcr create drop
+1981 Create sample demonstrates testing tools techniques	 test server tests request result query file create number path
+3517 SlingPostServlet catches throwables logs debug level	 log service event config logger test progress tracing set listener
+3781 unstable Eclipse based tests	 create node archetype factory test project context locator console arch
+2251 RedirectServlet create relative Location headers	 test node file relative redirect path servlet status bundle absolute
+3536 SLING Sling Models OOME DisposalCallbackRegistry	 test annotation sling script request service context callback string servlet
+4306 Disable trigger method unregister trigger	 event test distribution prefix path context bundle request agent trigger
+4307 Avoid caching JCR property values	 node type template jcr property array set update resource file
+2274 DavEx servlet require authentication anonymous access prohibited	 service authentication handler login handle sudo holder request anonymous cookie
+4324 Create individual factories distribution triggers	 distribution triggers request test agent context create bundle author handler
+2808 Scripts classes fragment bundles Felix framework issue	 bundle bundles test sling job launchpad file result osgi probe
+4350 minor typo log message	 servlet context resource config path session names info jacoco tracking
