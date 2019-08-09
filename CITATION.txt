@@ -1,0 +1,7 @@
+@INPROCEEDINGS{ase2017masud, 
+author={Rahman, M. M. and Roy, C. K.}, 
+booktitle={Proc. ASE}, 
+title={Improved Query Reformulation for Concept Location using CodeRank and Document Structures}, 
+year={2017}, 
+pages={428--439}
+}
