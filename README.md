@@ -36,7 +36,7 @@ Subject Systems (8)
 6. **log4j** (28)
 7. **sling** (76)
 8. **tomcat70** (454)
- 
+---------------------------------
 **Total: 1,675**
 
 Materials Included
@@ -114,12 +114,12 @@ Getting Started
 -------------------------
 Q1: How to install ACER tool?
 -------------------------------------
-- Execute git clone ```https://github.com/masud-technope/ACER-Replication-Package-ASE2017.git ACER```
-- Run the tool from within the ```ACER``` directory.
+- Execute ```git clone https://github.com/masud-technope/ACER-Replication-Package-ASE2017.git ACER```
+- Run the tool (```acer-runner.jar```) from within the ```ACER``` directory 
 
 Q2: How to reformulate queries with ACER tool?
 --------------------------------------------------
-Make sure that you have the queries within the **baseline** folder. Reformulating given queries with ACER involves three steps: (1) Generate **reformulation candidates**, (2) Construct a **query difficulty model**, and (3) Generate the **ACER queries**.
+Please make sure that you have the queries within the **baseline** folder. Reformulating the given queries with ACER involves three steps: (1) Generate **reformulation candidates**, (2) Construct a **query difficulty model**, and (3) Generate the **ACER queries**.
 
 **Step I: Generate Reformulation Candidates**
 ```
@@ -127,7 +127,7 @@ java -jar acer-runner.jar  -task getACERCandidateReformulations -candidateFolder
 ```
 The above command generates four reformulation candidates for each given query : ```method-sig```, ```field-sig```, ```both-sig``` and ```base```, and stores them in the **test-candidates** directory. 
 
-**Step II: Construct Query Difficulty Model**
+**Step II: Construct Query Difficulty Models**
 ```
 java -jar acer-runner.jar  -task makeQueryDifficultyModel -candidateFolder test-candidates -queryDiffFolder test-query-difficulty
 ```
@@ -151,7 +151,7 @@ Q4: How to calculate the document retrieval performance of ACER reformulation ca
 ```
 java -jar acer-runner.jar  -task getCandidatePerformance -candidateKey method-sig -K 100
 ```
-The above command shows the Top-100 accuracy (a.k.a., Hit@100), MAP and MRR of the ACER reformulation candidates.
+The above command shows the Top-100 accuracy (a.k.a., Hit@100), MAP and MRR of the ```method-sig``` based candidate queries
 
 Q5: How to calculate the document retrieval performance of the baseline queries?
 --------------------------------------------
@@ -165,14 +165,14 @@ Q6: How to determine the query improvement and worsening of baseline by ACER que
 ```
 java -jar acer-runner.jar  -task getACERPerformanceQE -queryFileKey test-acer-best-query
 ```
-The above command shows improvement, worsening and preserving of baseline queries by ACER 
+The above command shows improvement, worsening and preserving ratios of the baseline queries by ACER 
 
 Q7: How to determine the query improvement and worsening of baseline by ACER candidates?
 ------------------------------
 ```
 java -jar acer-runner.jar  -task getCandidatePerformanceQE -candidateKey method-sig
 ```
-The above command shows improvement, worsening and preserving of baseline queries by ACER candidates 
+The above command shows improvement, worsening and preserving ratios of baseline queries by ```method-sig``` based reformulation candidates 
 
 
 ## Please cite our work as
