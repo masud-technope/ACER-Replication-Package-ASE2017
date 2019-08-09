@@ -54,7 +54,7 @@ Materials Included
  - ```ACER (Field Signature Only)```
      - ```Query:``` Queries suggested by ACER using field signatures only 
      - ```QE:``` Query Effectiveness achieved by ACER queries
-- ``ACER (Method Signature + Field Signature)```
+- ```ACER (Method Signature + Field Signature)```
      - ```Query:``` Queries suggested by ACER using method signatures + field signatures
      - ```QE:``` Query Effectiveness achieved by ACER queries
 
@@ -90,6 +90,25 @@ Materials Included
 - ```CITATION:``` It shows how this work should be cited.
 - ```Screenshots:``` It contains the screenshots of the available operations.
 
+Available Operations
+---------------------------
+- ```getBaselinePerformance:``` Shows performances of the baseline queries
+- ```getACERCandidateReformulations:``` Generates the reformulation candidates for the given queries 
+- ```makeQueryDifficultyModel:``` Constructs query difficulty models for ACER
+- ```getACERQueries:``` Delivers the reformulated queries using the candidates and the query difficulty model
+- ```getACERPerformance:``` Shows the document retrieval performance of ACER queries
+- ```getCandidatePerformance:``` Shows the document retrieval performance of ACER reformulation candidates
+- ```getACERPerformanceQE:``` Shows the Query Effectiveness (QE) of ACER queries
+- ```getCandidatePerformanceQE:``` Shows the Query Effectiveness (QE) of ACER reformulation candidates
+
+Required Parameters for the Operations
+--------------------------------------
+- **-task** expects a task to be performed (e.g., ```getBaselinePerformance```)
+- **-K** expects the number of top results to be analysed during evaluation, default is **100**
+- **-candidateFolder** expects an existing empty folder within the home directory (e.g., ```test-candidates```)
+- **-queryDiffFolder** expects an existing empty folder within the home directory (e.g., ```test-query-difficulty```)
+- **-queryFileKey** expects a file identifier from ```ACER-query``` folder (e.g., ```acer-best-Aug08```)
+- **-candidateKey** expects a candidate reformulation key (e.g., ```method-sig```, ```field-sig```, ```both-sig```)
 
 
 ## Please cite our work as
