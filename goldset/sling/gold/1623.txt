@@ -1,7 +1,0 @@
-launchpad/builder/src/main/bundles/list.xml
-launchpad/builder/src/main/bundles/list.xml
-launchpad/builder/src/main/bundles/list.xml
-launchpad/base/pom.xml
-launchpad/builder/src/main/bundles/list.xml
-launchpad/builder/src/main/bundles/list.xml
-launchpad/builder/src/main/bundles/list.xml

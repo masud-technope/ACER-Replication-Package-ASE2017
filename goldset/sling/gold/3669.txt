@@ -1,2 +1,0 @@
-contrib/extensions/replication/core/src/main/resources/SLING-CONTENT/libs/sling/replication/config/org.apache.sling.replication.transport.impl.PollingTransportHandlerFactory-http-publish-poll.json
-contrib/extensions/replication/core/src/main/resources/SLING-CONTENT/libs/sling/replication/config/org.apache.sling.replication.transport.impl.HttpTransportHandlerFactory-http-author-receive.json

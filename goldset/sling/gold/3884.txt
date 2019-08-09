@@ -1,5 +1,0 @@
-bundles/extensions/models/integration-tests/pom.xml
-bundles/extensions/models/integration-tests/src/main/java/org/apache/sling/models/it/models/InterfaceInjectionTestModel.java
-bundles/extensions/models/integration-tests/src/main/java/org/apache/sling/models/it/models/FieldInjectionTestModel.java
-bundles/extensions/models/integration-tests/src/main/java/org/apache/sling/models/it/SimpleTest.java
-bundles/extensions/models/integration-tests/src/main/java/org/apache/sling/models/it/models/ConstructorInjectionTestModel.java

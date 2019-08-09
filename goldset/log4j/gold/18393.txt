@@ -1,1 +1,0 @@
-src/java/org/apache/log4j/DailyRollingFileAppender.java

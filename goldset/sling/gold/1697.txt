@@ -1,3 +1,0 @@
-launchpad/testing/src/test/java/org/apache/sling/launchpad/testing/LoggingSuite.java
-launchpad/testing/src/test/java/org/apache/sling/launchpad/testing/LoggingSuite.java
-launchpad/testing/src/test/java/org/apache/sling/launchpad/testing/TestAll.java

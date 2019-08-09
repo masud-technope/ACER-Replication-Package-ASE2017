@@ -1,5 +1,0 @@
-bundles/servlets/get/src/main/java/org/apache/sling/servlets/get/impl/RedirectServlet.java
-bundles/servlets/get/src/test/java/org/apache/sling/servlets/get/impl/RedirectServletTest.java
-bundles/servlets/get/src/test/java/org/apache/sling/servlets/get/impl/MockRequestPathInfo.java
-bundles/servlets/get/src/test/java/org/apache/sling/servlets/get/impl/MockSlingHttpServletRequest.java
-launchpad/bundles/pom.xml

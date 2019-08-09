@@ -1,6 +1,0 @@
-bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/OakRepositoryIT.java
-bundles/jcr/oak-server/pom.xml
-bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/CommonTests.java
-launchpad/builder/pom.xml
-bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/JackrabbitRepositoryIT.java
-bundles/jcr/oak-server/src/main/java/org/apache/sling/oak/server/Activator.java

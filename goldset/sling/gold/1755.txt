@@ -1,1 +1,0 @@
-bundles/extensions/explorer/src/main/resources/libs/sling/servlet/default/explorer/edit.esp

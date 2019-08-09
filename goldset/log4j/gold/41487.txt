@@ -1,2 +1,0 @@
-src/java/org/apache/log4j/xml/log4j.dtd
-src/java/org/apache/log4j/xml/log4j.dtd

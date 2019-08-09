@@ -1,3 +1,0 @@
-launchpad/content/src/main/resources/content/index.html
-launchpad/content/src/main/resources/content/signup.html
-launchpad/content/src/main/resources/content/index.html

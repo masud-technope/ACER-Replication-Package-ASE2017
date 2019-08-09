@@ -1,1 +1,0 @@
-contrib/scripting/script-console/src/main/resources/res/ui/script-console.js

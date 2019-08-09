@@ -1,2 +1,0 @@
-testing/tools/src/main/java/org/apache/sling/testing/tools/http/RetryingContentChecker.java
-testing/tools/src/main/java/org/apache/sling/testing/tools/osgi/WebconsoleClient.java

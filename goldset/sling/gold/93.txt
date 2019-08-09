@@ -1,2 +1,0 @@
-sling/event/pom.xml
-sling/scheduler/pom.xml

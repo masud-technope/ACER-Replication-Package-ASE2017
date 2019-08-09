@@ -1,5 +1,0 @@
-bundles/extensions/models/impl/src/main/java/org/apache/sling/models/impl/injectors/ResourcePathInjector.java
-bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathModel.java
-bundles/extensions/models/impl/src/test/java/org/apache/sling/models/impl/ResourcePathInjectionTest.java
-bundles/extensions/models/impl/src/test/java/org/apache/sling/models/testmodels/classes/ResourcePathAllOptionalModel.java
-bundles/extensions/models/api/src/main/java/org/apache/sling/models/annotations/injectorspecific/ResourcePath.java

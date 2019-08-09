@@ -1,1 +1,0 @@
-bundles/servlets/resolver/src/main/java/org/apache/sling/servlets/resolver/internal/SlingServletResolver.java

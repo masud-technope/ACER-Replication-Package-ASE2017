@@ -1,4 +1,0 @@
-bundles/jcr/it-jackrabbit-oak/pom.xml
-bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/OakRepositoryIT.java
-bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/CommonTests.java
-bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/JackrabbitRepositoryIT.java

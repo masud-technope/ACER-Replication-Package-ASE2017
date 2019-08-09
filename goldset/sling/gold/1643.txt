@@ -1,5 +1,0 @@
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/InstallableResource.java
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/BundleTaskCreator.java
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/RegisteredResourceImpl.java
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/tasks/BundleInstallTask.java
-installer/osgi/installer/src/test/java/org/apache/sling/osgi/installer/impl/TaskOrderingTest.java

@@ -1,4 +1,0 @@
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/OsgiInstallerImpl.java
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/tasks/BundleTaskCreator.java
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/tasks/BundleUpdateTask.java
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/impl/tasks/SystemBundleUpdateTask.java

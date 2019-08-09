@@ -1,1 +1,0 @@
-installer/osgi/installer/src/main/java/org/apache/sling/osgi/installer/InstallableResource.java

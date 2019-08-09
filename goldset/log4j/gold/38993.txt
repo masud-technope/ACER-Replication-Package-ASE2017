@@ -1,2 +1,0 @@
-src/java/org/apache/log4j/FileAppender.java
-tests/src/java/org/apache/log4j/FileAppenderTest.java

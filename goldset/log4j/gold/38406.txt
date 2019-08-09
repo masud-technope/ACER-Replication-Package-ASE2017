@@ -1,8 +1,0 @@
-src/java/org/apache/log4j/db/dialect/Util.java
-src/java/org/apache/log4j/rolling/helper/GZCompressAction.java
-src/java/org/apache/log4j/pattern/NameAbbreviator.java
-src/java/org/apache/log4j/db/DBAppender.java
-docs/HISTORY.txt
-build.properties.sample
-tests/src/java/org/apache/log4j/spi/LoggingEventTest.java
-tests/src/java/org/apache/log4j/watchdog/FileWatchdogTestCase.java

@@ -1,8 +1,0 @@
-src/main/java/org/apache/log4j/jmx/Agent.java
-src/main/java/org/apache/log4j/jmx/Agent.java
-INSTALL
-build.properties.sample
-build.xml
-pom.xml
-src/changes/changes.xml
-src/main/java/org/apache/log4j/jmx/Agent.java

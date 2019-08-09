@@ -1,2 +1,0 @@
-launchpad/launchpad-servlets/src/main/java/org/apache/sling/ujax/UjaxPostProcessor.java
-launchpad/launchpad-webapp/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/ujax/PostServletMoveTest.java

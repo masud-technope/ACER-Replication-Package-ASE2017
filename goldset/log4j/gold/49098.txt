@@ -1,3 +1,0 @@
-NOTICE
-src/changes/changes.xml
-pom.xml

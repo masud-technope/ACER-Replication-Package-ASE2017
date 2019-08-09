@@ -1,9 +1,0 @@
-src/java/org/apache/log4j/DailyRollingFileAppender.java
-src/java/org/apache/log4j/RollingFileAppender.java
-src/java/org/apache/log4j/rolling/SizeBasedTriggeringPolicy.java
-tests/input/rolling/obsoleteDRFA1.properties
-tests/input/rolling/obsoleteRFA1.properties
-tests/src/java/org/apache/log4j/rolling/ObsoleteDailyRollingFileAppenderTest.java
-tests/src/java/org/apache/log4j/rolling/ObsoleteRollingFileAppenderTest.java
-tests/src/java/org/apache/log4j/rolling/SizeBasedRollingTest.java
-tests/src/java/org/apache/log4j/rolling/TimeBasedRollingTest.java

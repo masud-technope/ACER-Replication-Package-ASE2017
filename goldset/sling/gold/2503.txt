@@ -1,4 +1,0 @@
-bundles/jcr/jackrabbit-server/pom.xml
-bundles/jcr/webdav/pom.xml
-bundles/jcr/davex/pom.xml
-launchpad/builder/src/main/bundles/list.xml

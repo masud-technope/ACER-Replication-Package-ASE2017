@@ -1,5 +1,0 @@
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/ForwardTest.java
-engine/src/main/java/org/apache/sling/engine/impl/request/SlingRequestDispatcher.java
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/JspIncludeTest.java
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/IncludeTest.java
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/JspForwardTest.java

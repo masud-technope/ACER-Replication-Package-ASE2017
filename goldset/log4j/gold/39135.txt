@@ -1,8 +1,0 @@
-tests/src/java/org/apache/log4j/helpers/DateLayoutTest.java
-tests/src/java/org/apache/log4j/helpers/DateLayoutTest.java
-src/java/org/apache/log4j/helpers/DateTimeDateFormat.java
-src/java/org/apache/log4j/helpers/ISO8601DateFormat.java
-tests/src/java/org/apache/log4j/helpers/DateLayoutTest.java
-src/java/org/apache/log4j/helpers/DateTimeDateFormat.java
-src/java/org/apache/log4j/helpers/ISO8601DateFormat.java
-tests/src/java/org/apache/log4j/helpers/DateLayoutTest.java

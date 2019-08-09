@@ -1,8 +1,0 @@
-docs/HISTORY.txt
-src/java/org/apache/log4j/xml/DOMConfigurator.java
-src/java/org/apache/log4j/xml/log4j.dtd
-src/xdocs/download.xml
-tests/input/xml/categoryfactory1.xml
-tests/input/xml/categoryfactory2.xml
-tests/input/xml/loggerfactory1.xml
-tests/src/java/org/apache/log4j/xml/DOMTestCase.java

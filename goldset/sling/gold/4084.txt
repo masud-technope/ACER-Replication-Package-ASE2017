@@ -1,3 +1,0 @@
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/CoordinatingReplicationAgentFactory.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/component/ReplicationComponentFactory.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/serialization/impl/vlt/FileVaultReplicationPackageBuilder.java

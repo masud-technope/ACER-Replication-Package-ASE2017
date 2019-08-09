@@ -1,2 +1,0 @@
-event/src/main/resources/SLING-INF/nodetypes/event.cnd
-event/src/main/java/org/apache/sling/event/impl/TimedEventHandler.java

@@ -1,3 +1,0 @@
-src/java/org/apache/log4j/Category.java
-src/java/org/apache/log4j/test/Makefile
-src/java/org/apache/log4j/xml/examples/XCategory.java

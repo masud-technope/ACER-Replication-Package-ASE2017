@@ -1,1 +1,0 @@
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/teleporter/TeleporterOptionsTest.java

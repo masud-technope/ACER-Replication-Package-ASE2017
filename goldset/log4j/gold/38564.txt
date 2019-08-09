@@ -1,2 +1,0 @@
-src/java/org/apache/log4j/WriterAppender.java
-src/java/org/apache/log4j/WriterAppender.java

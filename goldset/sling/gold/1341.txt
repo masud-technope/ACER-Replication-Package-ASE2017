@@ -1,4 +1,0 @@
-bundles/extensions/groovy/src/main/java/org/apache/sling/extensions/groovy/json/JSONGroovyBuilder.java
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/JSONGroovyBuilderIntegrationTest.java
-launchpad/testing/src/test/resources/integration-test/builder.groovy
-launchpad/testing/src/test/resources/integration-test/builder2.groovy

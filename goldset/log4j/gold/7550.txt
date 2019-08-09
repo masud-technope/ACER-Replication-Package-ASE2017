@@ -1,6 +1,0 @@
-docs/HISTORY
-src/java/org/apache/log4j/FileAppender.java
-src/java/org/apache/log4j/HTMLLayout.java
-src/java/org/apache/log4j/StressCategory.java
-src/java/org/apache/log4j/xml/XMLLayout.java
-src/xdocs/contactUs.xml

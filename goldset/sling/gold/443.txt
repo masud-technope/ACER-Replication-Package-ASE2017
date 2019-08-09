@@ -1,2 +1,0 @@
-jcr/jackrabbit-server/pom.xml
-jcr/jackrabbit-server/src/main/resources/META-INF/MANIFEST.MF

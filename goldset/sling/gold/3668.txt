@@ -1,2 +1,0 @@
-contrib/extensions/replication/core/pom.xml
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/serialization/impl/vlt/FileVaultReplicationPackage.java

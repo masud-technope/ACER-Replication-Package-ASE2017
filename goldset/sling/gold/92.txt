@@ -1,2 +1,0 @@
-microsling/microsling-core/src/main/java/org/apache/sling/microsling/slingservlets/MicrojaxPostServlet.java
-microsling/microsling-core/src/main/java/org/apache/sling/microsling/slingservlets/DefaultSlingServlet.java

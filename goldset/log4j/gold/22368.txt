@@ -1,3 +1,0 @@
-src/java/org/apache/log4j/net/TelnetAppender.java
-tests/input/performance/telnet.xml
-tests/performance.xml

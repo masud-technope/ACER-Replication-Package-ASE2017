@@ -1,2 +1,0 @@
-src/java/org/apache/log4j/net/MulticastAppender.java
-src/java/org/apache/log4j/net/UDPAppender.java

@@ -1,2 +1,0 @@
-src/changes/changes.xml
-src/site/apt/download.apt

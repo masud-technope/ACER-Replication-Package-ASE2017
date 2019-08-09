@@ -1,2 +1,0 @@
-contrib/extensions/i18n/pom.xml
-contrib/extensions/i18n/pom.xml

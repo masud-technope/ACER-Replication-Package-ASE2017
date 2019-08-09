@@ -1,2 +1,0 @@
-tooling/ide/eclipse-ui/plugin.xml
-tooling/ide/eclipse-ui/plugin.xml

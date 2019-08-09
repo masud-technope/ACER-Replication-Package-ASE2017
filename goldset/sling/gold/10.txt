@@ -1,1 +1,0 @@
-maven-sling-plugin/src/main/java/org/apache/sling/maven/bundlesupport/BundleInstallMojo.java

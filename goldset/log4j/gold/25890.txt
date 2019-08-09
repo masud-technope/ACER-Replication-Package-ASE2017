@@ -1,5 +1,0 @@
-tests/input/NDC1.properties
-tests/build.xml
-tests/witness/NDC.1
-src/java/org/apache/log4j/NDC.java
-tests/src/java/org/apache/log4j/NDCTestCase.java

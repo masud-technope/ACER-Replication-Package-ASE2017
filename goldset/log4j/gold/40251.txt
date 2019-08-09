@@ -1,6 +1,0 @@
-tests/build.xml
-src/java/org/apache/log4j/jmx/HierarchyDynamicMBean.java
-src/java/org/apache/log4j/jmx/AppenderDynamicMBean.java
-src/java/org/apache/log4j/jmx/LoggerDynamicMBean.java
-tests/src/java/org/apache/log4j/jmx/HierarchyMBeanTest.java
-src/java/org/apache/log4j/jmx/AbstractDynamicMBean.java

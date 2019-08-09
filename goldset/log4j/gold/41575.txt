@@ -1,2 +1,0 @@
-doap_log4j.rdf
-doap_log4j.rdf

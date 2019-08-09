@@ -1,5 +1,0 @@
-build.properties.sample
-build.xml
-src/sun_checks.xml
-tests/build.properties.sample
-tests/build.xml

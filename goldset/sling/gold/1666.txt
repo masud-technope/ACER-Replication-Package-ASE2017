@@ -1,2 +1,0 @@
-installer/osgi/installer/src/test/java/org/apache/sling/osgi/installer/impl/BundleStartRetriesTest.java
-installer/osgi/installer/src/test/java/org/apache/sling/osgi/installer/impl/WorkerThreadIdleTest.java

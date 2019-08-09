@@ -1,5 +1,0 @@
-contrib/extensions/replication/src/test/java/org/apache/sling/replication/agent/impl/SimpleReplicationAgentTest.java
-contrib/extensions/replication/src/test/java/org/apache/sling/replication/agent/impl/ReplicationAgentResourceProviderTest.java
-contrib/extensions/replication/src/main/java/org/apache/sling/replication/agent/impl/ReplicationAgentServiceFactory.java
-contrib/extensions/replication/src/main/java/org/apache/sling/replication/agent/impl/SimpleReplicationAgent.java
-contrib/extensions/replication/src/main/java/org/apache/sling/replication/transport/impl/NopTransportHandler.java

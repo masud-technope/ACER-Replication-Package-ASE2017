@@ -1,3 +1,0 @@
-launchpad/testing/src/test/resources/log4j.properties
-launchpad/testing/pom.xml
-launchpad/testing/src/test/resources/log4j.properties

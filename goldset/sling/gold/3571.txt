@@ -1,4 +1,0 @@
-tooling/ide/impl-vlt/src/org/apache/sling/ide/impl/vlt/VltNodeType.java
-tooling/ide/api-test/src/test/java/org/apache/sling/ide/serialization/StubNodeTypeRegistry.java
-tooling/ide/api-test/src/test/java/org/apache/sling/ide/serialization/StubRepository.java
-tooling/ide/api-test/pom.xml

@@ -1,9 +1,0 @@
-bundles/extensions/framework-extension-transaction/pom.xml
-bundles/extensions/framework-extension-xml/pom.xml
-testing/junit/core/pom.xml
-testing/junit/remote/pom.xml
-testing/junit/scriptable/pom.xml
-testing/samples/failing-tests/pom.xml
-testing/samples/integration-tests/pom.xml
-testing/samples/sample-tests/pom.xml
-testing/tools/pom.xml

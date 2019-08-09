@@ -1,9 +1,0 @@
-contrib/nosql/generic/README.md
-contrib/nosql/generic/src/main/java/org/apache/sling/nosql/generic/resource/impl/PathUtil.java
-contrib/nosql/couchbase-resourceprovider/src/main/java/org/apache/sling/nosql/couchbase/resourceprovider/impl/CouchbaseNoSqlAdapter.java
-contrib/nosql/couchbase-client/src/main/java/org/apache/sling/nosql/couchbase/client/impl/CouchbaseClientImpl.java
-contrib/nosql/couchbase-resourceprovider/pom.xml
-contrib/nosql/generic/src/main/java/org/apache/sling/nosql/generic/resource/impl/NoSqlResourceProvider.java
-contrib/nosql/couchbase-client/src/main/java/org/apache/sling/nosql/couchbase/client/impl/CouchbaseEnvironmentSingleton.java
-contrib/nosql/mongodb-resourceprovider/src/main/java/org/apache/sling/nosql/mongodb/resourceprovider/impl/MongoDBNoSqlAdapter.java
-contrib/nosql/generic/src/test/java/org/apache/sling/nosql/generic/resource/impl/AbstractNoSqlResourceProviderRootTest.java

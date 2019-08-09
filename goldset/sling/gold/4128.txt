@@ -1,5 +1,0 @@
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/PersistingJcrEventReplicationTrigger.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/AbstractJcrEventTrigger.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/component/impl/SettingsUtils.java
-contrib/extensions/replication/core/src/test/java/org/apache/sling/replication/trigger/impl/PersistingJcrEventReplicationTriggerTest.java
-contrib/extensions/replication/it/src/main/resources/SLING-CONTENT/libs/test/install.author/org.apache.sling.replication.component.impl.GenericReplicationComponentFactory-trigger-test-persisting-event.json

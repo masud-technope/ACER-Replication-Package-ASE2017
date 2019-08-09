@@ -1,4 +1,0 @@
-src/java/org/apache/log4j/net/SocketAppender.java
-tests/build.xml
-tests/input/xml/SocketAppenderTestConfig.xml
-tests/src/java/org/apache/log4j/net/SocketAppenderTest.java

@@ -1,2 +1,0 @@
-docs/manual.html
-docs/manual.html

@@ -1,1 +1,0 @@
-samples/fsresource/src/main/java/org/apache/sling/fsprovider/FsResourceProvider.java

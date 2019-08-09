@@ -1,2 +1,0 @@
-launchpad/builder/src/main/bundles/list.xml
-launchpad/bundles/pom.xml

@@ -1,5 +1,0 @@
-bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/topology/TopologyTestHelper.java
-bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/cluster/ClusterTest.java
-bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/topology/LargeTopologyWithHubTest.java
-bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/cluster/TopologyEventTest.java
-bundles/extensions/discovery/impl/src/test/java/org/apache/sling/discovery/impl/cluster/helpers/AssertingTopologyEventListener.java

@@ -1,6 +1,0 @@
-jackrabbit-api/src/main/java/org/apache/sling/jcr/internal/NamespaceMapper.java
-jackrabbit-api/src/main/java/org/apache/sling/jcr/internal/loader/Loader.java
-jackrabbit-api/src/main/java/org/apache/sling/jcr/AbstractSlingRepository.java
-jackrabbit-api/src/main/java/org/apache/sling/jcr/internal/SessionPool.java
-content/pom.xml
-jackrabbit-api/src/main/java/org/apache/sling/jcr/internal/SessionPoolManager.java

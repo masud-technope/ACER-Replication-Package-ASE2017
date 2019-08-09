@@ -1,1 +1,0 @@
-sling/ujax/pom.xml

@@ -1,1 +1,0 @@
-maven/archetypes/launchpad-standalone/src/main/resources/META-INF/maven/archetype-metadata.xml

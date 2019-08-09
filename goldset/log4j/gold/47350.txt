@@ -1,2 +1,0 @@
-src/main/java/org/apache/log4j/PatternLayout.java
-src/changes/changes.xml

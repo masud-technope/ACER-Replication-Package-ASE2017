@@ -1,2 +1,0 @@
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/SlingFileUploadHandler.java
-launchpad/bundles/pom.xml

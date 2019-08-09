@@ -1,1 +1,0 @@
-launchpad/testing-war/pom.xml

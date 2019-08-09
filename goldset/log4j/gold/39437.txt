@@ -1,7 +1,0 @@
-src/java/org/apache/log4j/nt/nteventlog.cpp
-src/java/org/apache/log4j/nt/EventLogCategories.h
-src/java/org/apache/log4j/nt/EventLogCategories.mc
-src/java/org/apache/log4j/nt/EventLogCategories.rc
-src/java/org/apache/log4j/nt/MSG00001.bin
-src/java/org/apache/log4j/nt/NTEventLogAppender.rc
-src/java/org/apache/log4j/nt/nteventlog.cpp

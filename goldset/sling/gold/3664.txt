@@ -1,2 +1,0 @@
-bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/tei/GetPropertyTEI.java
-bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/tei/AdaptToTEI.java

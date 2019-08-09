@@ -1,3 +1,0 @@
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/scripting/StandaloneScriptExecutionTest.java
-launchpad/testing/src/test/resources/integration-test/standalone-test.ecma
-launchpad/testing/src/test/resources/integration-test/standalone-test.js

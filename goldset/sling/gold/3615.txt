@@ -1,1 +1,0 @@
-tooling/ide/eclipse-test/src/org/apache/sling/ide/test/impl/BundleDeploymentTest.java

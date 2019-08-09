@@ -1,2 +1,0 @@
-bundles/jcr/contentloader/pom.xml
-bundles/commons/contentdetection/pom.xml

@@ -1,6 +1,0 @@
-src/java/org/apache/log4j/net/SyslogAppender.java
-docs/HISTORY.txt
-src/java/org/apache/log4j/helpers/SyslogWriter.java
-src/java/org/apache/log4j/net/SyslogAppender.java
-src/xdocs/download.xml
-tests/src/java/org/apache/log4j/net/SyslogAppenderTest.java

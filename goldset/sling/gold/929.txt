@@ -1,2 +1,0 @@
-bundles/commons/json/src/test/java/org/apache/sling/commons/json/JSONObjectTest.java
-bundles/commons/json/src/main/java/org/apache/sling/commons/json/JSONObject.java

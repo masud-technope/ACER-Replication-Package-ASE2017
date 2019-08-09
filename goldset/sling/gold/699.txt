@@ -1,2 +1,0 @@
-extensions/jcrinstall/src/main/java/org/apache/sling/jcr/jcrinstall/osgi/impl/BundleResourceProcessor.java
-extensions/jcrinstall/src/main/java/org/apache/sling/jcr/jcrinstall/osgi/impl/OsgiControllerImpl.java

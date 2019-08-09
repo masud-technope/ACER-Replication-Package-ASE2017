@@ -1,6 +1,0 @@
-bundles/extensions/bundleresource/pom.xml
-bundles/commons/logservice/pom.xml
-bundles/servlets/resolver/pom.xml
-bundles/extensions/framework-extension-ws/pom.xml
-bundles/extensions/fsresource/pom.xml
-bundles/jcr/resource/pom.xml

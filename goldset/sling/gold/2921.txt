@@ -1,2 +1,0 @@
-launchpad/integration-tests/src/main/resources/integration-test/taglib-test.jsp
-bundles/scripting/jsp-taglib/src/main/resources/META-INF/sling.tld

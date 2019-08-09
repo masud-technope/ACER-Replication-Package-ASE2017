@@ -1,4 +1,0 @@
-src/site/site.xml
-src/site/apt/download.apt
-pom.xml
-src/changes/changes.xml

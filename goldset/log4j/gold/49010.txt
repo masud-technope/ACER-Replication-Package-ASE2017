@@ -1,4 +1,0 @@
-src/changes/changes.xml
-src/main/java/org/apache/log4j/EnhancedPatternLayout.java
-src/main/java/org/apache/log4j/pattern/NameAbbreviator.java
-tests/src/java/org/apache/log4j/pattern/NameAbbreviatorTest.java

@@ -1,1 +1,0 @@
-bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/JspScriptEngineFactory.java

@@ -1,7 +1,0 @@
-src/changes/changes.xml
-src/main/java/org/apache/log4j/AsyncAppender.java
-src/main/java/org/apache/log4j/config/PropertyPrinter.java
-src/main/java/org/apache/log4j/net/SMTPAppender.java
-src/main/java/org/apache/log4j/net/SocketAppender.java
-src/main/java/org/apache/log4j/net/TelnetAppender.java
-src/main/java/org/apache/log4j/xml/XMLLayout.java

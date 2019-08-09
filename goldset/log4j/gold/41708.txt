@@ -1,3 +1,0 @@
-docs/HISTORY.txt
-src/java/org/apache/log4j/config/PropertyPrinter.java
-src/xdocs/download.xml

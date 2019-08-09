@@ -1,3 +1,0 @@
-src/changes/changes.xml
-src/main/javadoc/org/apache/log4j/xml/log4j.dtd
-src/main/resources/org/apache/log4j/xml/log4j.dtd

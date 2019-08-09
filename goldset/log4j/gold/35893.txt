@@ -1,3 +1,0 @@
-src/java/org/apache/log4j/helpers/Loader.java
-docs/HISTORY.txt
-src/java/org/apache/log4j/helpers/Loader.java

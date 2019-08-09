@@ -1,6 +1,0 @@
-bundles/extensions/explorer/src/main/resources/libs/sling/servlet/default/explorer/item.esp
-bundles/extensions/explorer/src/main/resources/libs/sling/servlet/default/explorer/explorer.esp
-bundles/extensions/explorer/src/main/resources/libs/sling/servlet/default/explorer/node.esp
-bundles/extensions/explorer/src/main/resources/libs/sling/servlet/default/explorer/search.esp
-bundles/extensions/explorer/src/main/resources/libs/sling/servlet/default/explorer/edit.esp
-bundles/extensions/explorer/src/main/resources/libs/sling/explorer/js/explorer.js

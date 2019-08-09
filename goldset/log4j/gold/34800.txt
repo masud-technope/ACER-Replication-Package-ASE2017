@@ -1,9 +1,0 @@
-src/java/org/apache/log4j/rolling/FilterBasedTriggeringPolicy.java
-src/java/org/apache/log4j/rolling/FixedWindowRollingPolicy.java
-src/java/org/apache/log4j/rolling/RollingFileAppender.java
-src/java/org/apache/log4j/rolling/RollingPolicy.java
-src/java/org/apache/log4j/rolling/RollingPolicyBase.java
-src/java/org/apache/log4j/rolling/SizeBasedTriggeringPolicy.java
-src/java/org/apache/log4j/rolling/TimeBasedRollingPolicy.java
-src/java/org/apache/log4j/rolling/TriggeringPolicy.java
-tests/src/java/org/apache/log4j/rolling/SizeBasedRollingTest.java

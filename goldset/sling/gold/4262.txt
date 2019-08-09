@@ -1,4 +1,0 @@
-contrib/extensions/validation/core/src/main/java/org/apache/sling/validation/impl/ValidationServiceImpl.java
-contrib/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/ValidationServiceImplTest.java
-contrib/extensions/validation/api/src/main/java/org/apache/sling/validation/api/ValidationService.java
-contrib/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/setup/MockedResourceResolver.java

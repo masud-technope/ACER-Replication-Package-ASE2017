@@ -1,1 +1,0 @@
-bundles/extensions/event/src/main/java/org/apache/sling/event/impl/jobs/jcr/LockManager.java

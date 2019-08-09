@@ -1,3 +1,0 @@
-src/java/org/apache/log4j/AsyncAppender.java
-src/java/org/apache/log4j/BasicConfigurator.java
-src/java/org/apache/log4j/test/Shallow.java

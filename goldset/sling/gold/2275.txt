@@ -1,3 +1,0 @@
-bundles/jcr/davex/src/main/java/org/apache/sling/jcr/davex/impl/servlets/SlingDavExServlet.java
-bundles/jcr/davex/src/main/resources/OSGI-INF/metatype/metatype.properties
-bundles/jcr/davex/pom.xml

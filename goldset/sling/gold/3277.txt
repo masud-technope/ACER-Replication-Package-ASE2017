@@ -1,2 +1,0 @@
-bundles/engine/src/test/java/org/apache/sling/engine/impl/RequestProcessorMBeanImplTest.java
-bundles/engine/src/main/java/org/apache/sling/engine/impl/RequestProcessorMBeanImpl.java

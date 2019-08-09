@@ -1,6 +1,0 @@
-tests/input/xml/xinclude.xml
-src/java/org/apache/log4j/joran/action/LoggerAction.java
-tests/input/joran/resourceBundle.xml
-tests/input/xml/xinclude2.xml
-src/java/org/apache/log4j/joran/JoranConfigurator.java
-tests/src/java/org/apache/log4j/joran/JoranConfiguratorTest.java

@@ -1,3 +1,0 @@
-launchpad/base/src/main/resources/sling.properties
-scripting/javascript/src/main/java/org/apache/sling/scripting/javascript/helper/SlingRhinoDebugger.java
-scripting/javascript/src/main/java/org/apache/sling/scripting/javascript/helper/SlingContextFactory.java

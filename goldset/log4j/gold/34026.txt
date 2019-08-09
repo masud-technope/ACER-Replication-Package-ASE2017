@@ -1,2 +1,0 @@
-docs/HISTORY.txt
-src/java/org/apache/log4j/net/SyslogAppender.java

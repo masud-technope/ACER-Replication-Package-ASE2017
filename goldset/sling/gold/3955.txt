@@ -1,1 +1,0 @@
-bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/OakResourceListener.java

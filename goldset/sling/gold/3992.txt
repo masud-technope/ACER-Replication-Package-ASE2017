@@ -1,7 +1,0 @@
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/CoordinatingReplicationAgentFactory.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/DefaultReplicationComponentProvider.java
-contrib/extensions/replication/sample/src/main/resources/SLING-CONTENT/libs/sling/replication/install.author/org.apache.sling.replication.agent.impl.CoordinatingReplicationAgentFactory-pubsync.json
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/packaging/impl/exporter/RemoteReplicationPackageExporterFactory.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/SimpleReplicationAgent.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/agent/impl/CoordinatingReplicationAgent.java
-contrib/extensions/replication/core/src/main/java/org/apache/sling/replication/trigger/impl/ScheduledReplicationTrigger.java

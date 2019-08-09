@@ -1,2 +1,0 @@
-src/java/org/apache/log4j/LogManager.java
-docs/HISTORY.txt

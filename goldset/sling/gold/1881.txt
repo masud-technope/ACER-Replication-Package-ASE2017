@@ -1,6 +1,0 @@
-contrib/launchpad/testing/src/main/bundles/list.xml
-contrib/scripting/scala/script/pom.xml
-contrib/scripting/scala/script/src/main/scala/org/apache/sling/scripting/scala/ScalaScriptEngine.scala
-contrib/scripting/scala/script/src/main/scala/org/apache/sling/scripting/scala/ScalaScriptEngineFactory.scala
-contrib/scripting/scala/script/src/main/scala/org/apache/sling/scripting/scala/interpreter/Bindings.scala
-contrib/scripting/scala/script/src/test/scala/org/apache/sling/scripting/scala/ScalaScriptEngineFactoryTest.scala

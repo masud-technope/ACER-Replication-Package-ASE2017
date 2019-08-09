@@ -1,4 +1,0 @@
-contrib/extensions/healthcheck/healthchecks/src/main/java/org/apache/sling/hc/healthchecks/impl/JmxScriptBinding.java
-contrib/extensions/healthcheck/healthchecks/src/main/java/org/apache/sling/hc/healthchecks/impl/OsgiScriptBinding.java
-contrib/extensions/healthcheck/healthchecks/src/main/java/org/apache/sling/hc/healthchecks/impl/JmxAttributeHealthCheck.java
-contrib/extensions/healthcheck/healthchecks/src/main/java/org/apache/sling/hc/healthchecks/impl/SlingRequestStatusHealthCheck.java

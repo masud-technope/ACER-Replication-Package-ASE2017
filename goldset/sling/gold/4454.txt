@@ -1,4 +1,0 @@
-contrib/scripting/sightly/engine/src/main/java/org/apache/sling/scripting/sightly/impl/engine/extension/use/RenderUnitProvider.java
-contrib/scripting/sightly/engine/src/main/java/org/apache/sling/scripting/sightly/impl/engine/extension/use/ScriptUseProvider.java
-contrib/scripting/sightly/engine/src/main/java/org/apache/sling/scripting/sightly/impl/engine/extension/use/JavaUseProvider.java
-contrib/scripting/sightly/engine/src/main/java/org/apache/sling/scripting/sightly/use/UseProvider.java

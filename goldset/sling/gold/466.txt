@@ -1,1 +1,0 @@
-scripting/jst/pom.xml

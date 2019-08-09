@@ -1,2 +1,0 @@
-tooling/maven/archetypes/launchpad-standalone/src/main/resources/archetype-resources/pom.xml
-tooling/maven/archetypes/launchpad-webapp/src/main/resources/archetype-resources/pom.xml

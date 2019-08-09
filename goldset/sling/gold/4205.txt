@@ -1,1 +1,0 @@
-contrib/explorers/resourceeditor/frontend/licenselist

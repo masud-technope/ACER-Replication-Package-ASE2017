@@ -1,2 +1,0 @@
-installer/osgi/installer/pom.xml
-installer/osgi/it/pom.xml

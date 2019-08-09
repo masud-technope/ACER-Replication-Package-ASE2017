@@ -1,2 +1,0 @@
-scripting/javascript/src/main/java/org/apache/sling/scripting/javascript/wrapper/ScriptableNode.java
-scripting/javascript/src/test/java/org/apache/sling/scripting/wrapper/ScriptableNodeTest.java

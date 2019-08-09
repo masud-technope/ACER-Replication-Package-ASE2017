@@ -1,6 +1,0 @@
-pom.xml
-installer/factories/subsystem_base/pom.xml
-installer/factories/subsystem_base/src/main/java/org/apache/sling/installer/factories/subsystems/base/impl/Activator.java
-installer/factories/subsystem_base/src/main/java/org/apache/sling/installer/factories/subsystems/base/impl/SubsystemBaseTransformer.java
-installer/factories/subsystem_base/src/test/java/org/apache/sling/installer/factories/subsystems/base/impl/SubsystemBaseTransformerTest.java
-installer/factories/subsystem_base/src/test/resources/test1.subsystem-base
