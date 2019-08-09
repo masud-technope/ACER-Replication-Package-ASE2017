@@ -74,10 +74,10 @@ Materials Included
 - ```query-difficulty:``` Query difficulty metrics calculated for search queries
 - ```samurai-data:``` Auxiliary data for token splitting with Samurai
 - ```ACER-QD-Model:``` Artifacts of the developed query difficulty model
-    - ARFF model file
-    - ARFF model header
-    - Query difficulty metrics dataset
-    - Query difficulty prediction results using resampled data
+    - ```acer-qd-model-2019:``` ARFF model file
+    - ```acer-model-header:``` ARFF model header
+    - ```master-model-dataset:``` Query difficulty metrics dataset
+    - ```resampling-*-*``` Query difficulty prediction results using resampled data
 - ```ACER-query:``` Sample queries suggested by ACER 
 - ```ACER-rank:``` Query Effectiveness (QE) of the ACER queries 
 
@@ -109,6 +109,35 @@ Required Parameters for the Operations
 - **-queryDiffFolder** expects an existing empty folder within the home directory (e.g., ```test-query-difficulty```)
 - **-queryFileKey** expects a file identifier from ```ACER-query``` folder (e.g., ```acer-best-Aug08```)
 - **-candidateKey** expects a candidate reformulation key (e.g., ```method-sig```, ```field-sig```, ```both-sig```)
+
+Getting Started
+-------------------------
+Q1: How to install ACER tool?
+-------------------------------------
+- Execute git clone ```https://github.com/masud-technope/ACER-Replication-Package-ASE2017.git ACER```
+- Run the tool from within the ```ACER``` directory.
+
+Q2: How to reformulate queries with ACER tool?
+--------------------------------------------------
+Reformulating given queries with ACER involves four steps: (1) Keep your queries within **baseline** folder, (2) Generate **reformulation candidates**, (3) Construct a **query difficulty model**, and (4) Generate the **ACER queries**.
+
+**Generate Reformulation Candidates**
+```
+java -jar acer-runner.jar  -task getACERCandidateReformulations -candidateFolder test-candidates
+```
+The above command generates four reformulation candidates for each given query : ```method-sig```, ```field-sig```, ```both-sig``` and ```base```, and stores them in the **test-candidates** directory. 
+
+**Construct Query Difficulty Model**
+```
+java -jar acer-runner.jar  -task makeQueryDifficultyModel -candidateFolder test-candidates -queryDiffFolder test-query-difficulty
+```
+The above command calculates query difficulty metrics for the candidate queries, and stores them in **test-query-difficulty** folder. It also constructs query difficulty models and collects prediction results from them in the **ACER-QD-Model** directory.
+
+**Generate ACER Queries**
+```
+java -jar acer-runner.jar  -task getACERQueries -candidateFolder test-candidates -queryFileKey test-acer-best-query
+```
+The above command delivers the best reformulation candidates as the ACER queries using the above query difficulty model, and stores them as **test-acer-best-query** in the **ACER-query** folder.
 
 
 ## Please cite our work as
