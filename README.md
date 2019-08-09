@@ -28,14 +28,14 @@ superiority of our technique.
 
 Subject Systems (8)
 -------------------------------
-1. ecf (154)
-2.  eclipse.jdt.core (198)
-3. eclipse.jdt.debug (154)
-4.  eclipse.jdt.ui (309)
-5. eclipse.pde.ui (302)
-6. log4j (28)
-7. sling (76)
-8. tomcat70 (454)
+1. **ecf** (154)
+2. **eclipse.jdt.core** (198)
+3. **eclipse.jdt.debug** (154)
+4. **eclipse.jdt.ui** (309)
+5. **eclipse.pde.ui** (302)
+6. **log4j** (28)
+7. **sling** (76)
+8. **tomcat70** (454)
  
 **Total: 1,675**
 
@@ -139,14 +139,14 @@ java -jar acer-runner.jar  -task getACERQueries -candidateFolder test-candidates
 ```
 The above command delivers the best reformulation candidates as the ACER queries using the above query difficulty model, and stores them as **test-acer-best-query** in the **ACER-query** folder.
 
-Q3. How to calculate the document retrieval performance of ACER queries?
+Q3: How to calculate the document retrieval performance of ACER queries?
 --------------------------
 ```
 java -jar acer-runner.jar  -task getACERPerformance -K 100 -queryFileKey test-acer-best-query
 ```
 The above command shows the Top-100 accuracy (a.k.a., Hit@100), MAP and MRR of the ACER queries
 
-Q4. How to calculate the document retrieval performance of ACER reformulation candidates?
+Q4: How to calculate the document retrieval performance of ACER reformulation candidates?
 -------------------------------------------
 ```
 java -jar acer-runner.jar  -task getCandidatePerformance -candidateKey method-sig -K 100
@@ -160,14 +160,14 @@ java -jar acer-runner.jar  -task getBaselinePerformance -K 100
 ```
 The above command shows the Top-100 accuracy (a.k.a., Hit@100), MAP and MRR of the baseline queries.
 
-Q6. How to determine the query improvement and worsening of baseline by ACER queries?
+Q6: How to determine the query improvement and worsening of baseline by ACER queries?
 -------------------------------
 ```
 java -jar acer-runner.jar  -task getACERPerformanceQE -queryFileKey test-acer-best-query
 ```
 The above command shows improvement, worsening and preserving of baseline queries by ACER 
 
-Q7. How to determine the query improvement and worsening of baseline by ACER candidates?
+Q7: How to determine the query improvement and worsening of baseline by ACER candidates?
 ------------------------------
 ```
 java -jar acer-runner.jar  -task getCandidatePerformanceQE -candidateKey method-sig
