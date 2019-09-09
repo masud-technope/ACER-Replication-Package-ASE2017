@@ -1,3 +1,29 @@
+@relation ACERQDMODEL
+
+@attribute bugid string
+@attribute avgIDF numeric
+@attribute maxIDF numeric
+@attribute stdIDF numeric
+@attribute avgICTF numeric
+@attribute maxICTF numeric
+@attribute stdICTF numeric
+@attribute avgEntropy numeric
+@attribute maxEntropy numeric
+@attribute medianEntropy numeric
+@attribute stdEntropy numeric
+@attribute QS numeric
+@attribute SCS numeric
+@attribute sumSCQ numeric
+@attribute avgSCQ numeric
+@attribute maxSCQ numeric
+@attribute avgVAR numeric
+@attribute sumVAR numeric
+@attribute maxVAR numeric
+@attribute avgPMI numeric
+@attribute maxPMI numeric
+@attribute classlabel {'1','0'}
+
+@data
 tomcat70-58582-method-sig	0.3652850119414323	1.0	0.2098181140104184	0.013127824483605735	0.2	0.04818430230515358	0.0	0.0	0.0	0.0	5.431830526887561E-4	1084.470274966429	43.133201534891136	2.537247149111243	3.8598850742037873	0.0	0.0	0.0	0.0	0.0	1
 eclipse.jdt.debug-47390-field-sig	0.33588456265934263	0.6409536052944207	0.21619290961920382	0.005265860379051633	0.01639344262295082	0.007014820752289226	0.0	0.0	0.0	0.0	0.0	1248.5398840901244	13.683465706760598	2.280577617793433	3.275833029446911	0.0	0.0	0.0	0.0	0.0	1
 eclipse.jdt.ui-266646-both-sig	0.34816726452438734	1.0	0.1964793557776328	0.0358664659345841	0.5	0.1335868996200485	0.0	0.0	0.0	0.0	0.0	10309.378854766412	40.37519020594174	2.8839421575672675	3.5868504368725427	0.0	0.0	0.0	0.0	0.0	0

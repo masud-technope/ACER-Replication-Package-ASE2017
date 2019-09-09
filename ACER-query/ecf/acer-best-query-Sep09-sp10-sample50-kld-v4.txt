@@ -1,0 +1,154 @@
+209410	bot	improve	documentation	feedback	error	handling
+275722	abstraction	ecf	service	ecf	item	log	trace	type	platform	filter	info	naming
+207372	bug	doc	remoteservices	create	test	code	code	documentation	listener	strategy	operations	model	iator	active	str	selection	local	oster
+313365	activate	apitooling	checks	task	editor	marker	open	init	pull	activation	shared	list	ening
+486675	bug	ecf	improve	server	side	keepalive	handling	server	search	container	group	user	tcp	groups	simple	ssl	rss
+19733	bug	content	assist	code	assist	closes	list	filter	items	item	command	list	content	commands	listener	privacy	response	filter	dialog
+288029	Bug	org	eclipse	ecf	provider	filetransfer	missing	tags	license	headers
+229921	missing	javadoc	statements	compiler	error	plugin	service	search	bundle	resource	fand	loading	issue	container	content
+230183	remotesvcs	remove	create	org	eclipse	ecf	discovery	identity	iserviceid	java	lang	string	service	discovery	container	endpoint	type	space	discovered	services	listener	connect
+266539	discovery	zeroconf	services	service	discovery	container	test	listener	services	type	register	connect	wait
+198193	Bug	IRC	support	special	characters	connecting	IRC	server
+244784	discovery	jslp	move	maintain	jslp	code	base	eclipse	org	service	discovery	context	bundle	locator	advertise	container	jslp	factory	type
+264242	Bug	Remove	Serializable	org	eclipse	ecf	core	util	Event	interfac
+194101	increase	user	info	pop	time	delay	listener	info	service	ion	ned	chats	config	event	listeners	host
+303667	Discovery	jSLP	Write	XML	report	tests
+371768	zoodiscovery	npe	unpublishing	service	service	data	log	server	configs	local	running	root	limit	host
+90428	Jabber	Provider	Character	allowed	Jabber	login	names
+302394	discovery	jslp	test	parser	bad	tags
+192573	bug	send	request	open	resource	fails	incorrect	message	message	search	local	chat	resource	object	event	send	client	container
+398676	bug	remove	system	property	change	protocol	service	file	registry	protocol	connection	proxy	context	response	tracker	transfer
+333137	Discovery	view	open	properties	view
+320081	discovery	add	functionality	insert	service	manually	discovery	service	container	methods	ping	hook	find	manager	test	description
+342352	tck	rsa	exports	properties	service	proxy	container	endpoint	registration	listener	export	tracker	factory	bundle
+220258	download	jobs	download	speed	file	pieces	hash	listeners	speed	piece	thread	text	digest	check
+473446	bug	xmpp	provider	generalize	xmpp	equals	include	resource	prefixes	xmpp	roster	container	manager	packet	google	server	listener	presence	helper
+302439	bug	discovery	jslp	tests	distributed	osgi	remote	services	service	discovery	context	bundle	locator	advertise	container	jslp	factory	type
+265312	discovery	jmdns	replace	binary	jar	sources	service	tracker	discovery	lifecycle	add	proxy	admin	factory	handler	work
+257381	discovery	reduce	bree	java	service	discovery	container	type	listener	methods	bundle	space	hook	find
+310114	bug	core	remove	dependencies	ecf	osgi	frameworks	work	services	service	list	search	bundle	sock	time	channel	remote
+292972	Bug	filetransfer	apply	additions	fixes	genuitec	patch
+389230	filetransfer	testcases	fails	references	files	archived	ecf	repositories	file	browse	drag	remote	system	chat	drop	access	browser	operation
+303215	Bug	update	examples	clients	examples
+193136	irc	add	irc	server	connect	irc	container	user	room	itation	tracker	registry	listeners	channel
+324215	remoteserviceadmin	remoteservices	implement	remote	services	admin	spec	endpoint	discovery	view	content	service	description	rsa	admin	viewer	tree
+238970	msn	cpu	usage	increases	connecting	listeners	msn	address	oster	history	ticket	ion	message	invalid	connect
+267390	file	based	discovery	service	log	data	file	rate	conf	zoo	configs	running	limit
+198012	provider	connect	receive	hyperlink	connect	shared	client	editor	collab	container	wizard	action	object	list
+238976	shared	editor	notification	connect	disconnect	connection	shared	connect	container	editor	client	manager	list	collab	chat	file
+408450	tck	workaround	slp	string	decoding	sig	erred	suspend	pref	length	buffer	encoding	bytes	num	lines
+266640	discovery	simplify	discovery	host	service	labels	service	ecf	discovery	adapter	create	query	test	type	connect	target
+338578	bug	docs	generate	ecf	javadocs	move	eclipse	org	message	docs	strategy	send	factory	service	tracker	chat	manager	container
+198043	open	contacts	dialog	doesn	recognize	users	groups	action	search	dialog	contact	roster	message	chat	manager	drop	acc
+249240	remotesvcs	Implement	RFC
+275359	remove	deprecated	methods
+194975	method	connect	providers	obvious	providers	manager	provider	extension
+321690	namespace	glitch	org	ecllpse	space	factory	string	namespace	create	external	extension	parameter	supported	file
+273819	Containers	instantiated	time	wizard	opens
+295335	Discovery	jSLP	Execute	OSGi	jUnit	tests	separately	collect
+321708	modularize	xmpp	provider	wrt	remoteservices	datashare	dependencies	time	work	services	service	channel	remote	xied	handler	usage	simple
+207530	bug	collab	cola	real	time	shared	editor	support	multi	character	operations	editor	shared	file	client	local	remote	change	open	collab	contribution
+225199	translation	clarification	org	eclipse	ecf	provider	filetransfer	file	socket	stream	host	setup	system	client	request	remote	pass
+244908	discovery	thread	safety	providers	icon	debug	providers	service	manager	info	thread	ger	bed	popup
+296107	discovery	jslp	discard	slp	protocol	messages	version	service	socket	discovery	daemon	slp	multicast	type	ion	erved	platform
+325813	remoteservices	provider	xml	rpc	provider	ecf	service	remote	servlet	rpc	client	supported	create	external	endpoint	command
+287666	releng	filetransfer	removed	javax	microedition	service	socket	factory	client	issue	info	context	connection	nected	protocol
+263858	bug	missing	project	specific	settings	connect	sound	search	combo	text	update	settings	chat	email	element
+316595	discovery	defer	service	retrieval	unit	tests	wizard	defer	methods	discovery	compare	directory	point	output	hook	array
+277176	service	discovery	view	working	osgiservices	endpoint	node	action	type	service	proxy	tream	async	label	discovery
+196541	wizards	Passwords	reset	user	input	username	field
+183492	ECF	Server	Application	launch	config
+410048	kepler	archive	ecf	builds	download	eclipse	org	file	text	info	manager	pass	torrent	password	user	hash	path
+472769	bug	improve	connect	handling	provider	server	socket	file	http	xmpp	room	response	relative	gzip	host	proxy
+221139	wizards	weak	mail	address	validation	user	field	caps	manager	work	listener	jid	room	info	ver	fields	anization
+265174	bug	visual	distinction	sync	diagrams	search	operations	message	connect	sync	manager	bundle	strategy	context	factory
+112597	bug	features	caps	data	service	info	node	weak	search	message	ver	persistent
+165082	partial	core	util	visibility	ecf	file	service	response	event	transfer	user	stream	header	connect	search
+218584	remoteservices	add	invoking	remote	methods	classes	service	registry	update	server	viewer	request	remote	connect	invocation	reg
+271323	Bug	improve	shared	object	API	performance
+249061	Bug	Support	client	demand	proxy	creation	XMPP	provider
+324333	bug	remote	service	exception	client	timeout	http	file	response	connect	socket	proxy	config	timeout	helper	transfer
+192756	irc	channel	join	rid	entered	spam	channel	user	room	connect	container	message	irc	handle	send	chat
+420858	osgi	sync	net	ecf	codebase	service	executor	listener	sync	remote	strategy	call	tracker	async	offset
+180751	bug	multirostercontentprovider	objects	tacked	shared	object	search	type	container	wait	content	sig	osent	client
+202772	broken	statement	pubsub	node	cont	acts	pub	map	space
+280601	bug	removepresencelistener	adds	listener	removing	listener	presence	roster	event	listeners	request	notification	manager	work	torrent
+333850	osgi	Remote	service	remote	reference
+187936	bug	ichat	provide	simpler	sending	chat	messages	message	chat	send	news	data	groups	javadoc	comma	analyzer	nds
+482862	bug	bundle	loadclass	prevention	java	deserialization	attacks	service	message	manager	search	bundle	discovery	container	listener	strategy	send
+312363	bug	remoteservices	osgi	incomplete	handling	proxy	clean	listener	container	service	http	file	socket	remote	context	system	proxy
+332851	discovery	zoodiscovery	servicename	serviceinfo	unset	causing	npe	service	discovery	site	advertise	info	instance	notification	live	count	thread
+406064	discovery	zoodiscovery	high	cpu	percentage	server	client	zookeeper	service	data	log	server	configs	local	running	root	limit	host
+280132	bug	remoteservices	exception	thrown	timeout	include	info	ount	acc	liant	service	rec	shared	test	creation	post	head
+232006	connect	xmpp	chat	room
+199259	discovery	serviceinfo	constructors	cumbersome	service	time	expect	discovery	info	instance	count	thread	notification	type
+256605	discovery	remotesvcs	replace	serviceaccesshandler	command	handler	based	approach	service	input	handler	chatroom	image	menu	command	message	registry	context
+320612	discovery	unit	tests	fail	broken	detection	external	address	res	factory	socket	idnamespace	container	directory	uri	output	add	ses
+285801	bug	remove	unnecessary	host	lookups	list	cache	socket	file	host	create	str	http	relative	search
+485482	bug	remove	code	org	eclipse	ecf	provider	discovery	service	discovery	node	published	services	properties	container	test	reference	info
+331383	remote	services	java	primitives	fail	service	test	remote	filter	client	register	services	connect	endpoint	container
+318075	discovery	whitespaces	allowed	property	service	test	discovery	property	services	time	container	connect	ecf	compare
+408185	bug	tck	bug	handling	multiple	versioned	exports	single	listener	room	search	bundle	multiple	address	manager	strategy	tracker	factory
+171138	collection	created	IContainers	needed
+125572	ecf	provider	thread	interlock	message	create	thread	accept	shared	socket	event	object	messages	pos
+292995	timeout	number	huge	httpclient	download	pieces	file	hash	listeners	connect	piece	connection	digest	speed	thread
+224907	translatable
+280205	bug	installer	fails	install	large	products	repositories	artefacts	compressed	pack	receive	file	sig	start	offset	test	reader	listener	executor	packet
+234142	Bug	modelsync	DocShare	plug	split	core
+316071	bug	problem	registering	finding	remote	services	service	endpoint	remote	container	services	filter	reference	local	description	mode
+471213	bug	bug	activator	registry	socket	http	file	message	relative	search	method	gzip	transfer	connect
+314558	discovery	dns	add	api	checks	test	suite	discovery	listener	failed	test	tis	stical	tical	lock	loc	adv
+176322	Bug	Refactoring	move	Eclipse	runtime	bundle
+313029	bug	httpclient	http	content	iso	utf	test	file	request	receive	connect	http	response	header	connection	host
+265408	discovery	composite	compositeservice	containerevent	api	discovery	methods	container	test	hook	find	service	registration	left	ecf
+218308	bug	discovery	jslp	org	eclipse	ecf	discovery	idiscoverycontaineradapter	getservices	doesn	reachable	services	service	container	discovery	time	type	instance	registered	red	notification	cat
+166603	Bug	Authentication	failure	returned	client
+278222	bug	core	improve	error	message	container	type	message	attr	service	chat	container	error	send	data	additional	values
+327379	iremotecallfactory
+267481	server	supporrt	remoteservice	container	adapter	server	service	simple	remote	container	reference	server	ssl	tracker	registration
+337624	discovery	zoodiscovery	silencing	zookeeper	startup	publish	shutdown	service	log	data	write	node	zoo	bundle	stopping	conf	root
+499942	bug	osgi	remoteservices	incompability	osgi	registered	services	endpoint	service	remote	listener	registered	container	manager	context	attributes	event
+219878	core	deprecated	Eclipse	LazyStart	manifest	entries
+273135	logservice	implementation	misses	details	logging	service	cache	connection	list	factory	tracker	description	type	registration	pad
+499946	bug	remoteservice	osgi	remote	service	unregistration	clean	properly	remote	service	endpoint	writer	description	format	simple	reference	event	export
+337653	Bug	remoteserviceadmin	discovery	add	support	allowLoopbackReference	endpointListenerScope	system	properties
+478452	bug	npe	abstracttopologymanager	shutdown	socket	factory	service	packet	search	bundle	test	listener	helper	endpoint
+223484	threads	remain	disconnect	xmpp	server	ping	packet	connection	manager	listener	container	xmpp	compression	listeners	thread
+181506	migrate	presence	providers	messagesview	search	message	dialog	chat	connect	contact	tab	column	workbench	request
+327936	bug	remoteservices	remove	obsolete	classes	node	endpoint	type	search	label	async	service	content	discovery	sock
+264962	Bug	PersistenceContext	annotated	field	Entity	EntityManagerSetupException
+404763	support	usage	ecf	remote	services	service	remote	container	services	connect	context	registration	listener	create	method
+328999	discovery	resilient	broken	hostnames	service	discovery	comparator	cont	acts	locator	properties	container	lock
+400164	bug	add	api	customization	proxy	creation	response	proxy	host	file	connect	stream	connection	request	http	event
+269091	incorrect	file	requests	address	host	socket	proxy	tream	connect	listener	server	addr	connection	timeout	listeners
+341818	bug	rosgi	system	thread	resources	osgi	provider	socket	sock	proxy	config	helper	service	manager	ecting	web	event
+257864	turn	checked	runtime	exceptions	event	distributed	test	admin	send	dec
+339790	bug	remoteservices	registry	start	remote	service	ids	registry	endpoint	action	update	request	connect	service	desc	reg	queue
+233808	discovery	slp	org	eclipse	ecf	tests	discovery	discoverytest	testaddservicelisteneriservicetypeidiservicelistener	fails	slp	provider	service	discovery	test	time	container	trace	enabled	failer	gram	add
+216405	migrate	jslp	contribution	ecf	osuosl	org	dev	eclipse	org	wizard	service	contribution	selection	workbench	type	item	parent	element
+256853	remoteservices	insufficient	cleanup	registrysharedobject	handlecallresponse	service	shared	registration	registry	object	impl	adapter	remote
+207706	xmpp	XMPPContainers	registered	IPresenceServices
+339291	bug	server	add	convenience	api	receive	file	session	contact	user	test	buddies	sig	board	response
+251740	filetransfer	plan	create	filetransfer	provider	httpclient	socket	http	proxy	config	helper	head	sock	factory	event	connecting
+473443	bug	base	classname	disambiguated	java	message	res	list	ant	send	iator	instant	object	chat	shared
+234342	bug	improved	retrieval	remote	filename	file	bundle	stream	transfer	flexible	status	message	description	endpoint	disposition
+327029	osgi	remotesrvs	smart	proxy	delegate	original	method	service	visit	proxy	remote	async	method	insn	call	invoke	container
+246155	support	multiple	user	log	ins	username	password	file	test	host	ount	proxy	prompt	stream	mechanisms	sasl	acc
+197007	ichatroomcontainer	getcurrentparticipants	room	structured	manager	chat	selection	view	container
+321428	remotesrvc	osgi	distributionprovider	tests	leave	service	registered	test	failure	test	service	failed	discovery	remote	tis	methods	stical	tical	directory
+411543	Bug	Imports	org	xml	javax	xml	manifest
+174480	missing	nls	message	service	work	services	list	search	time	resource	bundle	channel	remote
+266140	httpfileretrievetransfer	detect	malformed	url	server	max	simple	type	imum	file	service	tmp	user	info
+254872	convert	org	eclipse	ecf	core	identity	idcreateexception	runtimeexception	discovery	container	service	object	shared	factory	iid	red	names	paces
+384431	bug	provider	prints	error	message	log	unnecessarily	conditions	socket	manager	bundle	plugin	factory	tracker	daemon	slp	helper	multicast
+321469	bug	remoteservices	osgi	improve	clean	discoveredservicetracker	service	container	sig	remote	listener	properties	string	context	offset	discovered
+264126	BREE	include	Foundation
+337345	bug	remoteserviceadmin	service	info	publish	endpointdescription	service	tracker	registration	container	endpoint	listener	description	locator	bundle	proxy
+223178	bittrrent	displayed	drop	list	connect	provider	button	tool	bar	action	viewer	chat	text	room	drop	acc	roster	button	table
+433111	bug	tck	handling	multiple	exports	servicereference	correcting	service	tracker	container	factory	existing	proxy	map	imports	remote	admin
+223207	filetransfer	api	handling	lastmodified	timestamp	file	http	socket	event	browse	system	proxy	config	helper	head
+329197	compiler	errors	projects	osgi	api	endpoint	output	ening	sync	acc	eptor	server	shared	projects	block
+471541	bug	classcastexception	junit	integration	tests	sleep	output	time	directory	advertise
+198132	bug	irc	client	occassionally	manager	room	hyperlink	action	text	label	type	message	view	chat
+221177	obtaining	remote	file	file	remote	browse	listener	system	connect	content	unknown	iscover	type
+315897	org	eclipse	ecf	filetransfer	incomingfiletransferexception	file	response	transfer	file	connect	proxy	factory	container	retrieve	events	code

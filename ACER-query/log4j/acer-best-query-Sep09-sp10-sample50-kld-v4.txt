@@ -1,0 +1,28 @@
+36800	bug	find	replace	find	replace	dialog	retain	previous	replace	text	color	test	format	time	writer	create	text	layout	request	event
+41156	log	threads	reasonable	names	bean	gram	names	time	num	enabled	appenders	mode	cat	quiet
+41476	bug	cvs	repository	explorer	fails	filename	colon	character	file	method	pattern	info	time	writer	logger	rolling	policy	factory
+32582	bug	logical	physical	mapping	problem	model	element	files	problem	ion	output	multicast	logger	factory	appender	list	table	handler	icon
+46983	bug	generalize	type	meaning	grey	tree	entries	test	top	file	check	rolling	error	throwable	format	layout	policy
+49812	Bug	Choosing	bean	component	palette	takes	time
+44386	bug	bookmarks	bookmark	single	click	test	bad	appender	debug	string	pattern	info	logrb	log	trace
+42281	Unit	tests	fail	java	gcj	JRockit
+43113	move	log	branch	log	trunk	log	pattern	info	monitor	msg	handler	string	jdbc	error	enabled
+42283	eclipse	java	compiler	warnings	usused	imports	members	serializationuid	file	appender	pattern	test	add	logger	key	debug	parse	renderer
+49003	bug	move	members	open	reveal	moved	method	refactoring	test	pattern	appender	file	log	buffer	error	logger	add	info
+40951	log	release	monitor	host	facility	syslog	ion	output	buffer	header	multicast	appender
+41219	stacktraces	exceptions	disappear	occsionally	pattern	test	buffer	writer	layout	expected	stack	info	entry	database
+48784	links	code	broken	javadocs	renderer	logger	file	level	time	fered	ted	appender	attach	simple
+45982	support	layout	specification	output	mdc	key	pairs	pattern	lookup	key	logger	info	time	method	copy	mdc	handles
+34874	bug	context	menu	ijavavariable	ijavainspectexpression	ijavawatchexpression	lookup	pane	binding	topic	queue	info	method	security	file	policy
+37182	exception	exception	tostring	log	fail	binding	topic	queue	security	gram	pkg	url	factory	connection	syslog
+50238	bug	implementation	install	informationpresenter	uninstall	test	appender	logger	pattern	file	bad	error	location	log	deserialization
+45636	tests	datelayout	failing	ill	initialized	dateformat	test	format	time	option	layout	pattern	expected	cache	position	zone
+17862	version	getversion	method	requested	method	info	key	multicast	location	server	monitor	buffer	writer	string
+41565	Timezone	specifier	pattern	layout	reported	work
+44644	contenttype	layout	text	html	file	type	uting	comp	server	parent	string	foo	path	ignores
+28647	add	flush	level	capability	fileappender	file	event	ion	output	multicast	fered	add	uting	pattern	comp
+46574	bug	unabled	collect	object	reference	properly	appender	test	event	remove	thread	writer	map	renderer	request	add
+50287	bug	editormgmt	support	opening	external	editor	istorageeditorinput	file	lookup	logger	buffer	info	fered	policy	multicast	time	server
+42099	expressionfilter	backport
+35831	log	build	jdk	method	info	broadcaster	writer	bean	attributes	trace	logger	repository	visual
+42108	loggingevent	accessors	compatible	log	test	pattern	size	cell	table	event	num	buffer	count	icon
