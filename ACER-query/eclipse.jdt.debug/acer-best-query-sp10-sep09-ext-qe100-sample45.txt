@@ -1,0 +1,154 @@
+170502	bug	source	lookup	launching	string	variables	bootpath	launch	dialog	stay	source	library	launch	location	java	install	button	problem	directory	working
+78853	bug	variable	assignment	type	mismatch
+335363	add	java	exception	breakpoint	dialog	truncated	text	checkboxes	font	size	increased	viewer	button	text	type	attribute	handler	selection	listener	table	filter
+229380	Bug	buttons	incorrectly	enabled	classpath	tab
+13834	bug	breakpoints	external	source	source	classpath	library	external	breakpoint	test	path	button	root	detect
+495641	bug	pngs	jdt	jdt	doc	plugins	install	classpath	path	source	debug	root	map	java	rule	entry
+112670	bug	toggle	selection	treeitem	variables	view	action	breakpoint	selection	add	delete	variable	display	input	pane	jar
+43554	bug	creating	breakpoint	method	signature	method	entry	breakpoint	type	test	breakpoint	method	java	entry	request	create	declaration	pattern
+10282	bug	rendering	changed	variables	viewer	type	column	attribute	logical	button	java	map	content	install
+13364	bug	visual	indication	breakpoint	condition	condition	handler	java	view	redo	undo	compiled	action	history	viewer
+255031	bug	missing	ees	prevent	project	build	classpath	perspective	debug	java	project	test	types	changed	listener	close
+37942	bug	launch	config	dialog	determine	full	location	jars	listed	classpath	create	launch	breakpoint	classpath	java	project	main	button	debug	tab
+300614	bug	hit	count	field	small	settings	detail	pane	pane	java	type	reference	ters	dead	lock	init	ializers	format
+472657	redundant	type	arguments	highter	warning	ignore	status	start	library	variable	method	instruction	complete	snippet	list	detect
+9825	bug	action	icon	inconsistencies	test	classpath	create	text	editor	stack	launch	java	setup	change
+33893	bug	preference	existant	jres	property	library	java	current	install	location	compliance	workspace	combo	create
+268393	bug	debugger	letting	change	string	breakpoint	java	changed	debug	perspective	test	install	suspend	conditional	view
+78449	bug	closed	project	error	message	problems	action	breakpoint	evaluation	java	selection	add	debug	launched	snippet	filters
+29297	bug	debug	honor	multiple	output	folders	arg	test	source	input	output	object	handshake	type	impl	console
+187000	bug	debugger	looses	selection	focus	lot	thread	stack	debug	condition	context	editor	window	property	selection	text	evaluation	step	java
+17025	bug	adding	jres	button	selection	location	table	container	label	java	jre	block	library
+173187	bug	breakpoint	unclear	refactoring	java	element	destination
+54407	bug	pass	properties	files	java	label	classpath	library	tab	applet	main	install	rule	resolution
+77449	bug	user	monitor	info	unavailable	library	install	java	path	changed	monitor	launch	thread	location	column
+142476	bug	tvt	tct	text	boxes	ovelap	borders	test	library	java	location	breakpoint	entry	install	control	working	text
+324246	pass	project	classpath	external	programs	defined	builders	classpath	path	source	label	java	rule	launch	entry	entries	annotations
+64663	Bug	variables	Variables	Change	accept	hex
+275614	bug	regression	threads	longer	expanded	debug	view	visible	annotation	listener	thread	java	table	viewer	debug	expandable	rule	composite
+1695	bug	dcr	support	process	thread	specific	breakpoints	giyjtq	test	breakpoint	thread	supports	type	filter	event	java	method	create
+31907	bug	java	variable	settings	row	column	selection	viewer	button	test	conditional	text	create	pane	type
+92838	bug	api	add	missing	tags	api	cycles	exported	display	path	variable	entries	monitors	removed	tree	changed	testing
+53929	Bug	Classpath	tree	entries	FULL	path
+72371	bug	streams	left	open	exception	test	java	perspective	library	install	column	location	system	event	selection
+16063	bug	preference	size	java	perspective	logical	debug	library	viewer	control	view	create	close
+13015	Bug	stepping	conditional	breakpoint
+349400	Add	Java	support	Debug
+7392	bug	jdithreads	responding	startup	supports	hot	java	thread	step	debug	suspend	list	options	project
+52964	bug	persist	size	debug	pop	size	request	java	step	monitor	thread	type	stack	evaluation	location	event
+7404	bug	add	filter	step	filtering	broken	filter	step	button	supports	filters	test	hot	java	stack	input
+330987	missing	tags	increment	bundle	version	create	version	java	list	parse	connectors	bundle	install	request	classpath
+32494	bug	insp	display	actions	menu	enabled	scrapbook	snippet	selection	action	launched	evaluation	java	open	display	debug	source
+248054	bug	breakpoint	annotation	highlighted	annotation	button	listener	library	thread	java	type	viewer	content	method
+94452	bug	timeout	exceptions	suspend	open	compilation	field	debug	timeout	prompt	integer	button	alert
+400636	codeassist	work	display	view	action	pane	inspect	model	display	presentation	source	handler	document	rule
+52474	bug	blocked	opening	java	perspective	cvs	check	test	perspective	launch	java	view	remove	debug	annotation	open	shortcut
+33534	bug	ant	editor	range	indication	supported	suspend	eval	debug	combo	tab	compilation	dynamic	timeout	prompt	working
+57598	bug	remove	scrapbook	toolbar	button	button	java	filter	table	breakpoint	viewer	selection	working	editor	listener
+40707	bug	breakpoint	remains	enabled	disabling	setting	hit	count	java	suspend	count	compiled	enabled	debug	thread	event	installed	breakpoint
+8458	bug	inspect	action	variables	view	init	ializers	ters	format	dead	lock	eval	model	presentation	debug
+94474	bug	unable	change	source	attachment	jre	jar	library	java	path	button	source	location	lib	classpath	annotations	label
+16152	bug	nls	pass	library	java	location	archive	resolve	root	path	lib	install	candidate
+29474	bug	contributions	context	menu	contributions	support	visibility	element	snippet	action	selection	launched	evaluation	java	open	display	source	listener
+124203	bug	view	management	respect	debug	context	manager	breakpoint	create	context	debug	launch	java	action	project	perspective	view
+15662	bug	display	label	java	classpath	launch	selection	tab	system	button	resolution	main
+15667	Bug	Adding	Jar	src	lookup	path	remote	launch
+21823	bug	java	debug	model	adapters	test	type	label	conditional	breakpoint	workbench	method	thread	error	presentation
+9026	bug	compilation	error	breakpoints	showing	breakpoints	view	handler	java	view	evaluation	debug	redo	undo	loaded	config	options
+77125	bug	preference	suspending	breakpoint	breakpoint	java	create	test	debug	perspective	step	error	filter	label
+125771	bug	unable	create	method	breakpoints	external	source	action	breakpoint	java	classpath	source	label	selection	add	delete	method
+414029	adapt	platform	debug	api	java	editor	library	selection	test	type	ins	manager	max	reference
+369480	bug	fixed	bug	launchingsupport	jar	compatible	jre	recognized	latest	builds	library	java	location	path	jar	filter	resolve	lib	external	archive
+27989	bug	provide	verification	launch	configuration	api	source	proj	configuration	java	jar	lookup	listener	check	launch	project
+208744	breakpoints	unable	watchpoints	field	declarations	type	breakpoint	method	field	declaration	expression	access	create	watchpoint	statement
+120170	bug	breakpoints	external	source	source	classpath	library	external	breakpoint	test	path	button	root	detect
+34670	bug	java	launch	configs	delete	key	event	lists	classpath	tab	classpath	tab	java	label	parameters	map	launch	arguments	install	applet
+144253	bug	source	lookup	stack	frame	change	events	longer	force	source	lookup	java	options	label	suspend	exception	jar	step	lazy	source	active
+53634	bug	jre	libraries	don	work	running	application	library	java	classpath	location	test	label	source	libraries	tab	path
+31110	bug	debbugger	source	lookup	work	variables	java	label	classpath	tab	system	applet	main	resolution	parameters	launch
+463252	Bug	Compile	log	warning	JDT	Debug
+12695	Bug	full	breakpoints	hit	thread
+73624	Bug	Don	prompt	main	main	selected
+43418	bug	busy	cursor	choosing	jre	base	directory	library	column	location	install	selection	java	directory	changed	system	change
+9122	bug	debugging	extremally	slow	latest	test	monitor	java	source	method	request	values	step	filter	frame
+19363	bug	missing	wizard	banner	library	container	source	java	classpath	container	type	environment	location	connector	library	launch
+50086	bug	enhanced	evaluation	support	type	thread	step	method	supports	declaration	expression	suspend	java	stack
+421806	debug	support	java	test	launch	mode	debug	breakpoint	create	java	perspective	shortcut	path
+9649	bug	rebuild	returns	java	library	source	location	test	install	type	directory	breakpoint	types
+108473	bug	performance	performance	eclipse	severely	degrades	time	breakpoint	warm	performance	runs	measured	min	war	java	count	hit
+8634	bug	exception	breakpoints	persisted	listener	workbench	window	test
+60364	bug	debug	deprecated	runtime	code	marker	exception	att	ach	resolution	core	snippet	instructions	errors	ner
+109009	bug	tests	breakpoint	export	test	breakpoint	type	eval	conditional	method	compilation	wizard	condition	tests
+181204	bug	launching	context	launching	resource	based	objects	source	classpath	library	path	install	launch	project	changed	java	debug
+64984	bug	inspect	doesn	work	display	view	changed	debug	evaluation	java	editor	context	working	text	selection	snippet
+212442	bug	failing	importbreakpoints	tests	listener	working	test	values
+70627	bug	jdi	jdwp	enhancements	varargs	print	reply	command	type	method	reference	output	thread	jdwp	file
+42984	bug	working	directory	args	ant	processes	source	java	container	launch	arguments	working	classpath	type	block	connector
+22005	bug	review	runnables	step	test	thread	stack	suspend	breakpoint	evaluation	breakpoints	current	frame
+394225	bug	display	evaluates	incorrectly	install	type	status	composite	connector	multi	ivm
+343039	turn	monitors	thread	java	monitor	display	owned	map	hash	base	debug	waiting
+110074	bug	breakpoints	breakpoint	working	working	values
+167426	bug	instructionpointercontext	reference	closed	editor	java	listener	action	launched	annotation	snippet	evaluation	display	thread	source
+24579	bug	deadlock	checkout	java	project	java	image	breakpoint	thread	text	type	test	append	debug	monitor
+33292	bug	source	selected	element	java	snippet	editor	type	java	selection	changed	snippet	text	editor	evaluation	attribute	debug
+184862	bug	evaluation	evaluation	method	generics	work	evaluation	breakpoint	step	create	thread	type	eval	stack	launch	debug
+1569	bug	inspect	context	inspect	result	gdknz	evaluation	java	changed	debug	editor	inspect	context	expression	snippet	display
+16930	bug	eval	incompatible	thread	test	thread	eval	object	reference	force	err	type	impl	frame
+245793	bug	eclipse	variables	editing	jre	preferences	entry	path	jre	container	classpath	resolve	library	map	install	change
+28195	bug	npe	shutdown	debug	remote	launch	source	java	classpath	label	container	launch	connector	tab	environment	system
+26159	bug	npe	evaluating	snippet	anonymous	type	evaluation	expression	eval	java	declaration	changed	build	method	snippet
+10811	bug	deregistered	launches	removed	javahcrmanager	debug	annotation	call	detail	map	evaluation	thread	listener	loaded	config
+296505	bug	applet	parameters	trailing	spaces	java	launch	parameters	tab	classpath	label	applet	system	resolution	main
+171075	Bug	Java	Editor	Disconnecting	Debug	Session
+13909	bug	inconsistent	margins	preference	block	working	type	java	profiles	location	label	expecting	jre	preference
+161364	bug	evaluating	code	generics	work	debugging	eval	model	presentation	debug	window	workbench	action	region	uating	target
+228985	bug	jrespreferencepage	java	resizing	problem	java	evaluation	location	jre	label	block	library	debug	container	list
+148615	bug	junit	junit	recognize	junittestcase	test	superclass	test	method	print	build	setup	suite	element	project	stack	type
+9861	bug	click	work	strings	scrapbook	event	column	selection	handshake	button	launch	create	debug	list	thread
+22662	bug	iclasspathcontainerpage	context	build	path	project	java	breakpoint	create	perspective	launch	debug	build	changed	classpath
+1674	bug	values	method	params	nee	parameters	classpath	java	tab	label	applet	system	reference	resolution	event
+71824	bug	choice	stratum	stepping	reference	step	type	file	stack	thread	evaluation	java	method	argument
+145553	bug	variables	modify	string	variable	empty	string	change	dialog	test	button	dialog	type	project	create	attribute	viewer	java	variable
+211625	option	omit	xstartonfirstthread	swt	projects	macos	classpath	path	add	runtime	container	install	java	create	changed	library
+145592	bug	debugger	confused	watchpoints	fields	breakpoint	method	type	output	supports	java	object	filter	field	hot
+261837	bug	runtimeprocess	synchronize	access	fterminated	fexitvalue	evaluation	step	thread	stack	java	suspend	frames	debug	classpath	ening
+19157	bug	javamethodbreakpoints	hold	debug	targets	test	type	debug	changed	method	location	types	replace	source	java
+414939	bug	error	checking	org	eclipse	debug	examples	mixedmode	step	thread	evaluation	stack	java	frame	plugin	install	object	debug
+232699	bug	tvt	tct	tvt	space	missing	colon	sign	french	current	defined	type	java	fragment	file	ast	sha	erisk	source
+11514	bug	feature	support	jsp	debugging	library	type	test	location	java	version	install	pattern	image	method
+4348	bug	resourcemarkerannotaionmodel	unnecessary	firemodelchange	test	type	conditional	location	eval	condition	breakpoint	method	compilation	working
+18174	bug	quotes	execution	arguments	java	launch	arg	test	working	source	configuration	debug	string	file	tab	location
+24839	bug	timeoutexception	debugging	org	eclipse	tests	monitor	handshake	test	request	source	timeout	impl	method	list	argument
+320269	update	jre	javadoc	links	sun	oracle	library	button	java	viewer	lib	location	console	install	resolve	filter
+117516	bug	jdt	java	agnostic	test	type	conditional	eval	breakpoint	method	compilation	tests	condition	working
+46871	bug	console	buffer	size	limit	test	arg	console	source	java	path	library	property	setup	event
+47390	bug	deprecated	api	searchengine	search	type	java	input	matches	runnable	debug	element	subtypes	file
+23328	bug	resume	fails	suspend	breakpoint	stepping	bug	step	stack	thread	evaluation	suspend	frames	lock	async	init	ializers
+491299	bug	classpath	tab	java	application	wrong	colors	classpath	tab	label	java	launch	system	main	applet	resolution	parameters
+260402	bug	conflits	jre	solved	correctly	library	java	test	location	classpath	system	install	container	environment	directory
+54579	Bug	Progress	indicator	flashes	console	output
+165174	bug	viewers	selection	lost	launch	view	stepping	sync	block	perspective	test	column	selection	changed	view	java	classpath	launch	project
+12598	bug	launch	config	tab	group	api	inconvenience	tab	java	update	project	create	config	configuration	launch	viewer	handle
+428862	bug	unable	install	breakpoint	launch	java	library	debug	install	location	directory	suspend	problem	path
+88923	bug	evaluation	evaluations	create	compiled	expression	thread	detail	evaluation	breakpoint	java	debug	type	condition	suspend	runtime	thread
+79706	bug	detail	formatter	fails	simple	java	viewer	debug	handler	formatter	type	preference	breakpoint	formatters	detail
+94047	actionsets	classpath	toolbar	shudders	opening	classpath	variables	preference	entry	classpath	jre	java	debug	install	change	adapter	map	path
+12640	bug	workspace	runnable	correctly	java	create	evaluation	thread	test	breakpoint	snippet	changed	event	add
+86887	bug	conditions	work	jsp	breakpoints	test	condition	breakpoint	property	breakpoints	method	viewer	type	undo	pattern
+29036	bug	npe	debugging	java	reference	object	type	array	instances	preference	root	jdi	turn
+53102	bug	breakpoint	installed	accepted	location	verification	debug	java	installed	event	target	breakpoint	callbacks	filters	instance	enabled
+10096	bug	eclipse	aware	launched	jvm	jrockit	library	install	java	location	parse	debug	path	directory	file	program
+13684	bug	coreexception	thrown	project	project	breakpoint	java	type	create	launch	debug	test	path	classpath
+12665	bug	classnotloaded	jdi	exception	conditional	breakpoint	java	breakpoint	step	thread	stack	evaluation	suspend	compiled	lock	frames
+53115	bug	contribute	remote	ant	support	extraclasspathentry	java	source	container	type	classpath	launch	connector	open	environment	location
+76675	bug	pattern	matching	independent	ioconsole	ioconsolepartitioner	java	debug	method	source	event	lines	fragment	pattern	type	console
+177542	bug	nls	translation	questions	file	reference	java	method	library	location	jar	visible	info	resolve
+57257	bug	arrayoutofboundsexception	debug	event	dispatch	event	debug	dialog	expecting	thread	console	lock	spec	tives	map
+6063	bug	snippet	display	javasourceviewerconfiguration	eval	text	snippet	evaluation	java	editor	changed	selection	display	debug
+16313	bug	npe	standardsourcepathprovider	reference	java	type	object	classpath	runtime	array	entry	instances	preference
+56252	Bug	Console	support	enabled	disabled	lifecycles
+42429	bug	escaping	quotes	test	arg	conditional	label	eval	condition	type	breakpoint	debug	string
+12740	bug	wierd	behavior	debugging	standalone	swt	filter	arguments	table	editor	breakpoint	viewer	java	thread	add	content
+339414	heapwalking	manager	support	debug	targets	provide	ijavadebugtarget	adapter	breakpoint	target	java	debug	list	thread	changed	test	create	mode
+181220	bug	variable	text	font	update	correctly	columns	turned	viewer	button	formatter	arguments	table	label	qualified	model	text	configuration
+72169	bug	debug	context	thread	evaluation	test	java	perspective	eval	type	debug	source	file	expression
