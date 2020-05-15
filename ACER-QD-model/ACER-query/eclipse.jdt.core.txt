@@ -1,0 +1,198 @@
+74753	bug	codeassist	failing	type	parameter	type	test	element	field	info	method	report	inference	unit	create
+482309	bug	organize	imports	work	accessible	binary	types	type	test	imports	find	method	completion	types	annotation	source	create
+419331	compiler	weird	error	reference	type	annotations	type	parameter	declarations	type	consume	method	annotation	declaration	annotations	enum	source	header	field
+403457	compiler	npe	wildcardbinding	signature	type	consume	binding	annotation	match	file	array	method	declaration	parameterized
+33806	bug	code	assist	failure	assignment	loop	hides	previous	variables	type	container	classpath	cache	variable	save	expression	external	record	add
+425493	bug	compiler	regression	test	compiler	expected	output	manifest	method	classpath	string	cascaded	work
+427538	bug	infrastructure	enable	completiontests	resolvetests	rtstubs	jar	test	path	jar	compiler	expected	list	add	output	model	tests
+23573	bug	ast	clone	source	locations	type	annotation	build	locations	project	structural	java	element	location	classpath
+426515	dom	ast	bindings	reconciler	missing	type	annotations	binding	type	parameter	types	element	problem	declaring	member	working	copy
+71705	codeassist	failure	simple	test	element	test	failure	view	count	annotation	comment	progress	level	formatter
+430108	bug	type	wizards	creating	pkg	type	pkg	result	code	error	type	test	source	resource	path	java	types	find	compilation	method
+388634	test	failure	compliance	compliance	javac	eclipse	java	compliance	test	output	path	type	bug	root
+336934	compiler	npe	scope	gettypeorpackage	type	inference	code	binding	access	scope	print	qualified	constructor	synthetic
+405038	bug	formatter	infix	expression	formatting	broken	spaces	binary	wrap	hold	formatter	indent	width	info	event	store	erred	measuring
+412726	api	checking	anonymous	creation	corresponds	functional	type	declaration	field	source	property	list	unit	anonymous	binding	constants
+149562	bug	small	problem	enumerations	statements	type	method	problem	element	field	arguments	source	code	declaration	scope
+420413	dom	ast	ast	newarraytype	type	create	dimension	array	imports	node	property	modification	compilation	simple	type	list	context	kind
+405051	javamodel	refreshexternalarchives	happen	search	primed	paths	java	array	path	search	projects	project	enclosing	access	rule
+416313	compiler	typeids	unique	plausibly	broken	cherry	picking	type	method	binding	problem	types	unit	missing	lookup	annotation	options
+383046	compiler	error	reported	lambda	expression	subsequent	parse	error	error	stack	element	method	block	node	paren	length	ptr	source
+152135	bug	breakpoints	hovering	conditional	breakpoint	condition	type	code	field	scope	expression	mark	info	optimized	variable	status
+178760	bug	copy	paste	mechanism	work	test	type	compiler	file	operation	processor	java	javac	post	job
+405069	compiler	codegen	generate	code	method	references	synthetic	binding	source	max	references	reference	ward	receiver	type	write
+39499	bug	keyword	completion	work	anonymous	classes	completion	start	signature	declaration	names	type	receiver	additional	flags	required
+385111	compiler	compiler	fails	flag	undefined	annotation	type	type	method	annotation	field	reference	error	expression	invalid	illegal	variable
+41554	bug	assertion	failure	search	test	type	dir	failure	inference	assertion	string	time	tree	log
+464977	bug	compiler	deprecated	bit	report	type	annotation	lang	method	acc	parameter	local	exception	unused
+426590	compiler	compiler	error	tenary	test	error	tags	method	constructor	missing	deprecated	field	compiler	support
+234074	bug	compliance	test	fails	launched	jre	dcompliance	test	file	path	compiler	processor	output	print	string	javac	expected
+410207	bug	compiler	incorrectly	reports	error	message	resolved	indirectly	referenced	required	files	test	type	classpath	output	project	expected	check	compiler	missing	string
+403036	bug	wrong	message	content	javadoc	string	level	supporting	fragment	java	rprocname	original	source	message	jdk
+451677	bug	compiler	missing	type	inference	type	inference	method	expression	check	argument	binding	code	annotations	constructor
+438875	bug	correct	project	file	encodings	unix	delimiter	test	type	source	comment	declaration	verify	binding	expression	compiler	compilation
+407131	dom	ast	astrewrite	support	referenceexpression	nodes	family	node	property	copy	edit	event	bindings	source	ast	comment	range
+418919	compiler	internal	remove	forcing	creation	annotated	bindings	type	binding	source	annotation	unit	types	lookup	array	node	scope
+421473	compiler	delayed	assignment	declaring	scope	arguments	creates	race	condition	type	expression	field	inference	reference	invocation	variable	scope	local	check
+385132	compiler	syntax	error	arrow	colon	colon	shouls	type	expression	consume	array	test	declaration	create	reference	handle	annotation
+417388	typebinding	typereference	parameter	type	annotations	type	annotation	inference	check	bound	annotations	resolve	binding	scope	element
+420458	dom	ast	jls	astparser	multi	dimensional	array	reference	javadoc	format	node	property	compilation	list	ast	options	source	marker	modification
+420456	aioob	analysis	code	type	statement	expression	test	code	check	binding	save	comp	scope
+416886	dom	itypebinding	qualifier	qualifiedtypereference	wrong	type	annotation	test	verify	binding	imports	annotations	source	binary	add
+17531	bug	globalactions	file	save	fails	entering	valid	file	container	classpath	save	type	cache	external	java	variable	test	existing
+416379	parser	type	annotations	type	methods	type	test	method	declaration	source	search	element	enum	constructor	scope
+420482	executabletypeimpl	getparametertypes	include	type	annotation	type	parameter	type	method	parameter	test	binary	annotation	completion	signature	annotations	memento
+424075	bug	compiler	regression	test	compiler	expected	output	manifest	method	classpath	string	cascaded	work
+401035	tests	started	failing	test	type	create	parse	token	find	big	count	tag	reconcile
+411273	compiler	bogus	error	unhandled	exceptions	unchecked	exceptions	thrown	method	reference	exceptions	type	flow	context	binding	exception	method	cache	constructor	node
+181393	bug	defaultastvisitor	doesn	override	methods	method	type	test	inherited	check	methods	annotation	clash	overridden	rules
+398490	don	source	file	build	path	test	type	build	project	source	file	compilation	generated	tests	declaration
+415911	compiler	npe	type	annotated	method	missing	type	type	annotation	method	annotations	create	types	bound	synthetic	annotated	code
+135328	bug	ejb	creation	wizard	fails	ejb	jar	xml	invalid	test	classpath	project	source	entry	output	jar	library	add	file
+391331	compiler	compiler	replicate	annotations	mixed	targets	test	annotation	type	check	element	annotations	repeatable	report	javac	target
+421536	compiler	verify	error	small	program	preserved	unused	variables	test	variable	java	string	classpath	type	dir	options	output	compiler
+24747	bug	incorrect	compile	error	message	test	log	path	problem	type	problems	output	classpath	compiler	inference
+426676	compiler	wrong	method	type	inferred	lambda	expression	type	inference	expression	variable	argument	check	method	invocation	result	compatible
+414384	type	annotation	abbreviated	marked	type	annotation	type	binding	marker	node	test	ast	bindings	element	repeatable
+398520	bug	bindings	annotations	annotations	binary	constructor	match	source	code	type	method	annotation	create	annotations	element	types	binary	reference	match
+176320	bug	linear	progress	open	type	dialog	test	add	project	java	path	element	classpath	folder	remove	list
+124099	bug	compiler	incorrect	merge	flowinfo	unconditionalflowinfo	addinitializationsfrom	flow	info	exception	record	field	info	code	inits	mark	flow	scope	initialization
+381121	grammar	arrays	allowed	reference	expressions	local	mask	check	extended	element	method	supporting	level	references	source
+388800	adjust	tests	jre	libs	virtual	problem	environment	processing	output	values	batch	evaluation	file
+399567	error	message	reference	compiler	type	log	test	consume	error	problem	annotation	path	file	source
+480462	bug	add	external	annotations	guava	libraries	project	classpath	java	status	map	reverse	listener	change	node	output
+483534	bug	search	open	method	error	parameterized	methods	type	method	enclosing	reference	lang	search	scope	pattern	declaration	match
+65738	bug	builder	build	automatically	save	cache	classpath	manager	container	path	initialization	entry	variables	listener	raw
+110797	bug	multiple	task	tags	single	tasks	view	complete	tag	log	classpath	test	java	path	file	source	tag	problem	completion
+43212	bug	variable	recognized	code	completion	completion	type	test	method	field	unresolved	find	variable	token	basic
+456395	bug	compile	java	code	type	file	expression	output	folder	check	test	processor	compiler	arity
+404169	bug	deprecation	warnings	test	projects	junit	framework	result	search	values	count	format	number	print	stream	variable	event
+427223	bug	compiler	npe	resolution	method	arg	type	type	test	check	method	inference	local	annotation	annotations	expression	source
+429279	java	search	support	degrades	indexing	performance	search	path	element	document	java	system	relative	type	compilation	project
+475865	jdt	deletes	code	file	project	test	delete	code	source	reconcile	variable	snippet	root
+366298	publish	org	eclipse	jdt	annotation	bundle	test	project	java	output	options	annotation	tests	create	expected	path
+413913	investigate	failures	test	failure	number	points	formatter	view	progress	marker	start	tests
+420582	compiler	compiler	creation	array	creation	unbounded	wildcard	type	arguments	type	consume	expression	declaration	method	empty	annotation	array	retrieve	create
+471270	bug	enrich	illegalargumentsexceptions	actual	arguments	org	eclipse	jdt	internal	core	util	util	type	expression	dir	method	code	exception	inference	source	annotation	string
+427748	bug	compiler	convert	type	test	type	source	compilation	expression	string	element	method	unresolved	reference
+490724	bug	compiler	compilation	source	classfile	aborts	reference	member	type	parameterized	type	type	method	create	lang	binding	test	annotation	types	binary	source
+126180	bug	compiler	npe	reporting	invalid	enclosing	type	type	potential	arguments	variable	receiver	binding	context	target	method	lookup
+418528	internal	tests	pass	suite	fail	suite	suites	test	compliance	tests	context	build	create	suite	zip	compilation	enclosing
+416480	bug	error	bytecode	generated	ecj	compiler	leads	incompatibleclasschangeerror	test	file	output	compiler	expected	string	source	manifest	type	detector
+383714	compiler	compile	fails	reject	constructs	modes	type	log	file	test	output	files	path	annotations	problems	current
+415470	compiler	type	annotations	declaration	vanishing	type	expression	annotation	declaration	source	retrieve	method	annotations	start	field
+27370	bug	code	assist	working	java	annotation	cache	copy	compilation	cursor	start	type	token	binary
+3313	severe	performance	java	model	redundancies	gfktun	test	scenario	format	java	compilation	measuring	string	measures	stream	prop
+420084	method	resolved	receiver	imported	statically	type	completion	receiver	potential	start	binary	method	binding	inference	signature
+421620	compiler	wrong	compile	error	type	annotation	exception	test	compiler	source	javac	file	type	problem	java	output	expected
+357110	bug	problem	classes	referenced	jars	folders	type	resolved	classpath	cache	manager	raw	path	container	preferences	initialization	entry	variables
+399600	astconverter	retrieveendofrightparenthesisposition	fails	cases	string	test	type	method	vector	javac	block	init	pool	statements
+419057	itypebinding	getmodifiers	misses	implicit	member	type	binding	imports	bindings	pair	ast	copy	annotation	context	variable
+103672	bug	compiler	problem	varargs	argument	explains	solutions	type	method	check	inference	argument	lang	expression	variable	enclosing	invocation
+193784	bug	proprietary	licenses	javadoc	comment	report	process	original	string	annotations	path	options	buffer
+421628	dom	ast	api	document	rules	itypebinding	equality	type	declaration	create	annotation	expression	bindings	test	array	mirror	binding
+86779	bug	ast	resolvewellknowntype	support	primitive	type	wrappers	type	unit	binding	comment	comp	ast	saved	reference	project	cache
+209661	bug	ilocalvariable	method	parameter	misses	annotations	type	test	source	method	declaration	member	property	resolve	element	field
+403705	investigate	failures	test	failure	number	points	formatter	view	progress	marker	start	tests
+42243	bug	incorrect	syntax	diagnosis	source	mode	type	exception	start	exit	accept	init	routine	enter	reference	string
+14597	bug	rearrange	source	code	type	declaration	expression	source	method	statement	compilation	node	create	annotation
+456960	bug	broken	classfile	generated	incorrect	annotation	usage	type	method	annotation	invalid	field	constructor	reference	illegal	array	javadoc
+385293	compiler	compiler	accepts	normal	modifiers	type	arguments	type	expression	consume	method	annotation	declaration	source	retrieve	test	create
+424718	compiler	api	compatibility	ast	typereference	type	potential	receiver	binding	method	variable	reference	inference	parameters	contexts
+335118	bug	avoid	code	pattern	unnecessarily	signal	potential	jdt	core	code	flow	ide	auto	ident	type	participant	search	undo	tag	ables
+484114	bug	content	assist	flow	sensitive	typing	doesn	work	autocompletion	condition	expression	field	test	type	scope	code	mark	info	optimized	status
+363293	bug	resource	leaks	org	eclipse	jdt	compiler	tool	tests	variable	annoproc	utilsproc	inherited	type	ables	close	binding	local
+429340	bug	content	assist	javadoc	proposals	deprecated	tag	type	completion	find	java	variable	relevance	types	method	element	node
+25377	bug	error	location	correct	empty	array	initializer	reference	classpath	list	scratch	ide	property	node	auto	ident	annotations
+418599	bug	rid	compile	warnings	official	build	reference	processor	compiler	problem	logs	command	print	progress	units	total
+25890	bug	code	assist	displays	members	expressions	binding	argument	node	progress	cache	slot	variables	target	type	inference
+410402	investigate	failures	test	failure	number	points	formatter	view	progress	marker	start	tests
+424226	method	method	reference	type	cache	method	field	binding	synthetic	methods	receiver	potential	pool
+177962	bug	timestamp	working	copy	test	type	add	external	classpath	container	cache	element	remove	save
+445231	bug	compiler	illegalaccesserror	running	eclipse	compiled	test	expecting	annotation	problems	tests	java	build	compiler	type	project
+466730	bug	java	single	method	generics	ambiguous	inheritance	type	test	consume	method	expression	reference	annotation	declaration	additional	boxing
+145202	bug	positive	reference	analyzer	negated	type	test	annotation	expected	binding	imports	output	compiler	classpath	context
+415541	compiler	type	annotations	body	initializer	dropped	type	field	local	declaration	recovered	pending	count	enum	source	constructor
+104245	bug	ast	newcompilationunit	javadoc	error	type	token	parse	string	tag	create	reference	code	position	annotation
+30516	bug	typo	javadoc	ipackagefragmentroot	isarchive	paths	path	array	enclosing	type	project	fragment	source	copy	annotation
+153399	bug	javadoc	jdt	core	warn	tag	correctly	test	log	file	path	comment	problems	source	output	classpath	extra
+341296	bug	classpath	file	read	modifications	write	error	path	entry	classpath	type	progress	output	project	library	invalid	method
+384317	compiler	smarts	needed	scanner	jumpover	ptr	comment	length	start	node	completion	count	correction	sibling	tags
+301894	bug	outofmemory	error	building	large	project	annotations	test	file	project	type	path	entry	method	progress	output	annotation
+433989	bug	nested	reference	incorrectly	marked	compile	error	test	type	tracking	variable	method	local	scope	lambda	check	reference
+11076	bug	deleted	configs	remain	favorite	list	file	project	reconcile	delta	path	element	type	add	completion	source
+462147	bug	documentation	compiler	options	mars	cycle	bound	list	resolved	change	node	entry	type	reference	javadoc	missing
+384320	compiler	syntax	error	mixing	type	annotations	reference	expressions	test	type	expression	source	code	result	kosher	parameter	exception	problem
+78151	bug	insert	single	proposals	automatically	insert	prefix	type	test	indent	rewrite	node	insert	declaration	comment	expression	empty
+398158	receiver	qualifier	simple	qualified	type	test	consume	expression	declaration	check	node	retrieve	completion	annotation
+391500	compiler	type	annotations	qualified	allocation	expressions	dropped	report	type	method	annotation	parameter	unused	missing	reference	warning	overriding
+399695	compiler	migrate	parser	syntax	methods	source	type	field	declaration	string	point	copy	allocation	compiler	constants
+51529	bug	organize	imports	confused	references	javadoc	imports	type	test	javadoc	reference	demand	comment	declaration	add	string
+179529	bug	eclipse	takes	lot	time	big	workspace	test	type	project	file	java	path	token	find	big	jar
+29516	bug	searchengine	regressions	test	search	type	scope	declaration	method	pattern	constructor	document	ignore
+480075	bug	nested	terniary	lambda	derives	unknown	type	binding	potential	method	receiver	variable	instance	scope	variables	argument
+386901	bug	eclipse	pass	annotated	classes	annotation	processor	test	type	unit	processing	annotated	elements	reference	string	examine	file
+249692	bug	importrewriteanalyzer	honor	formatter	setting	declaration	imports	rewrite	comment	test	brace	lines	formatter	type	level
+83297	bug	annotation	bindings	don	provide	declared	elements	methods	type	test	element	binding	method	source	annotation	visible	java	elements
+29536	bug	check	iresource	getlocation	project	classpath	path	delta	element	java	change	test	entry	file
+487781	bug	bogus	error	editor	referenced	type	type	annotations	type	parameter	type	local	processor	method	check	source	block	statement	empty	element
+403810	tags	adjusting	tags	completion	javadoc	test	property	method	missing	error	field	support
+73573	bug	codeassist	arrayindexoutofboundsexception	genric	type	completion	completion	type	test	method	field	unresolved	element	create	find	basic
+148328	bug	javadoc	nested	unescaped	xml	tags	test	classpath	log	source	extra	file	path	javadoc	cycle	verify
+396139	define	jre	build	targeting	beta	java	bounds	type	variable	libs	virtual	java	problem	output	ged	processing
+484220	bug	dom	ast	compiler	invalid	ast	structure	token	type	source	parse	test	wrap	declaration	tag	method	position
+417659	dom	ast	test	failures	ast	structure	debug	tracing	type	wrap	source	declaration	expression	comment	ast	element	creation	verify
+402818	formatter	code	carrying	interfaces	halt	formatting	hold	formatter	width	event	info	store	measuring	tenance	main	dir
+402819	formatter	formatting	intersection	types	hold	formatter	width	event	info	store	measuring	tenance	main	dir
+405889	compiler	codegen	resilience	npe	needed	scope	getjavalanginvokemethodhandleslookup	type	scope	access	inference	generate	expression	context	field	method	target
+340365	bug	problems	apis	trystatementwithresources	disjunctivetype	test	type	method	annotation	source	classpath	buffer	project	add	change
+168331	bug	compiler	abstractmethoderror	method	test	problem	type	error	temp	method	result	policy	lambda	message
+383884	compiler	compiler	tolerates	illegal	dimension	annotation	literal	expressions	type	test	expression	declaration	retrieve	convert	array	literal	source	method
+424845	wrong	resolution	type	compliance	settings	source	level	formatter	point	copy	type	java	options	supporting	paths
+30099	bug	namingconvention	suggestargumentnames	guess	returned	type	element	test	method	token	file	string	extended	completion	zip
+30102	bug	namingconvention	tests	fail	logs	transitions	processing	file	row	table	compared	mark	dir	start
+422800	compiler	missing	code	implementation	compiler	report	type	method	annotation	parameter	unused	missing	warning	overriding	reference
+483228	bug	adopt	jls	revision	test	type	declaration	expression	doc	method	statement	node	string	annotation
+399768	dom	ast	type	annotation	tests	test	annotation	type	binding	marker	node	ast	source	binary	annotations
+399769	compiler	identifier	trigger	diagnostic	test	file	compiler	compilation	source	diagnostic	javac	num	type	resource
+381345	care	java	major	version	acc	constant	count	compiler	method	bad	file	err	problems	fixed
+364450	dubious	path	error	triggers	full	rebuild	test	java	project	remove	source	add	file	classpath	type	missing
+147877	bug	source	array	access	isn	correct	binding	classpath	java	enum	project	element	compilation	progress	problem	working
+381358	compiler	gracefully	reject	jsr	constructs	source	levels	source	reference	element	compliance	dimensions	annotation	test	directory	local	javadoc
+403881	formatter	receiver	parameter	halts	formatting	test	indent	dir	create	comment	string	file	formatter	indentation	init
+36271	bug	codeassist	treat	array	clone	visible	token	extended	types	java	compilation	location	container	exception	bidden	auto
+485302	bug	missing	warnings	wildcards	annotations	type	annotation	method	scope	code	binding	check	recursive	types	parameterized
+416181	compiler	inalid	assignment	rejected	compiler	type	method	enclosing	bypass	hides	parameterized	invocation	parameter	mismatch	ective
+41395	bug	stackoverflowerror	pasting	code	type	binding	max	ast	references	values	pending	substitute	recursive	declaring
+162740	bug	error	website	test	file	type	member	javadoc	reference	qualified	single	lambda	valid
+343480	bug	compiler	incorrect	confusing	error	message	field	declaration	type	method	annotation	reference	field	expression	error	variable	invalid	array
+428985	bug	type	inference	find	nullness	annotated	type	type	check	binding	argument	bound	annotation	method	code	tag	bounds
+79809	bug	dom	javadoc	support	type	parameter	javadoc	tags	tags	test	source	method	string	verify	error	type	javadoc	field
+25539	unexpected	inaccurate	search	lookup	accessed	fields	resource	participant	matching	search	nodes	doc	comment
+406469	dom	ast	astrewrite	support	packagequalifiedtype	property	ast	java	element	occurred	unit	compilation	insertion	creation	policy
+497603	bug	compiler	type	inference	bug	type	inference	method	check	variable	reference	bound	expression	binding	argument
+318401	bug	fup	clarify	eclipse	compiler	behavior	imports	shadowing	imports	type	test	nest	single	root	compilation	context	fragment	kind
+71113	improve	dom	ast	specs	bindings	jls	constructs	type	declaration	expression	property	marker	binding	bindings	statement	node	method
+73675	bug	dom	ast	creation	pipeline	test	type	annotation	binding	declaration	decl	source	processor	binary	working
+339913	bug	compiler	misleading	error	message	annotations	method	body	consume	type	expression	assist	element	declaration	method	annotation	recovery	statement
+80339	bug	wrong	error	message	expected	writing	test	compiler	string	output	expected	extra	manifest	normalizer	expression	problem
+148944	bug	render	resource	folders	jars	project	paths	folder	folders	classpath	projects	source	strings	path	type
+144858	bug	compiler	resilient	duplicate	locals	test	type	string	method	scope	tracking	variable	local	expected	compiler
+417759	npe	analysis	test	type	annotation	code	save	expression	check	flow	synthetic	lone
+26588	bug	code	assist	variable	relevant	initialization	completion	type	element	node	signature	visible	binding	start	declaration	kind
+69598	auto	completion	loop	flow	exception	count	variable	reference	contexts	java	compilation	ching	ward
+165346	bug	compiler	org	eclipse	jdt	internal	compiler	ast	operatorexpression	nullstatus	flowinfo	conservative	type	check	record	exception	flow	context	expression	field	code	info
+396258	adopt	syntax	annotations	qualified	type	names	nulltypeannotationtest	test	type	method	consume	expression	statement	syntax	info	create	declaration
+383968	compiler	update	checking	method	modifiers	methods	type	method	declaration	field	local	recovered	check	count	block	enum
+230885	bug	content	assist	npe	parameterguesser	createvariable	test	type	completion	element	binding	annotation	code	source	memento	method
+383970	compiler	detail	message	illegal	modifier	method	misses	type	method	annotation	field	invalid	reference	constructor	error	variable	illegal
+334315	bug	compiler	problem	types	missing	superclass	superinterfaces	object	missing	types	type	field	methods	bound	declaration	binding	source	exception	allocation	unit
+426998	compiler	method	java	lang	java	lang	string	applicable	arguments	java	lang	java	lang	string	test	regression	options	doc	compiler	support	lambda	method	constructor	type
+450037	bug	compiler	bogus	error	message	unhandled	exception	type	object	test	type	string	level	lambda	boxing	hash	supporting	loop	options
+430069	test	failures	jre	test	add	dir	failure	source	create	string	error	tree	init
+424444	verifyerror	constructor	reference	primitive	array	type	declaration	annotation	expression	method	element	array	test	binding	member
+481276	bug	error	markers	removed	fixing	annotations	test	classpath	type	project	source	external	jar	add	file	path
+96765	bug	code	completion	work	enum	constants	test	completion	find	search	container	type	classpath	verify	constant	create
+441338	bug	combine	type	annotations	substitution	parameterized	type	type	binding	bounds	method	variable	element	unchecked	source	auto	ast
+412155	compiler	calling	deprecated	method	separate	lambda	classcastexception	terminates	ast	generation	type	method	expression	declaration	variable	check	tracking	field	constructor	access
+291322	bug	test	errors	running	jdt	core	tests	windows	test	compiler	file	dir	tests	source	output	javac	processor	string

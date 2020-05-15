@@ -1,0 +1,28 @@
+36800	bug	find	replace	find	replace	dialog	retain	previous	replace	text	color	test	format	time	writer	create	text	layout	request	event
+41219	stacktraces	exceptions	disappear	occsionally	pattern	test	buffer	writer	layout	expected	stack	info	entry	database
+41156	log	threads	reasonable	names	test	facility	time	string	stack	debug	names	tag	gram	print
+41476	bug	cvs	repository	explorer	fails	filename	colon	character	test	parse	file	pattern	top	logger	element	rolling	appender	throwable
+45636	tests	datelayout	failing	ill	initialized	dateformat	time	format	printing	pref	start	zone	string	field	logging	position
+32582	bug	logical	physical	mapping	problem	model	element	files	problem	parse	element	test	appender	layout	add	format	table	start	watch
+17862	version	getversion	method	requested	method	cached	server	request	key	format	time	socket	info	pattern
+46983	Bug	Generalize	type	meaning	grey	tree	entries
+48784	links	code	broken	javadocs	appender	add	level	renderer	object	file	logger	log	period	enabled
+49812	Bug	Choosing	bean	component	palette	takes	time
+41565	timezone	specifier	pattern	layout	reported	work	format	pattern	layout	converter	expected	test	info	time	option	buffer
+45982	support	layout	specification	output	mdc	key	pairs	pattern	lookup	key	logger	info	time	method	copy	mdc	handles
+44386	bug	bookmarks	bookmark	single	click	test	bad	appender	debug	string	pattern	info	logrb	log	trace
+44644	contenttype	layout	text	html	file	type	uting	comp	server	parent	string	foo	path	ignores
+28647	add	flush	level	capability	fileappender	test	appender	event	logger	error	add	multicast	trace	throwable	layout
+42281	Unit	tests	fail	java	gcj	JRockit
+43113	move	log	branch	log	trunk	pattern	debug	log	error	converter	info	logrb	trace	arg	test
+42283	eclipse	java	compiler	warnings	usused	imports	members	serializationuid	file	appender	pattern	test	add	logger	key	debug	parse	renderer
+49003	bug	move	members	open	reveal	moved	method	refactoring	test	pattern	appender	error	file	buffer	logger	log	add	info
+46574	bug	unabled	collect	object	reference	properly	appender	test	event	remove	thread	writer	renderer	map	request	add
+50287	bug	editormgmt	support	opening	external	editor	istorageeditorinput	test	file	logger	throwable	appender	key	server	parse	category	lookup
+42099	ExpressionFilter	backport
+40951	log	release
+35831	log	build	JDK
+34874	bug	context	menu	ijavavariable	ijavainspectexpression	ijavawatchexpression	test	throwable	layout	event	context	check	format	file	topic	appender
+42108	loggingevent	accessors	compatible	log	test	pattern	size	cell	table	event	buffer	count	location	deserialization
+37182	Exception	exception	toString	log	fail
+50238	bug	implementation	install	informationpresenter	uninstall	test	appender	logger	pattern	file	bad	error	location	log	deserialization

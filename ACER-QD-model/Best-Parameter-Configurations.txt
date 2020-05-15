@@ -1,0 +1,8 @@
+ecf J48 #Folds=27 : Improved 103 out of 154 0.6688311688311688 
+eclipse.jdt.core J48 #Folds=12 : Improved 129 out of 198 0.6515151515151515 
+eclipse.jdt.debug J48 #Folds=22 : Improved 109 out of 154 0.7077922077922078 
+eclipse.jdt.ui J48 #Folds=2 : Improved 223 out of 309 0.7216828478964401
+eclipse.pde.ui J48 #Folds=7 : Improved 186 out of 302 0.6158940397350994
+log4j J48 #Folds=22 : Improved 19 out of 28 0.6785714285714286
+sling J48 #Folds=27 : Improved 59 out of 76 0.7763157894736842
+tomcat70 J48 #Folds=2 : Improved 344 out of 454 0.7577092511013216
