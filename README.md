@@ -9,8 +9,8 @@ Accepted Paper at ASE 2017
 Improved Query Reformulation for Concept Location using CodeRank and Document Structures
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-ASE2017-pp.pdf)
 
 **Abstract:** During software maintenance, developers usually deal with a significant number of software change requests. 
 As a part of this, they often formulate an initial query from the request texts, and then attempt to map the concepts 
@@ -187,8 +187,8 @@ year={2017},
 pages={428--439}}
 
 ```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2017-pp.pdf)
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-ASE2017-pp.pdf)
 
 
 # Related Projects: [BLIZZARD](https://github.com/masud-technope/BLIZZARD-Replication-Package-ESEC-FSE2018), [STRICT](https://github.com/masud-technope/STRICT-Replication-Package), and [QUICKAR](https://github.com/masud-technope/QUICKAR-Replication-Package-ASE2016)
